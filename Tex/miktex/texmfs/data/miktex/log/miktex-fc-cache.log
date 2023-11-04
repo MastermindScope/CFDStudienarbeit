@@ -1,0 +1,129 @@
+2023-11-01 11:35:20,827+0100 INFO  miktex-fc-cache - this process (10552) started by miktex in directory C:\Users\Vinzenz Götz\Desktop\Uni\Tex with command line: miktex-fc-cache --verbose --miktex-disable-maintenance --miktex-disable-diagnose
+2023-11-01 11:35:20,828+0100 INFO  miktex-fc-cache - running on Windows 10.0.19045
+2023-11-01 11:35:32,181+0100 INFO  miktex-fc-cache - this process (10552) finishes with exit code 0
+2023-11-01 11:39:17,471+0100 INFO  miktex-fc-cache - this process (11728) started by miktex in directory C:\Users\Vinzenz Götz\Desktop\Uni\Tex\Praktikumsbericht with command line: miktex-fc-cache --miktex-disable-maintenance --miktex-disable-diagnose
+2023-11-01 11:39:17,472+0100 INFO  miktex-fc-cache - running on Windows 10.0.19045
+2023-11-01 11:39:17,854+0100 INFO  miktex-fc-cache - this process (11728) finishes with exit code 0
+2023-11-01 11:39:33,562+0100 INFO  miktex-fc-cache - this process (15924) started by miktex in directory C:\Users\Vinzenz Götz\Desktop\Uni\Tex\Praktikumsbericht with command line: miktex-fc-cache --miktex-disable-maintenance --miktex-disable-diagnose
+2023-11-01 11:39:33,562+0100 INFO  miktex-fc-cache - running on Windows 10.0.19045
+2023-11-01 11:39:33,693+0100 INFO  miktex-fc-cache - this process (15924) finishes with exit code 0
+2023-11-01 11:39:47,986+0100 INFO  miktex-fc-cache - this process (19072) started by miktex in directory C:\Users\Vinzenz Götz\Desktop\Uni\Tex\Praktikumsbericht with command line: miktex-fc-cache --miktex-disable-maintenance --miktex-disable-diagnose
+2023-11-01 11:39:47,986+0100 INFO  miktex-fc-cache - running on Windows 10.0.19045
+2023-11-01 11:39:48,109+0100 INFO  miktex-fc-cache - this process (19072) finishes with exit code 0
+2023-11-01 11:40:01,160+0100 INFO  miktex-fc-cache - this process (12528) started by miktex in directory C:\Users\Vinzenz Götz\Desktop\Uni\Tex\Praktikumsbericht with command line: miktex-fc-cache --miktex-disable-maintenance --miktex-disable-diagnose
+2023-11-01 11:40:01,161+0100 INFO  miktex-fc-cache - running on Windows 10.0.19045
+2023-11-01 11:40:01,338+0100 INFO  miktex-fc-cache - this process (12528) finishes with exit code 0
+2023-11-01 11:40:15,159+0100 INFO  miktex-fc-cache - this process (13304) started by miktex in directory C:\Users\Vinzenz Götz\Desktop\Uni\Tex\Praktikumsbericht with command line: miktex-fc-cache --miktex-disable-maintenance --miktex-disable-diagnose
+2023-11-01 11:40:15,159+0100 INFO  miktex-fc-cache - running on Windows 10.0.19045
+2023-11-01 11:40:15,297+0100 INFO  miktex-fc-cache - this process (13304) finishes with exit code 0
+2023-11-01 11:40:28,121+0100 INFO  miktex-fc-cache - this process (7680) started by miktex in directory C:\Users\Vinzenz Götz\Desktop\Uni\Tex\Praktikumsbericht with command line: miktex-fc-cache --miktex-disable-maintenance --miktex-disable-diagnose
+2023-11-01 11:40:28,121+0100 INFO  miktex-fc-cache - running on Windows 10.0.19045
+2023-11-01 11:40:28,281+0100 INFO  miktex-fc-cache - this process (7680) finishes with exit code 0
+2023-11-01 11:40:42,665+0100 INFO  miktex-fc-cache - this process (13660) started by miktex in directory C:\Users\Vinzenz Götz\Desktop\Uni\Tex\Praktikumsbericht with command line: miktex-fc-cache --miktex-disable-maintenance --miktex-disable-diagnose
+2023-11-01 11:40:42,665+0100 INFO  miktex-fc-cache - running on Windows 10.0.19045
+2023-11-01 11:40:42,793+0100 INFO  miktex-fc-cache - this process (13660) finishes with exit code 0
+2023-11-01 11:40:55,318+0100 INFO  miktex-fc-cache - this process (18132) started by miktex in directory C:\Users\Vinzenz Götz\Desktop\Uni\Tex\Praktikumsbericht with command line: miktex-fc-cache --miktex-disable-maintenance --miktex-disable-diagnose
+2023-11-01 11:40:55,318+0100 INFO  miktex-fc-cache - running on Windows 10.0.19045
+2023-11-01 11:40:55,439+0100 INFO  miktex-fc-cache - this process (18132) finishes with exit code 0
+2023-11-01 11:41:08,829+0100 INFO  miktex-fc-cache - this process (17488) started by miktex in directory C:\Users\Vinzenz Götz\Desktop\Uni\Tex\Praktikumsbericht with command line: miktex-fc-cache --miktex-disable-maintenance --miktex-disable-diagnose
+2023-11-01 11:41:08,830+0100 INFO  miktex-fc-cache - running on Windows 10.0.19045
+2023-11-01 11:41:08,986+0100 INFO  miktex-fc-cache - this process (17488) finishes with exit code 0
+2023-11-01 11:41:21,443+0100 INFO  miktex-fc-cache - this process (8332) started by miktex in directory C:\Users\Vinzenz Götz\Desktop\Uni\Tex\Praktikumsbericht with command line: miktex-fc-cache --miktex-disable-maintenance --miktex-disable-diagnose
+2023-11-01 11:41:21,443+0100 INFO  miktex-fc-cache - running on Windows 10.0.19045
+2023-11-01 11:41:21,597+0100 INFO  miktex-fc-cache - this process (8332) finishes with exit code 0
+2023-11-01 11:41:34,017+0100 INFO  miktex-fc-cache - this process (1676) started by miktex in directory C:\Users\Vinzenz Götz\Desktop\Uni\Tex\Praktikumsbericht with command line: miktex-fc-cache --miktex-disable-maintenance --miktex-disable-diagnose
+2023-11-01 11:41:34,018+0100 INFO  miktex-fc-cache - running on Windows 10.0.19045
+2023-11-01 11:41:34,147+0100 INFO  miktex-fc-cache - this process (1676) finishes with exit code 0
+2023-11-01 11:41:47,445+0100 INFO  miktex-fc-cache - this process (16816) started by miktex in directory C:\Users\Vinzenz Götz\Desktop\Uni\Tex\Praktikumsbericht with command line: miktex-fc-cache --miktex-disable-maintenance --miktex-disable-diagnose
+2023-11-01 11:41:47,445+0100 INFO  miktex-fc-cache - running on Windows 10.0.19045
+2023-11-01 11:41:47,561+0100 INFO  miktex-fc-cache - this process (16816) finishes with exit code 0
+2023-11-01 11:42:01,427+0100 INFO  miktex-fc-cache - this process (1952) started by miktex in directory C:\Users\Vinzenz Götz\Desktop\Uni\Tex\Praktikumsbericht with command line: miktex-fc-cache --miktex-disable-maintenance --miktex-disable-diagnose
+2023-11-01 11:42:01,428+0100 INFO  miktex-fc-cache - running on Windows 10.0.19045
+2023-11-01 11:42:01,575+0100 INFO  miktex-fc-cache - this process (1952) finishes with exit code 0
+2023-11-01 11:42:16,539+0100 INFO  miktex-fc-cache - this process (14024) started by miktex in directory C:\Users\Vinzenz Götz\Desktop\Uni\Tex\Praktikumsbericht with command line: miktex-fc-cache --miktex-disable-maintenance --miktex-disable-diagnose
+2023-11-01 11:42:16,539+0100 INFO  miktex-fc-cache - running on Windows 10.0.19045
+2023-11-01 11:42:16,662+0100 INFO  miktex-fc-cache - this process (14024) finishes with exit code 0
+2023-11-01 11:42:32,857+0100 INFO  miktex-fc-cache - this process (13404) started by miktex in directory C:\Users\Vinzenz Götz\Desktop\Uni\Tex\Praktikumsbericht with command line: miktex-fc-cache --miktex-disable-maintenance --miktex-disable-diagnose
+2023-11-01 11:42:32,857+0100 INFO  miktex-fc-cache - running on Windows 10.0.19045
+2023-11-01 11:42:33,020+0100 INFO  miktex-fc-cache - this process (13404) finishes with exit code 0
+2023-11-01 11:42:47,755+0100 INFO  miktex-fc-cache - this process (8888) started by miktex in directory C:\Users\Vinzenz Götz\Desktop\Uni\Tex\Praktikumsbericht with command line: miktex-fc-cache --miktex-disable-maintenance --miktex-disable-diagnose
+2023-11-01 11:42:47,755+0100 INFO  miktex-fc-cache - running on Windows 10.0.19045
+2023-11-01 11:42:47,870+0100 INFO  miktex-fc-cache - this process (8888) finishes with exit code 0
+2023-11-01 11:43:01,335+0100 INFO  miktex-fc-cache - this process (12432) started by miktex in directory C:\Users\Vinzenz Götz\Desktop\Uni\Tex\Praktikumsbericht with command line: miktex-fc-cache --miktex-disable-maintenance --miktex-disable-diagnose
+2023-11-01 11:43:01,335+0100 INFO  miktex-fc-cache - running on Windows 10.0.19045
+2023-11-01 11:43:01,458+0100 INFO  miktex-fc-cache - this process (12432) finishes with exit code 0
+2023-11-01 11:43:15,619+0100 INFO  miktex-fc-cache - this process (8124) started by miktex in directory C:\Users\Vinzenz Götz\Desktop\Uni\Tex\Praktikumsbericht with command line: miktex-fc-cache --miktex-disable-maintenance --miktex-disable-diagnose
+2023-11-01 11:43:15,619+0100 INFO  miktex-fc-cache - running on Windows 10.0.19045
+2023-11-01 11:43:15,757+0100 INFO  miktex-fc-cache - this process (8124) finishes with exit code 0
+2023-11-01 11:43:30,259+0100 INFO  miktex-fc-cache - this process (11812) started by miktex in directory C:\Users\Vinzenz Götz\Desktop\Uni\Tex\Praktikumsbericht with command line: miktex-fc-cache --miktex-disable-maintenance --miktex-disable-diagnose
+2023-11-01 11:43:30,260+0100 INFO  miktex-fc-cache - running on Windows 10.0.19045
+2023-11-01 11:43:30,397+0100 INFO  miktex-fc-cache - this process (11812) finishes with exit code 0
+2023-11-01 11:43:45,034+0100 INFO  miktex-fc-cache - this process (5356) started by miktex in directory C:\Users\Vinzenz Götz\Desktop\Uni\Tex\Praktikumsbericht with command line: miktex-fc-cache --miktex-disable-maintenance --miktex-disable-diagnose
+2023-11-01 11:43:45,034+0100 INFO  miktex-fc-cache - running on Windows 10.0.19045
+2023-11-01 11:43:45,219+0100 INFO  miktex-fc-cache - this process (5356) finishes with exit code 0
+2023-11-01 11:43:59,916+0100 INFO  miktex-fc-cache - this process (11936) started by miktex in directory C:\Users\Vinzenz Götz\Desktop\Uni\Tex\Praktikumsbericht with command line: miktex-fc-cache --miktex-disable-maintenance --miktex-disable-diagnose
+2023-11-01 11:43:59,916+0100 INFO  miktex-fc-cache - running on Windows 10.0.19045
+2023-11-01 11:44:00,042+0100 INFO  miktex-fc-cache - this process (11936) finishes with exit code 0
+2023-11-01 11:44:13,884+0100 INFO  miktex-fc-cache - this process (14836) started by miktex in directory C:\Users\Vinzenz Götz\Desktop\Uni\Tex\Praktikumsbericht with command line: miktex-fc-cache --miktex-disable-maintenance --miktex-disable-diagnose
+2023-11-01 11:44:13,884+0100 INFO  miktex-fc-cache - running on Windows 10.0.19045
+2023-11-01 11:44:14,064+0100 INFO  miktex-fc-cache - this process (14836) finishes with exit code 0
+2023-11-01 11:44:29,277+0100 INFO  miktex-fc-cache - this process (13600) started by miktex in directory C:\Users\Vinzenz Götz\Desktop\Uni\Tex\Praktikumsbericht with command line: miktex-fc-cache --miktex-disable-maintenance --miktex-disable-diagnose
+2023-11-01 11:44:29,277+0100 INFO  miktex-fc-cache - running on Windows 10.0.19045
+2023-11-01 11:44:29,410+0100 INFO  miktex-fc-cache - this process (13600) finishes with exit code 0
+2023-11-01 11:44:44,086+0100 INFO  miktex-fc-cache - this process (13028) started by miktex in directory C:\Users\Vinzenz Götz\Desktop\Uni\Tex\Praktikumsbericht with command line: miktex-fc-cache --miktex-disable-maintenance --miktex-disable-diagnose
+2023-11-01 11:44:44,086+0100 INFO  miktex-fc-cache - running on Windows 10.0.19045
+2023-11-01 11:44:44,235+0100 INFO  miktex-fc-cache - this process (13028) finishes with exit code 0
+2023-11-01 11:44:59,517+0100 INFO  miktex-fc-cache - this process (19216) started by miktex in directory C:\Users\Vinzenz Götz\Desktop\Uni\Tex\Praktikumsbericht with command line: miktex-fc-cache --miktex-disable-maintenance --miktex-disable-diagnose
+2023-11-01 11:44:59,517+0100 INFO  miktex-fc-cache - running on Windows 10.0.19045
+2023-11-01 11:44:59,664+0100 INFO  miktex-fc-cache - this process (19216) finishes with exit code 0
+2023-11-01 11:45:12,463+0100 INFO  miktex-fc-cache - this process (14084) started by miktex in directory C:\Users\Vinzenz Götz\Desktop\Uni\Tex\Praktikumsbericht with command line: miktex-fc-cache --miktex-disable-maintenance --miktex-disable-diagnose
+2023-11-01 11:45:12,463+0100 INFO  miktex-fc-cache - running on Windows 10.0.19045
+2023-11-01 11:45:12,625+0100 INFO  miktex-fc-cache - this process (14084) finishes with exit code 0
+2023-11-01 11:45:26,293+0100 INFO  miktex-fc-cache - this process (15164) started by miktex in directory C:\Users\Vinzenz Götz\Desktop\Uni\Tex\Praktikumsbericht with command line: miktex-fc-cache --miktex-disable-maintenance --miktex-disable-diagnose
+2023-11-01 11:45:26,309+0100 INFO  miktex-fc-cache - running on Windows 10.0.19045
+2023-11-01 11:45:26,429+0100 INFO  miktex-fc-cache - this process (15164) finishes with exit code 0
+2023-11-01 11:45:41,371+0100 INFO  miktex-fc-cache - this process (11728) started by miktex in directory C:\Users\Vinzenz Götz\Desktop\Uni\Tex\Praktikumsbericht with command line: miktex-fc-cache --miktex-disable-maintenance --miktex-disable-diagnose
+2023-11-01 11:45:41,371+0100 INFO  miktex-fc-cache - running on Windows 10.0.19045
+2023-11-01 11:45:41,490+0100 INFO  miktex-fc-cache - this process (11728) finishes with exit code 0
+2023-11-01 11:45:54,785+0100 INFO  miktex-fc-cache - this process (3508) started by miktex in directory C:\Users\Vinzenz Götz\Desktop\Uni\Tex\Praktikumsbericht with command line: miktex-fc-cache --miktex-disable-maintenance --miktex-disable-diagnose
+2023-11-01 11:45:54,786+0100 INFO  miktex-fc-cache - running on Windows 10.0.19045
+2023-11-01 11:45:54,892+0100 INFO  miktex-fc-cache - this process (3508) finishes with exit code 0
+2023-11-01 11:46:09,726+0100 INFO  miktex-fc-cache - this process (10860) started by miktex in directory C:\Users\Vinzenz Götz\Desktop\Uni\Tex\Praktikumsbericht with command line: miktex-fc-cache --miktex-disable-maintenance --miktex-disable-diagnose
+2023-11-01 11:46:09,726+0100 INFO  miktex-fc-cache - running on Windows 10.0.19045
+2023-11-01 11:46:09,849+0100 INFO  miktex-fc-cache - this process (10860) finishes with exit code 0
+2023-11-01 11:46:23,820+0100 INFO  miktex-fc-cache - this process (8324) started by miktex in directory C:\Users\Vinzenz Götz\Desktop\Uni\Tex\Praktikumsbericht with command line: miktex-fc-cache --miktex-disable-maintenance --miktex-disable-diagnose
+2023-11-01 11:46:23,820+0100 INFO  miktex-fc-cache - running on Windows 10.0.19045
+2023-11-01 11:46:23,939+0100 INFO  miktex-fc-cache - this process (8324) finishes with exit code 0
+2023-11-01 11:46:39,692+0100 INFO  miktex-fc-cache - this process (3684) started by miktex in directory C:\Users\Vinzenz Götz\Desktop\Uni\Tex\Praktikumsbericht with command line: miktex-fc-cache --miktex-disable-maintenance --miktex-disable-diagnose
+2023-11-01 11:46:39,692+0100 INFO  miktex-fc-cache - running on Windows 10.0.19045
+2023-11-01 11:46:39,830+0100 INFO  miktex-fc-cache - this process (3684) finishes with exit code 0
+2023-11-01 11:46:53,570+0100 INFO  miktex-fc-cache - this process (14940) started by miktex in directory C:\Users\Vinzenz Götz\Desktop\Uni\Tex\Praktikumsbericht with command line: miktex-fc-cache --miktex-disable-maintenance --miktex-disable-diagnose
+2023-11-01 11:46:53,570+0100 INFO  miktex-fc-cache - running on Windows 10.0.19045
+2023-11-01 11:46:53,728+0100 INFO  miktex-fc-cache - this process (14940) finishes with exit code 0
+2023-11-01 11:47:09,068+0100 INFO  miktex-fc-cache - this process (1624) started by miktex in directory C:\Users\Vinzenz Götz\Desktop\Uni\Tex\Praktikumsbericht with command line: miktex-fc-cache --miktex-disable-maintenance --miktex-disable-diagnose
+2023-11-01 11:47:09,068+0100 INFO  miktex-fc-cache - running on Windows 10.0.19045
+2023-11-01 11:47:09,199+0100 INFO  miktex-fc-cache - this process (1624) finishes with exit code 0
+2023-11-01 11:47:23,739+0100 INFO  miktex-fc-cache - this process (12004) started by miktex in directory C:\Users\Vinzenz Götz\Desktop\Uni\Tex\Praktikumsbericht with command line: miktex-fc-cache --miktex-disable-maintenance --miktex-disable-diagnose
+2023-11-01 11:47:23,739+0100 INFO  miktex-fc-cache - running on Windows 10.0.19045
+2023-11-01 11:47:23,861+0100 INFO  miktex-fc-cache - this process (12004) finishes with exit code 0
+2023-11-01 11:47:37,711+0100 INFO  miktex-fc-cache - this process (17228) started by miktex in directory C:\Users\Vinzenz Götz\Desktop\Uni\Tex\Praktikumsbericht with command line: miktex-fc-cache --miktex-disable-maintenance --miktex-disable-diagnose
+2023-11-01 11:47:37,711+0100 INFO  miktex-fc-cache - running on Windows 10.0.19045
+2023-11-01 11:47:37,869+0100 INFO  miktex-fc-cache - this process (17228) finishes with exit code 0
+2023-11-01 11:47:52,941+0100 INFO  miktex-fc-cache - this process (16396) started by miktex in directory C:\Users\Vinzenz Götz\Desktop\Uni\Tex\Praktikumsbericht with command line: miktex-fc-cache --miktex-disable-maintenance --miktex-disable-diagnose
+2023-11-01 11:47:52,941+0100 INFO  miktex-fc-cache - running on Windows 10.0.19045
+2023-11-01 11:47:53,062+0100 INFO  miktex-fc-cache - this process (16396) finishes with exit code 0
+2023-11-01 19:45:09,378+0100 INFO  miktex-fc-cache - this process (9900) started by miktex in directory C:\Users\Vinzenz Götz\Desktop\Uni\Tex\miktex with command line: miktex-fc-cache --miktex-disable-maintenance --miktex-disable-diagnose
+2023-11-01 19:45:09,378+0100 INFO  miktex-fc-cache - running on Windows 10.0.19045
+2023-11-01 19:45:09,692+0100 INFO  miktex-fc-cache - this process (9900) finishes with exit code 0
+2023-11-01 19:51:09,724+0100 INFO  miktex-fc-cache - this process (19136) started by miktex in directory C:\Users\Vinzenz Götz\Desktop\Uni\Tex\miktex with command line: miktex-fc-cache --miktex-disable-maintenance --miktex-disable-diagnose
+2023-11-01 19:51:09,724+0100 INFO  miktex-fc-cache - running on Windows 10.0.19045
+2023-11-01 19:51:09,830+0100 INFO  miktex-fc-cache - this process (19136) finishes with exit code 0
+2023-11-01 19:51:50,384+0100 INFO  miktex-fc-cache - this process (11124) started by miktex in directory C:\Users\Vinzenz Götz\Desktop\Uni\Tex\miktex with command line: miktex-fc-cache --verbose --miktex-disable-maintenance --miktex-disable-diagnose
+2023-11-01 19:51:50,384+0100 INFO  miktex-fc-cache - running on Windows 10.0.19045
+2023-11-01 19:51:50,511+0100 INFO  miktex-fc-cache - this process (11124) finishes with exit code 0
+2023-11-01 19:52:09,371+0100 INFO  miktex-fc-cache - this process (13440) started by miktex in directory C:\Users\Vinzenz Götz\Desktop\Uni\Tex\miktex with command line: miktex-fc-cache --miktex-disable-maintenance --miktex-disable-diagnose
+2023-11-01 19:52:09,372+0100 INFO  miktex-fc-cache - running on Windows 10.0.19045
+2023-11-01 19:52:09,501+0100 INFO  miktex-fc-cache - this process (13440) finishes with exit code 0
+2023-11-01 20:25:30,483+0100 INFO  miktex-fc-cache - this process (17176) started by miktex in directory C:\Users\Vinzenz Götz\Desktop\Uni\Aero\Studienarbeit_Aeroelastik_WS2023\TexDinge with command line: miktex-fc-cache --miktex-disable-maintenance --miktex-disable-diagnose
+2023-11-01 20:25:30,483+0100 INFO  miktex-fc-cache - running on Windows 10.0.19045
+2023-11-01 20:25:30,628+0100 INFO  miktex-fc-cache - this process (17176) finishes with exit code 0

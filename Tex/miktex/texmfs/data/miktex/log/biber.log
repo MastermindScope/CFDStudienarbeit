@@ -1,0 +1,128 @@
+2023-11-01 20:17:14,836+0100 INFO  biber - this process (10272) started by texmaker in directory C:\Users\Vinzenz Götz\Desktop\Uni\Aero\Studienarbeit_Aeroelastik_WS2023\TexDinge with command line: biber thesis
+2023-11-01 20:17:14,836+0100 INFO  biber - running on Windows 10.0.19045
+2023-11-01 20:17:14,852+0100 INFO  biber.core - start process: biber thesis
+2023-11-01 20:18:02,869+0100 INFO  biber - this process (10272) finishes with exit code 0
+2023-11-01 20:22:56,091+0100 INFO  biber - this process (14368) started by texmaker in directory C:\Users\Vinzenz Götz\Desktop\Uni\Aero\Studienarbeit_Aeroelastik_WS2023\TexDinge with command line: biber thesis
+2023-11-01 20:22:56,092+0100 INFO  biber - running on Windows 10.0.19045
+2023-11-01 20:22:56,111+0100 INFO  biber.core - start process: biber thesis
+2023-11-01 20:22:58,727+0100 INFO  biber - this process (14368) finishes with exit code 0
+2023-11-01 20:23:31,718+0100 INFO  biber - this process (9004) started by texmaker in directory C:\Users\Vinzenz Götz\Desktop\Uni\Aero\Studienarbeit_Aeroelastik_WS2023\TexDinge with command line: biber thesis
+2023-11-01 20:23:31,718+0100 INFO  biber - running on Windows 10.0.19045
+2023-11-01 20:23:31,736+0100 INFO  biber.core - start process: biber thesis
+2023-11-01 20:23:34,345+0100 INFO  biber - this process (9004) finishes with exit code 0
+2023-11-01 20:25:35,319+0100 INFO  biber - this process (5376) started by texmaker in directory C:\Users\Vinzenz Götz\Desktop\Uni\Aero\Studienarbeit_Aeroelastik_WS2023\TexDinge with command line: biber thesis
+2023-11-01 20:25:35,320+0100 INFO  biber - running on Windows 10.0.19045
+2023-11-01 20:25:35,340+0100 INFO  biber.core - start process: biber thesis
+2023-11-01 20:25:37,737+0100 INFO  biber - this process (5376) finishes with exit code 0
+2023-11-01 20:27:20,536+0100 INFO  biber - this process (9472) started by texmaker in directory C:\Users\Vinzenz Götz\Desktop\Uni\Aero\Studienarbeit_Aeroelastik_WS2023\TexDinge with command line: biber thesis
+2023-11-01 20:27:20,536+0100 INFO  biber - running on Windows 10.0.19045
+2023-11-01 20:27:20,553+0100 INFO  biber.core - start process: biber thesis
+2023-11-01 20:27:22,928+0100 INFO  biber - this process (9472) finishes with exit code 0
+2023-11-02 17:40:12,210+0100 INFO  biber - this process (8816) started by texmaker in directory C:\Users\Vinzenz Götz\Desktop\Uni\Aero\Studienarbeit_Aeroelastik_WS2023\TexDinge with command line: biber thesis
+2023-11-02 17:40:12,214+0100 INFO  biber - running on Windows 10.0.19045
+2023-11-02 17:40:12,250+0100 INFO  biber.core - start process: biber thesis
+2023-11-02 17:40:17,952+0100 INFO  biber - this process (8816) finishes with exit code 0
+2023-11-02 17:52:05,942+0100 INFO  biber - this process (17036) started by texmaker in directory C:\Users\Vinzenz Götz\Desktop\Uni\Aero\Studienarbeit_Aeroelastik_WS2023\TexDinge with command line: biber thesis
+2023-11-02 17:52:05,942+0100 INFO  biber - running on Windows 10.0.19045
+2023-11-02 17:52:05,959+0100 INFO  biber.core - start process: biber thesis
+2023-11-02 17:52:08,485+0100 INFO  biber - this process (17036) finishes with exit code 0
+2023-11-02 17:52:53,980+0100 INFO  biber - this process (2044) started by texmaker in directory C:\Users\Vinzenz Götz\Desktop\Uni\Aero\Studienarbeit_Aeroelastik_WS2023\TexDinge with command line: biber thesis
+2023-11-02 17:52:53,980+0100 INFO  biber - running on Windows 10.0.19045
+2023-11-02 17:52:53,997+0100 INFO  biber.core - start process: biber thesis
+2023-11-02 17:52:57,123+0100 INFO  biber - this process (2044) finishes with exit code 0
+2023-11-02 17:54:17,831+0100 INFO  biber - this process (10420) started by texmaker in directory C:\Users\Vinzenz Götz\Desktop\Uni\Aero\Studienarbeit_Aeroelastik_WS2023\TexDinge with command line: biber thesis
+2023-11-02 17:54:17,832+0100 INFO  biber - running on Windows 10.0.19045
+2023-11-02 17:54:17,849+0100 INFO  biber.core - start process: biber thesis
+2023-11-02 17:54:20,468+0100 INFO  biber - this process (10420) finishes with exit code 0
+2023-11-02 17:55:37,687+0100 INFO  biber - this process (15912) started by texmaker in directory C:\Users\Vinzenz Götz\Desktop\Uni\Aero\Studienarbeit_Aeroelastik_WS2023\TexDinge with command line: biber thesis
+2023-11-02 17:55:37,687+0100 INFO  biber - running on Windows 10.0.19045
+2023-11-02 17:55:37,702+0100 INFO  biber.core - start process: biber thesis
+2023-11-02 17:55:40,498+0100 INFO  biber - this process (15912) finishes with exit code 0
+2023-11-02 17:56:28,248+0100 INFO  biber - this process (16536) started by texmaker in directory C:\Users\Vinzenz Götz\Desktop\Uni\Aero\Studienarbeit_Aeroelastik_WS2023\TexDinge with command line: biber thesis
+2023-11-02 17:56:28,248+0100 INFO  biber - running on Windows 10.0.19045
+2023-11-02 17:56:28,264+0100 INFO  biber.core - start process: biber thesis
+2023-11-02 17:56:31,052+0100 INFO  biber - this process (16536) finishes with exit code 0
+2023-11-02 17:57:42,311+0100 INFO  biber - this process (11564) started by texmaker in directory C:\Users\Vinzenz Götz\Desktop\Uni\Aero\Studienarbeit_Aeroelastik_WS2023\TexDinge with command line: biber thesis
+2023-11-02 17:57:42,312+0100 INFO  biber - running on Windows 10.0.19045
+2023-11-02 17:57:42,328+0100 INFO  biber.core - start process: biber thesis
+2023-11-02 17:57:45,030+0100 INFO  biber - this process (11564) finishes with exit code 0
+2023-11-02 18:07:22,887+0100 INFO  biber - this process (17020) started by texmaker in directory C:\Users\Vinzenz Götz\Desktop\Uni\Aero\Studienarbeit_Aeroelastik_WS2023\TexDinge with command line: biber thesis
+2023-11-02 18:07:22,887+0100 INFO  biber - running on Windows 10.0.19045
+2023-11-02 18:07:22,905+0100 INFO  biber.core - start process: biber thesis
+2023-11-02 18:07:25,693+0100 INFO  biber - this process (17020) finishes with exit code 0
+2023-11-02 18:09:17,332+0100 INFO  biber - this process (19288) started by texmaker in directory C:\Users\Vinzenz Götz\Desktop\Uni\Aero\Studienarbeit_Aeroelastik_WS2023\TexDinge with command line: biber thesis
+2023-11-02 18:09:17,333+0100 INFO  biber - running on Windows 10.0.19045
+2023-11-02 18:09:17,350+0100 INFO  biber.core - start process: biber thesis
+2023-11-02 18:09:20,118+0100 INFO  biber - this process (19288) finishes with exit code 0
+2023-11-02 18:12:24,124+0100 INFO  biber - this process (12012) started by texmaker in directory C:\Users\Vinzenz Götz\Desktop\Uni\Aero\Studienarbeit_Aeroelastik_WS2023\TexDinge with command line: biber thesis
+2023-11-02 18:12:24,124+0100 INFO  biber - running on Windows 10.0.19045
+2023-11-02 18:12:24,141+0100 INFO  biber.core - start process: biber thesis
+2023-11-02 18:12:26,975+0100 INFO  biber - this process (12012) finishes with exit code 0
+2023-11-02 18:25:38,773+0100 INFO  biber - this process (6796) started by texmaker in directory C:\Users\Vinzenz Götz\Desktop\Uni\Aero\Studienarbeit_Aeroelastik_WS2023\TexDinge with command line: biber thesis
+2023-11-02 18:25:38,773+0100 INFO  biber - running on Windows 10.0.19045
+2023-11-02 18:25:38,789+0100 INFO  biber.core - start process: biber thesis
+2023-11-02 18:25:41,578+0100 INFO  biber - this process (6796) finishes with exit code 0
+2023-11-02 18:28:00,364+0100 INFO  biber - this process (4464) started by texmaker in directory C:\Users\Vinzenz Götz\Desktop\Uni\Aero\Studienarbeit_Aeroelastik_WS2023\TexDinge with command line: biber thesis
+2023-11-02 18:28:00,364+0100 INFO  biber - running on Windows 10.0.19045
+2023-11-02 18:28:00,380+0100 INFO  biber.core - start process: biber thesis
+2023-11-02 18:28:02,991+0100 INFO  biber - this process (4464) finishes with exit code 0
+2023-11-02 18:28:57,259+0100 INFO  biber - this process (17788) started by texmaker in directory C:\Users\Vinzenz Götz\Desktop\Uni\Aero\Studienarbeit_Aeroelastik_WS2023\TexDinge with command line: biber thesis
+2023-11-02 18:28:57,259+0100 INFO  biber - running on Windows 10.0.19045
+2023-11-02 18:28:57,278+0100 INFO  biber.core - start process: biber thesis
+2023-11-02 18:28:59,836+0100 INFO  biber - this process (17788) finishes with exit code 0
+2023-11-02 18:30:09,703+0100 INFO  biber - this process (10692) started by texmaker in directory C:\Users\Vinzenz Götz\Desktop\Uni\Aero\Studienarbeit_Aeroelastik_WS2023\TexDinge with command line: biber thesis
+2023-11-02 18:30:09,704+0100 INFO  biber - running on Windows 10.0.19045
+2023-11-02 18:30:09,728+0100 INFO  biber.core - start process: biber thesis
+2023-11-02 18:30:12,989+0100 INFO  biber - this process (10692) finishes with exit code 0
+2023-11-02 18:30:52,326+0100 INFO  biber - this process (5544) started by texmaker in directory C:\Users\Vinzenz Götz\Desktop\Uni\Aero\Studienarbeit_Aeroelastik_WS2023\TexDinge with command line: biber thesis
+2023-11-02 18:30:52,326+0100 INFO  biber - running on Windows 10.0.19045
+2023-11-02 18:30:52,345+0100 INFO  biber.core - start process: biber thesis
+2023-11-02 18:30:55,055+0100 INFO  biber - this process (5544) finishes with exit code 0
+2023-11-02 18:44:52,437+0100 INFO  biber - this process (4312) started by texmaker in directory C:\Users\Vinzenz Götz\Desktop\Uni\Aero\Studienarbeit_Aeroelastik_WS2023\TexDinge with command line: biber thesis
+2023-11-02 18:44:52,437+0100 INFO  biber - running on Windows 10.0.19045
+2023-11-02 18:44:52,453+0100 INFO  biber.core - start process: biber thesis
+2023-11-02 18:44:55,146+0100 INFO  biber - this process (4312) finishes with exit code 0
+2023-11-02 18:58:53,146+0100 INFO  biber - this process (17972) started by texmaker in directory C:\Users\Vinzenz Götz\Desktop\Uni\Aero\Studienarbeit_Aeroelastik_WS2023\TexDinge with command line: biber thesis
+2023-11-02 18:58:53,146+0100 INFO  biber - running on Windows 10.0.19045
+2023-11-02 18:58:53,173+0100 INFO  biber.core - start process: biber thesis
+2023-11-02 18:58:55,783+0100 INFO  biber - this process (17972) finishes with exit code 0
+2023-11-04 08:27:08,152+0100 INFO  biber - this process (10948) started by texmaker in directory C:\Users\Vinzenz Götz\Desktop\Uni\CFDStudienarbeit\Tex\Studienarbeit with command line: biber thesis
+2023-11-04 08:27:08,152+0100 INFO  biber - running on Windows 10.0.19045
+2023-11-04 08:27:08,184+0100 INFO  biber.core - start process: biber thesis
+2023-11-04 08:27:16,431+0100 INFO  biber - this process (10948) finishes with exit code 0
+2023-11-04 08:28:51,990+0100 INFO  biber - this process (15820) started by texmaker in directory C:\Users\Vinzenz Götz\Desktop\Uni\CFDStudienarbeit\Tex\Studienarbeit with command line: biber thesis
+2023-11-04 08:28:51,990+0100 INFO  biber - running on Windows 10.0.19045
+2023-11-04 08:28:52,011+0100 INFO  biber.core - start process: biber thesis
+2023-11-04 08:28:55,496+0100 INFO  biber - this process (15820) finishes with exit code 0
+2023-11-04 08:32:24,021+0100 INFO  biber - this process (13612) started by texmaker in directory C:\Users\Vinzenz Götz\Desktop\Uni\CFDStudienarbeit\Tex\Studienarbeit with command line: biber thesis
+2023-11-04 08:32:24,021+0100 INFO  biber - running on Windows 10.0.19045
+2023-11-04 08:32:24,045+0100 INFO  biber.core - start process: biber thesis
+2023-11-04 08:32:27,371+0100 INFO  biber - this process (13612) finishes with exit code 0
+2023-11-04 08:33:58,814+0100 INFO  biber - this process (14964) started by texmaker in directory C:\Users\Vinzenz Götz\Desktop\Uni\CFDStudienarbeit\Tex\Studienarbeit with command line: biber thesis
+2023-11-04 08:33:58,814+0100 INFO  biber - running on Windows 10.0.19045
+2023-11-04 08:33:58,834+0100 INFO  biber.core - start process: biber thesis
+2023-11-04 08:34:03,040+0100 INFO  biber - this process (14964) finishes with exit code 0
+2023-11-04 08:37:49,274+0100 INFO  biber - this process (6320) started by texmaker in directory C:\Users\Vinzenz Götz\Desktop\Uni\CFDStudienarbeit\Tex\Studienarbeit with command line: biber thesis
+2023-11-04 08:37:49,274+0100 INFO  biber - running on Windows 10.0.19045
+2023-11-04 08:37:49,293+0100 INFO  biber.core - start process: biber thesis
+2023-11-04 08:37:52,656+0100 INFO  biber - this process (6320) finishes with exit code 0
+2023-11-04 08:43:21,183+0100 INFO  biber - this process (18464) started by texmaker in directory C:\Users\Vinzenz Götz\Desktop\Uni\CFDStudienarbeit\Tex\Studienarbeit with command line: biber thesis
+2023-11-04 08:43:21,183+0100 INFO  biber - running on Windows 10.0.19045
+2023-11-04 08:43:21,202+0100 INFO  biber.core - start process: biber thesis
+2023-11-04 08:43:24,483+0100 INFO  biber - this process (18464) finishes with exit code 0
+2023-11-04 08:47:26,297+0100 INFO  biber - this process (15016) started by texmaker in directory C:\Users\Vinzenz Götz\Desktop\Uni\CFDStudienarbeit\Tex\Studienarbeit with command line: biber thesis
+2023-11-04 08:47:26,298+0100 INFO  biber - running on Windows 10.0.19045
+2023-11-04 08:47:26,324+0100 INFO  biber.core - start process: biber thesis
+2023-11-04 08:47:30,312+0100 INFO  biber - this process (15016) finishes with exit code 0
+2023-11-04 08:49:00,523+0100 INFO  biber - this process (17052) started by texmaker in directory C:\Users\Vinzenz Götz\Desktop\Uni\CFDStudienarbeit\Tex\Studienarbeit with command line: biber thesis
+2023-11-04 08:49:00,524+0100 INFO  biber - running on Windows 10.0.19045
+2023-11-04 08:49:00,548+0100 INFO  biber.core - start process: biber thesis
+2023-11-04 08:49:04,298+0100 INFO  biber - this process (17052) finishes with exit code 0
+2023-11-04 08:51:37,739+0100 INFO  biber - this process (14388) started by texmaker in directory C:\Users\Vinzenz Götz\Desktop\Uni\CFDStudienarbeit\Tex\Studienarbeit with command line: biber thesis
+2023-11-04 08:51:37,740+0100 INFO  biber - running on Windows 10.0.19045
+2023-11-04 08:51:37,760+0100 INFO  biber.core - start process: biber thesis
+2023-11-04 08:51:41,008+0100 INFO  biber - this process (14388) finishes with exit code 0
+2023-11-04 08:54:11,383+0100 INFO  biber - this process (15028) started by texmaker in directory C:\Users\Vinzenz Götz\Desktop\Uni\CFDStudienarbeit\Tex\Studienarbeit with command line: biber thesis
+2023-11-04 08:54:11,384+0100 INFO  biber - running on Windows 10.0.19045
+2023-11-04 08:54:11,404+0100 INFO  biber.core - start process: biber thesis
+2023-11-04 08:54:14,665+0100 INFO  biber - this process (15028) finishes with exit code 0

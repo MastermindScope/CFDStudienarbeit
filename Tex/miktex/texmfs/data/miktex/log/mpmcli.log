@@ -1,0 +1,12 @@
+2023-11-01 11:34:53,632+0100 INFO  mpmcli - this is mpmcli 4.4 (MiKTeX 23.10 Portable)
+2023-11-01 11:34:53,632+0100 INFO  mpmcli - this process (14972) started by 'miktex-portable' with command line: mpm --register-components --verbose
+2023-11-01 11:34:53,632+0100 INFO  mpmcli - Operating on the private (per-user) MiKTeX setup
+2023-11-01 11:34:53,805+0100 WARN  mpmcli.core - still open: "C:\Users\Vinzenz Götz\Desktop\Uni\Tex\Miktex\texmfs\install\fontconfig\config\fonts.conf.in"
+2023-11-01 11:34:53,805+0100 WARN  mpmcli.core - still open: "C:\Users\Vinzenz Götz\Desktop\Uni\Tex\Miktex\texmfs/config\fontconfig\config\fonts.conf"
+2023-11-01 11:34:53,805+0100 INFO  mpmcli - this process (14972) finishes with exit code 0
+2023-11-01 19:51:10,639+0100 INFO  mpmcli - this is mpmcli 4.4 (MiKTeX 23.10.12 Portable)
+2023-11-01 19:51:10,639+0100 INFO  mpmcli - this process (13204) started by 'miktex-console' with command line: mpm --register-components --verbose
+2023-11-01 19:51:10,639+0100 INFO  mpmcli - Operating on the private (per-user) MiKTeX setup
+2023-11-01 19:51:10,652+0100 WARN  mpmcli.core - still open: "C:\Users\Vinzenz Götz\Desktop\Uni\Tex\miktex\texmfs\install\fontconfig/config\fonts.conf.in"
+2023-11-01 19:51:10,652+0100 WARN  mpmcli.core - still open: "C:\Users\Vinzenz Götz\Desktop\Uni\Tex\miktex\texmfs/config\fontconfig\config\fonts.conf"
+2023-11-01 19:51:10,721+0100 INFO  mpmcli - this process (13204) finishes with exit code 0

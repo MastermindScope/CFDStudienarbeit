@@ -1,0 +1,51 @@
+README
+------
+
+This directory contains version 2.1.4 of the subfigure package.
+Use `make' to extract the subfigure package and run the local tests.
+
+MANIFEST:
+---------
+Makefile           UNIX makefile to extract the subfigure package
+                       and related material.
+README             This file.
+subfigure.dtx      The documented subfigure package.
+subfigure.ins      The subfigure package installation file.
+test.tex           Test one: Mixed tables and figures.
+test2.tex          Test two: Check for extra space around figure
+test3.tex          Test four: Test of optional args and \subref.
+test4.tex          Test four: Test of interaction with hyperref.
+
+FILES AFTER `make':
+-------------------
+Makefile           UNIX makefile to extract the subfigure package
+                       and related material.
+README             This file.
+ltxdoc.cfg         Configuration file to print change history and
+                       index on the subfigure package documentation.       
+subfigure.cfg      Set the preferred options for subfigure version 2.1.
+subfigure.dtx      The documented subfigure package.
+subfigure.ins      The subfigure package installation file.
+subfigure.ps       Subfigure package documentation.
+subfigure.sty      The subfigure package 
+test.ps            Results of test one.
+test.tex           Test one: Mixed tables and figures.
+test2.ps           Results of test two.
+test2.tex          Test two: Check for extra space around figure
+test3.ps           Results of test three.
+test3.tex          Test four: Test of optional args and \subref.
+test4.pdf          Results of test four.
+test4.tex          Test four: Test of interaction with hyperref.
+
+NOTES:
+------
+
+By default, the subfigure.sty file acts like the older versions of the
+subfigure package.  To make the preferred options default move the
+subfigure.cfg file into the standard TEXINPUTS path along with the
+subfigure.sty file.  This reduces the whitespace around the subfigures
+and subtables and sets the table style to have the captions and
+subcaptions preceed the table and subtables.
+
+To verify the results of the tests, compare with the tests found at
+http://www.cs.cmu.edu/~sdc/latex/subfigure.214/

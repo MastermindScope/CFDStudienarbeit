@@ -1,0 +1,10 @@
+2023-11-01 11:38:47,407+0100 INFO  miktex-pdftex - this process (7068) started by miktex-makefmt in directory C:\Users\VINZEN~1\AppData\Local\Temp\mik49637 with command line: miktex-pdftex.exe --miktex-enable-installer --miktex-disable-maintenance --miktex-disable-diagnose --interaction=nonstopmode --initialize --halt-on-error --alias=pdflatex --job-name=pdflatex -tcx=cp227.tcx --enable-etex pdflatex.ini
+2023-11-01 11:38:47,407+0100 INFO  miktex-pdftex - running on Windows 10.0.19045
+2023-11-01 11:38:47,407+0100 INFO  miktex-pdftex - this is MiKTeX-PDFTEX 4.16.0 (1.40.25) (MiKTeX 23.10 Portable)
+2023-11-01 11:38:47,407+0100 INFO  miktex-pdftex - allowing known shell commands
+2023-11-01 11:39:00,241+0100 INFO  miktex-pdftex - this process (7068) finishes with exit code 0
+2023-11-01 19:55:04,721+0100 INFO  miktex-pdftex - this process (14976) started by miktex-makefmt in directory C:\Users\VINZEN~1\AppData\Local\Temp\mik88969 with command line: miktex-pdftex.exe --miktex-enable-installer --miktex-disable-maintenance --miktex-disable-diagnose --interaction=nonstopmode --initialize --halt-on-error --alias=pdflatex --job-name=pdflatex -tcx=cp227.tcx --enable-etex pdflatex.ini
+2023-11-01 19:55:04,721+0100 INFO  miktex-pdftex - running on Windows 10.0.19045
+2023-11-01 19:55:04,721+0100 INFO  miktex-pdftex - this is MiKTeX-PDFTEX 4.16.0 (1.40.25) (MiKTeX 23.10.12 Portable)
+2023-11-01 19:55:04,729+0100 INFO  miktex-pdftex - allowing known shell commands
+2023-11-01 19:55:15,429+0100 INFO  miktex-pdftex - this process (14976) finishes with exit code 0

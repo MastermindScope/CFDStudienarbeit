@@ -1,0 +1,90 @@
+%% appendix.tex
+%%
+
+\appendix
+%\counterwithin{figure}{Abbildungen}
+%% ==============================
+\chapter{Anhang}
+\label{ch:Anhang}
+%% ==============================
+\section{Abbildungen}
+\begin{figure}[H]
+    \centering
+    \includegraphics[scale=0.22]{text/6mV.jpg}
+    \caption{Verlauf von Druck und Geschwindigkeit über Iterationsschritte bei 6m Zellen vor dem Krümmer}
+    \label{app:6mV}
+\end{figure}
+
+		
+
+\begin{figure}[H]
+    \centering
+    \includegraphics[scale=0.22]{text/6mN.jpg}
+    \caption{Verlauf von Druck und Geschwindigkeit über Iterationsschritte bei 6m Zellen nach dem Krümmer}
+    \label{app:6mN}
+\end{figure}
+
+\begin{figure}[H]
+    \centering
+    \includegraphics[scale=0.7]{text/vis.PNG}
+    \caption{Visualisierung des Sachverhaltes aus Kapitel~\ref{ch:Parameterstudie}. Geometrie mit 3 Knicken und $l_r = 1$}
+    \label{app:vis}
+\end{figure}
+
+\begin{figure}[H]
+    \centering
+    \includegraphics[scale=0.7]{text/mitBlech.png}
+    \caption{Strömung im Rohr mit Blech}
+    \label{fig:mB}
+\end{figure}
+
+\begin{figure}[H]
+    \centering
+    \includegraphics[scale=0.7]{text/ohneBlech.png}
+    \caption{Strömung im Rohr ohne Blech}
+    \label{fig:oB}
+\end{figure}
+
+\clearpage
+\section{Matlab Skripte}
+
+Die hier verwendeten Skripte enthalten Funktionen, die Werte aus surfaceFieldValue.dat importieren. Diese können von Matlab autogeneriert werden und werden hier somit nicht weiter aufgelistet.
+
+
+\lstset{
+  basicstyle=\ttfamily,
+  columns=fullflexible,
+  frame=single,
+  breaklines=true,
+  %postbreak=\mbox{\textcolor{blue}{$\hookrightarrow$}\space},
+  postbreak=\mbox{\textcolor{red}{>>>}\space},
+}
+
+
+%\captionsetup[lstlisting]{font={small,tt}}
+\lstinputlisting[label=app:iterationen,caption=Matlab Skript zum Auftragen von Druck und Geschwindigkeit über die Iterationen,language=Matlab]{text/Iterationen.m}
+
+\clearpage
+
+\lstinputlisting[label=app:comparison,caption=Matlab Skript zum Vergleich verschiedener Simulationsergebnisse,language=Matlab]{text/comparison.m}
+
+
+\clearpage
+
+\section{OpenFOAM Code}
+
+
+\lstinputlisting[label=app:sHM,caption=snappyHexMeshDict der Simulation,language=C++]{text/snappyHexMeshDict}%
+
+
+\clearpage
+
+
+\lstinputlisting[label=app:bM,caption=blockMeshDict der Simulation,language=C++]{text/blockMeshDict}%
+
+
+\clearpage
+
+\lstinputlisting[label=app:av,caption=Fläche über welche ein Mittelwert gebildet wird,language=C++]{text/average_01}
+
+

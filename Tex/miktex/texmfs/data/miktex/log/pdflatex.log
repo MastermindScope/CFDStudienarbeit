@@ -1,0 +1,1106 @@
+2023-11-01 11:38:45,965+0100 INFO  pdflatex - this process (10940) started by texmaker in directory C:\Users\Vinzenz Götz\Desktop\Uni\Tex\Praktikumsbericht with command line: pdflatex -synctex=1 -interaction=nonstopmode thesis.tex
+2023-11-01 11:38:45,965+0100 INFO  pdflatex - running on Windows 10.0.19045
+2023-11-01 11:38:45,965+0100 INFO  pdflatex - this is MiKTeX-PDFTEX 4.16.0 (1.40.25) (MiKTeX 23.10 Portable)
+2023-11-01 11:38:45,965+0100 INFO  pdflatex - allowing known shell commands
+2023-11-01 11:38:46,034+0100 INFO  pdflatex - going to create file: pdflatex.fmt
+2023-11-01 11:38:46,034+0100 INFO  pdflatex.core - start process: miktex --enable-installer formats build pdflatex --engine pdftex
+2023-11-01 11:39:00,711+0100 INFO  pdflatex - installing package koma-script triggered by tex/latex/koma-script\scrbook.cls
+2023-11-01 11:39:00,711+0100 INFO  pdflatex.packagemanager - going to download https://api2.miktex.org/hello
+2023-11-01 11:39:00,927+0100 INFO  pdflatex.packagemanager - going to download https://api2.miktex.org/repositories?&releaseState=Stable&orderBy=ranking&take=1&onlySecure=true
+2023-11-01 11:39:00,943+0100 INFO  pdflatex - mpm: starting package maintenance...
+2023-11-01 11:39:00,943+0100 INFO  pdflatex - mpm: installation directory: "C:\Users\Vinzenz Götz\Desktop\Uni\Tex\miktex\texmfs\install"
+2023-11-01 11:39:00,943+0100 INFO  pdflatex - mpm: package repository: https://mirror.dogado.de/tex-archive/systems/win32/miktex/tm/packages/
+2023-11-01 11:39:03,333+0100 WARN  pdflatex.packagemanager - dependency problem: showframe is required by _miktex-latex-packages
+2023-11-01 11:39:03,333+0100 WARN  pdflatex.packagemanager - dependency problem: thailatex is required by _miktex-latex-packages
+2023-11-01 11:39:03,951+0100 INFO  pdflatex - mpm: package repository digest: 9b13871fb4f7fb5766b5408bb09bd721
+2023-11-01 11:39:03,951+0100 INFO  pdflatex - mpm: going to download 139948 bytes
+2023-11-01 11:39:03,951+0100 INFO  pdflatex - mpm: going to install 58 file(s) (1 package(s))
+2023-11-01 11:39:05,154+0100 INFO  pdflatex.packagemanager - installing package koma-script
+2023-11-01 11:39:05,154+0100 INFO  pdflatex - mpm: downloading https://mirror.dogado.de/tex-archive/systems/win32/miktex/tm/packages/koma-script.tar.lzma...
+2023-11-01 11:39:05,185+0100 INFO  pdflatex.packagemanager - going to download https://mirror.dogado.de/tex-archive/systems/win32/miktex/tm/packages/koma-script.tar.lzma
+2023-11-01 11:39:05,486+0100 INFO  pdflatex - mpm: 0.14 MB, 3.87 Mbit/s
+2023-11-01 11:39:05,486+0100 INFO  pdflatex - mpm: extracting files from koma-script.tar.lzma...
+2023-11-01 11:39:06,826+0100 INFO  pdflatex.core - start process: miktex fontmaps configure
+2023-11-01 11:39:18,571+0100 INFO  pdflatex - installing package footmisc triggered by tex/latex/footmisc\footmisc.sty
+2023-11-01 11:39:18,571+0100 INFO  pdflatex.packagemanager - going to download https://api2.miktex.org/repositories/912555f1d55f08bda2278ec080765cad
+2023-11-01 11:39:18,745+0100 INFO  pdflatex - mpm: starting package maintenance...
+2023-11-01 11:39:18,745+0100 INFO  pdflatex - mpm: installation directory: "C:\Users\Vinzenz Götz\Desktop\Uni\Tex\miktex\texmfs\install"
+2023-11-01 11:39:18,745+0100 INFO  pdflatex - mpm: package repository: https://mirror.dogado.de/tex-archive/systems/win32/miktex/tm/packages/
+2023-11-01 11:39:19,206+0100 INFO  pdflatex - mpm: package repository digest: 9b13871fb4f7fb5766b5408bb09bd721
+2023-11-01 11:39:19,206+0100 INFO  pdflatex - mpm: going to download 7855 bytes
+2023-11-01 11:39:19,206+0100 INFO  pdflatex - mpm: going to install 3 file(s) (1 package(s))
+2023-11-01 11:39:20,683+0100 INFO  pdflatex.packagemanager - installing package footmisc
+2023-11-01 11:39:20,684+0100 INFO  pdflatex - mpm: downloading https://mirror.dogado.de/tex-archive/systems/win32/miktex/tm/packages/footmisc.tar.lzma...
+2023-11-01 11:39:20,684+0100 INFO  pdflatex.packagemanager - going to download https://mirror.dogado.de/tex-archive/systems/win32/miktex/tm/packages/footmisc.tar.lzma
+2023-11-01 11:39:20,694+0100 INFO  pdflatex - mpm: 0.01 MB, 2.86 Mbit/s
+2023-11-01 11:39:20,709+0100 INFO  pdflatex - mpm: extracting files from footmisc.tar.lzma...
+2023-11-01 11:39:21,726+0100 INFO  pdflatex.core - start process: miktex fontmaps configure
+2023-11-01 11:39:35,265+0100 INFO  pdflatex - installing package german triggered by tex/generic/german\ngerman.sty
+2023-11-01 11:39:35,265+0100 INFO  pdflatex - mpm: starting package maintenance...
+2023-11-01 11:39:35,265+0100 INFO  pdflatex - mpm: installation directory: "C:\Users\Vinzenz Götz\Desktop\Uni\Tex\miktex\texmfs\install"
+2023-11-01 11:39:35,265+0100 INFO  pdflatex - mpm: package repository: https://mirror.dogado.de/tex-archive/systems/win32/miktex/tm/packages/
+2023-11-01 11:39:35,775+0100 INFO  pdflatex - mpm: package repository digest: 9b13871fb4f7fb5766b5408bb09bd721
+2023-11-01 11:39:35,775+0100 INFO  pdflatex - mpm: going to download 254057 bytes
+2023-11-01 11:39:35,775+0100 INFO  pdflatex - mpm: going to install 6 file(s) (1 package(s))
+2023-11-01 11:39:37,014+0100 INFO  pdflatex.packagemanager - installing package german
+2023-11-01 11:39:37,015+0100 INFO  pdflatex - mpm: downloading https://mirror.dogado.de/tex-archive/systems/win32/miktex/tm/packages/german.tar.lzma...
+2023-11-01 11:39:37,015+0100 INFO  pdflatex.packagemanager - going to download https://mirror.dogado.de/tex-archive/systems/win32/miktex/tm/packages/german.tar.lzma
+2023-11-01 11:39:37,145+0100 INFO  pdflatex - mpm: 0.25 MB, 15.76 Mbit/s
+2023-11-01 11:39:37,153+0100 INFO  pdflatex - mpm: extracting files from german.tar.lzma...
+2023-11-01 11:39:38,038+0100 INFO  pdflatex.core - start process: miktex fontmaps configure
+2023-11-01 11:39:48,506+0100 INFO  pdflatex - installing package ltxcmds triggered by tex/generic/ltxcmds\ltxcmds.sty
+2023-11-01 11:39:48,506+0100 INFO  pdflatex - mpm: starting package maintenance...
+2023-11-01 11:39:48,506+0100 INFO  pdflatex - mpm: installation directory: "C:\Users\Vinzenz Götz\Desktop\Uni\Tex\miktex\texmfs\install"
+2023-11-01 11:39:48,506+0100 INFO  pdflatex - mpm: package repository: https://mirror.dogado.de/tex-archive/systems/win32/miktex/tm/packages/
+2023-11-01 11:39:49,108+0100 INFO  pdflatex - mpm: package repository digest: 9b13871fb4f7fb5766b5408bb09bd721
+2023-11-01 11:39:49,108+0100 INFO  pdflatex - mpm: going to download 409074 bytes
+2023-11-01 11:39:49,108+0100 INFO  pdflatex - mpm: going to install 5 file(s) (1 package(s))
+2023-11-01 11:39:50,507+0100 INFO  pdflatex.packagemanager - installing package ltxcmds
+2023-11-01 11:39:50,507+0100 INFO  pdflatex - mpm: downloading https://mirror.dogado.de/tex-archive/systems/win32/miktex/tm/packages/ltxcmds.tar.lzma...
+2023-11-01 11:39:50,507+0100 INFO  pdflatex.packagemanager - going to download https://mirror.dogado.de/tex-archive/systems/win32/miktex/tm/packages/ltxcmds.tar.lzma
+2023-11-01 11:39:50,580+0100 INFO  pdflatex - mpm: 0.41 MB, 45.45 Mbit/s
+2023-11-01 11:39:50,580+0100 INFO  pdflatex - mpm: extracting files from ltxcmds.tar.lzma...
+2023-11-01 11:39:51,378+0100 INFO  pdflatex.core - start process: miktex fontmaps configure
+2023-11-01 11:40:01,889+0100 INFO  pdflatex - installing package infwarerr triggered by tex/generic/infwarerr\infwarerr.sty
+2023-11-01 11:40:01,889+0100 INFO  pdflatex - mpm: starting package maintenance...
+2023-11-01 11:40:01,889+0100 INFO  pdflatex - mpm: installation directory: "C:\Users\Vinzenz Götz\Desktop\Uni\Tex\miktex\texmfs\install"
+2023-11-01 11:40:01,889+0100 INFO  pdflatex - mpm: package repository: https://mirror.dogado.de/tex-archive/systems/win32/miktex/tm/packages/
+2023-11-01 11:40:02,555+0100 INFO  pdflatex - mpm: package repository digest: 9b13871fb4f7fb5766b5408bb09bd721
+2023-11-01 11:40:02,555+0100 INFO  pdflatex - mpm: going to download 293465 bytes
+2023-11-01 11:40:02,555+0100 INFO  pdflatex - mpm: going to install 5 file(s) (1 package(s))
+2023-11-01 11:40:03,819+0100 INFO  pdflatex.packagemanager - installing package infwarerr
+2023-11-01 11:40:03,819+0100 INFO  pdflatex - mpm: downloading https://mirror.dogado.de/tex-archive/systems/win32/miktex/tm/packages/infwarerr.tar.lzma...
+2023-11-01 11:40:03,819+0100 INFO  pdflatex.packagemanager - going to download https://mirror.dogado.de/tex-archive/systems/win32/miktex/tm/packages/infwarerr.tar.lzma
+2023-11-01 11:40:03,877+0100 INFO  pdflatex - mpm: 0.29 MB, 47.91 Mbit/s
+2023-11-01 11:40:03,885+0100 INFO  pdflatex - mpm: extracting files from infwarerr.tar.lzma...
+2023-11-01 11:40:04,641+0100 INFO  pdflatex.core - start process: miktex fontmaps configure
+2023-11-01 11:40:15,633+0100 INFO  pdflatex - installing package kvsetkeys triggered by tex/latex/kvsetkeys\kvsetkeys.sty
+2023-11-01 11:40:15,633+0100 INFO  pdflatex - mpm: starting package maintenance...
+2023-11-01 11:40:15,633+0100 INFO  pdflatex - mpm: installation directory: "C:\Users\Vinzenz Götz\Desktop\Uni\Tex\miktex\texmfs\install"
+2023-11-01 11:40:15,633+0100 INFO  pdflatex - mpm: package repository: https://mirror.dogado.de/tex-archive/systems/win32/miktex/tm/packages/
+2023-11-01 11:40:16,312+0100 INFO  pdflatex - mpm: package repository digest: 9b13871fb4f7fb5766b5408bb09bd721
+2023-11-01 11:40:16,312+0100 INFO  pdflatex - mpm: going to download 3794 bytes
+2023-11-01 11:40:16,312+0100 INFO  pdflatex - mpm: going to install 2 file(s) (1 package(s))
+2023-11-01 11:40:17,607+0100 INFO  pdflatex.packagemanager - installing package kvsetkeys
+2023-11-01 11:40:17,608+0100 INFO  pdflatex - mpm: downloading https://mirror.dogado.de/tex-archive/systems/win32/miktex/tm/packages/kvsetkeys.tar.lzma...
+2023-11-01 11:40:17,608+0100 INFO  pdflatex.packagemanager - going to download https://mirror.dogado.de/tex-archive/systems/win32/miktex/tm/packages/kvsetkeys.tar.lzma
+2023-11-01 11:40:17,632+0100 INFO  pdflatex - mpm: 0.00 MB, 1.32 Mbit/s
+2023-11-01 11:40:17,639+0100 INFO  pdflatex - mpm: extracting files from kvsetkeys.tar.lzma...
+2023-11-01 11:40:18,399+0100 INFO  pdflatex.core - start process: miktex fontmaps configure
+2023-11-01 11:40:28,636+0100 INFO  pdflatex - installing package kvdefinekeys triggered by tex/generic/kvdefinekeys\kvdefinekeys.sty
+2023-11-01 11:40:28,636+0100 INFO  pdflatex - mpm: starting package maintenance...
+2023-11-01 11:40:28,636+0100 INFO  pdflatex - mpm: installation directory: "C:\Users\Vinzenz Götz\Desktop\Uni\Tex\miktex\texmfs\install"
+2023-11-01 11:40:28,636+0100 INFO  pdflatex - mpm: package repository: https://mirror.dogado.de/tex-archive/systems/win32/miktex/tm/packages/
+2023-11-01 11:40:29,267+0100 INFO  pdflatex - mpm: package repository digest: 9b13871fb4f7fb5766b5408bb09bd721
+2023-11-01 11:40:29,267+0100 INFO  pdflatex - mpm: going to download 304244 bytes
+2023-11-01 11:40:29,267+0100 INFO  pdflatex - mpm: going to install 5 file(s) (1 package(s))
+2023-11-01 11:40:30,685+0100 INFO  pdflatex.packagemanager - installing package kvdefinekeys
+2023-11-01 11:40:30,685+0100 INFO  pdflatex - mpm: downloading https://mirror.dogado.de/tex-archive/systems/win32/miktex/tm/packages/kvdefinekeys.tar.lzma...
+2023-11-01 11:40:30,685+0100 INFO  pdflatex.packagemanager - going to download https://mirror.dogado.de/tex-archive/systems/win32/miktex/tm/packages/kvdefinekeys.tar.lzma
+2023-11-01 11:40:30,733+0100 INFO  pdflatex - mpm: 0.30 MB, 47.72 Mbit/s
+2023-11-01 11:40:30,745+0100 INFO  pdflatex - mpm: extracting files from kvdefinekeys.tar.lzma...
+2023-11-01 11:40:31,492+0100 INFO  pdflatex.core - start process: miktex fontmaps configure
+2023-11-01 11:40:43,157+0100 INFO  pdflatex - installing package pdfescape triggered by tex/generic/pdfescape\pdfescape.sty
+2023-11-01 11:40:43,157+0100 INFO  pdflatex - mpm: starting package maintenance...
+2023-11-01 11:40:43,157+0100 INFO  pdflatex - mpm: installation directory: "C:\Users\Vinzenz Götz\Desktop\Uni\Tex\miktex\texmfs\install"
+2023-11-01 11:40:43,157+0100 INFO  pdflatex - mpm: package repository: https://mirror.dogado.de/tex-archive/systems/win32/miktex/tm/packages/
+2023-11-01 11:40:43,796+0100 INFO  pdflatex - mpm: package repository digest: 9b13871fb4f7fb5766b5408bb09bd721
+2023-11-01 11:40:43,796+0100 INFO  pdflatex - mpm: going to download 355594 bytes
+2023-11-01 11:40:43,796+0100 INFO  pdflatex - mpm: going to install 5 file(s) (1 package(s))
+2023-11-01 11:40:45,034+0100 INFO  pdflatex.packagemanager - installing package pdfescape
+2023-11-01 11:40:45,034+0100 INFO  pdflatex - mpm: downloading https://mirror.dogado.de/tex-archive/systems/win32/miktex/tm/packages/pdfescape.tar.lzma...
+2023-11-01 11:40:45,034+0100 INFO  pdflatex.packagemanager - going to download https://mirror.dogado.de/tex-archive/systems/win32/miktex/tm/packages/pdfescape.tar.lzma
+2023-11-01 11:40:45,086+0100 INFO  pdflatex - mpm: 0.36 MB, 52.68 Mbit/s
+2023-11-01 11:40:45,096+0100 INFO  pdflatex - mpm: extracting files from pdfescape.tar.lzma...
+2023-11-01 11:40:45,999+0100 INFO  pdflatex.core - start process: miktex fontmaps configure
+2023-11-01 11:40:55,855+0100 INFO  pdflatex - installing package hycolor triggered by tex/latex/hycolor\hycolor.sty
+2023-11-01 11:40:55,855+0100 INFO  pdflatex - mpm: starting package maintenance...
+2023-11-01 11:40:55,855+0100 INFO  pdflatex - mpm: installation directory: "C:\Users\Vinzenz Götz\Desktop\Uni\Tex\miktex\texmfs\install"
+2023-11-01 11:40:55,855+0100 INFO  pdflatex - mpm: package repository: https://mirror.dogado.de/tex-archive/systems/win32/miktex/tm/packages/
+2023-11-01 11:40:56,420+0100 INFO  pdflatex - mpm: package repository digest: 9b13871fb4f7fb5766b5408bb09bd721
+2023-11-01 11:40:56,420+0100 INFO  pdflatex - mpm: going to download 389104 bytes
+2023-11-01 11:40:56,420+0100 INFO  pdflatex - mpm: going to install 6 file(s) (1 package(s))
+2023-11-01 11:40:57,729+0100 INFO  pdflatex.packagemanager - installing package hycolor
+2023-11-01 11:40:57,730+0100 INFO  pdflatex - mpm: downloading https://mirror.dogado.de/tex-archive/systems/win32/miktex/tm/packages/hycolor.tar.lzma...
+2023-11-01 11:40:57,731+0100 INFO  pdflatex.packagemanager - going to download https://mirror.dogado.de/tex-archive/systems/win32/miktex/tm/packages/hycolor.tar.lzma
+2023-11-01 11:40:57,819+0100 INFO  pdflatex - mpm: 0.39 MB, 30.22 Mbit/s
+2023-11-01 11:40:57,835+0100 INFO  pdflatex - mpm: extracting files from hycolor.tar.lzma...
+2023-11-01 11:40:58,678+0100 INFO  pdflatex.core - start process: miktex fontmaps configure
+2023-11-01 11:41:09,358+0100 INFO  pdflatex - installing package letltxmacro triggered by tex/latex/letltxmacro\letltxmacro.sty
+2023-11-01 11:41:09,358+0100 INFO  pdflatex - mpm: starting package maintenance...
+2023-11-01 11:41:09,358+0100 INFO  pdflatex - mpm: installation directory: "C:\Users\Vinzenz Götz\Desktop\Uni\Tex\miktex\texmfs\install"
+2023-11-01 11:41:09,358+0100 INFO  pdflatex - mpm: package repository: https://mirror.dogado.de/tex-archive/systems/win32/miktex/tm/packages/
+2023-11-01 11:41:09,988+0100 INFO  pdflatex - mpm: package repository digest: 9b13871fb4f7fb5766b5408bb09bd721
+2023-11-01 11:41:09,988+0100 INFO  pdflatex - mpm: going to download 298537 bytes
+2023-11-01 11:41:09,988+0100 INFO  pdflatex - mpm: going to install 6 file(s) (1 package(s))
+2023-11-01 11:41:11,272+0100 INFO  pdflatex.packagemanager - installing package letltxmacro
+2023-11-01 11:41:11,273+0100 INFO  pdflatex - mpm: downloading https://mirror.dogado.de/tex-archive/systems/win32/miktex/tm/packages/letltxmacro.tar.lzma...
+2023-11-01 11:41:11,273+0100 INFO  pdflatex.packagemanager - going to download https://mirror.dogado.de/tex-archive/systems/win32/miktex/tm/packages/letltxmacro.tar.lzma
+2023-11-01 11:41:11,313+0100 INFO  pdflatex - mpm: 0.30 MB, 50.81 Mbit/s
+2023-11-01 11:41:11,313+0100 INFO  pdflatex - mpm: extracting files from letltxmacro.tar.lzma...
+2023-11-01 11:41:12,117+0100 INFO  pdflatex.core - start process: miktex fontmaps configure
+2023-11-01 11:41:21,913+0100 INFO  pdflatex - installing package auxhook triggered by tex/latex/auxhook\auxhook.sty
+2023-11-01 11:41:21,913+0100 INFO  pdflatex - mpm: starting package maintenance...
+2023-11-01 11:41:21,913+0100 INFO  pdflatex - mpm: installation directory: "C:\Users\Vinzenz Götz\Desktop\Uni\Tex\miktex\texmfs\install"
+2023-11-01 11:41:21,913+0100 INFO  pdflatex - mpm: package repository: https://mirror.dogado.de/tex-archive/systems/win32/miktex/tm/packages/
+2023-11-01 11:41:22,461+0100 INFO  pdflatex - mpm: package repository digest: 9b13871fb4f7fb5766b5408bb09bd721
+2023-11-01 11:41:22,461+0100 INFO  pdflatex - mpm: going to download 292852 bytes
+2023-11-01 11:41:22,461+0100 INFO  pdflatex - mpm: going to install 5 file(s) (1 package(s))
+2023-11-01 11:41:23,756+0100 INFO  pdflatex.packagemanager - installing package auxhook
+2023-11-01 11:41:23,756+0100 INFO  pdflatex - mpm: downloading https://mirror.dogado.de/tex-archive/systems/win32/miktex/tm/packages/auxhook.tar.lzma...
+2023-11-01 11:41:23,756+0100 INFO  pdflatex.packagemanager - going to download https://mirror.dogado.de/tex-archive/systems/win32/miktex/tm/packages/auxhook.tar.lzma
+2023-11-01 11:41:23,807+0100 INFO  pdflatex - mpm: 0.29 MB, 44.20 Mbit/s
+2023-11-01 11:41:23,817+0100 INFO  pdflatex - mpm: extracting files from auxhook.tar.lzma...
+2023-11-01 11:41:24,530+0100 INFO  pdflatex.core - start process: miktex fontmaps configure
+2023-11-01 11:41:34,465+0100 INFO  pdflatex - installing package refcount triggered by tex/latex/refcount\refcount.sty
+2023-11-01 11:41:34,465+0100 INFO  pdflatex - mpm: starting package maintenance...
+2023-11-01 11:41:34,465+0100 INFO  pdflatex - mpm: installation directory: "C:\Users\Vinzenz Götz\Desktop\Uni\Tex\miktex\texmfs\install"
+2023-11-01 11:41:34,465+0100 INFO  pdflatex - mpm: package repository: https://mirror.dogado.de/tex-archive/systems/win32/miktex/tm/packages/
+2023-11-01 11:41:35,116+0100 INFO  pdflatex - mpm: package repository digest: 9b13871fb4f7fb5766b5408bb09bd721
+2023-11-01 11:41:35,116+0100 INFO  pdflatex - mpm: going to download 336386 bytes
+2023-11-01 11:41:35,116+0100 INFO  pdflatex - mpm: going to install 5 file(s) (1 package(s))
+2023-11-01 11:41:36,314+0100 INFO  pdflatex.packagemanager - installing package refcount
+2023-11-01 11:41:36,314+0100 INFO  pdflatex - mpm: downloading https://mirror.dogado.de/tex-archive/systems/win32/miktex/tm/packages/refcount.tar.lzma...
+2023-11-01 11:41:36,314+0100 INFO  pdflatex.packagemanager - going to download https://mirror.dogado.de/tex-archive/systems/win32/miktex/tm/packages/refcount.tar.lzma
+2023-11-01 11:41:36,476+0100 INFO  pdflatex - mpm: 0.34 MB, 16.71 Mbit/s
+2023-11-01 11:41:36,498+0100 INFO  pdflatex - mpm: extracting files from refcount.tar.lzma...
+2023-11-01 11:41:37,259+0100 INFO  pdflatex.core - start process: miktex fontmaps configure
+2023-11-01 11:41:47,877+0100 INFO  pdflatex - installing package gettitlestring triggered by tex/generic/gettitlestring\gettitlestring.sty
+2023-11-01 11:41:47,877+0100 INFO  pdflatex - mpm: starting package maintenance...
+2023-11-01 11:41:47,877+0100 INFO  pdflatex - mpm: installation directory: "C:\Users\Vinzenz Götz\Desktop\Uni\Tex\miktex\texmfs\install"
+2023-11-01 11:41:47,877+0100 INFO  pdflatex - mpm: package repository: https://mirror.dogado.de/tex-archive/systems/win32/miktex/tm/packages/
+2023-11-01 11:41:48,464+0100 INFO  pdflatex - mpm: package repository digest: 9b13871fb4f7fb5766b5408bb09bd721
+2023-11-01 11:41:48,464+0100 INFO  pdflatex - mpm: going to download 327428 bytes
+2023-11-01 11:41:48,464+0100 INFO  pdflatex - mpm: going to install 5 file(s) (1 package(s))
+2023-11-01 11:41:49,732+0100 INFO  pdflatex.packagemanager - installing package gettitlestring
+2023-11-01 11:41:49,733+0100 INFO  pdflatex - mpm: downloading https://mirror.dogado.de/tex-archive/systems/win32/miktex/tm/packages/gettitlestring.tar.lzma...
+2023-11-01 11:41:49,733+0100 INFO  pdflatex.packagemanager - going to download https://mirror.dogado.de/tex-archive/systems/win32/miktex/tm/packages/gettitlestring.tar.lzma
+2023-11-01 11:41:49,845+0100 INFO  pdflatex - mpm: 0.33 MB, 23.60 Mbit/s
+2023-11-01 11:41:49,853+0100 INFO  pdflatex - mpm: extracting files from gettitlestring.tar.lzma...
+2023-11-01 11:41:50,611+0100 INFO  pdflatex.core - start process: miktex fontmaps configure
+2023-11-01 11:42:01,969+0100 INFO  pdflatex - installing package kvoptions triggered by tex/latex/kvoptions\kvoptions.sty
+2023-11-01 11:42:01,969+0100 INFO  pdflatex - mpm: starting package maintenance...
+2023-11-01 11:42:01,969+0100 INFO  pdflatex - mpm: installation directory: "C:\Users\Vinzenz Götz\Desktop\Uni\Tex\miktex\texmfs\install"
+2023-11-01 11:42:01,969+0100 INFO  pdflatex - mpm: package repository: https://mirror.dogado.de/tex-archive/systems/win32/miktex/tm/packages/
+2023-11-01 11:42:02,579+0100 INFO  pdflatex - mpm: package repository digest: 9b13871fb4f7fb5766b5408bb09bd721
+2023-11-01 11:42:02,579+0100 INFO  pdflatex - mpm: going to download 8196 bytes
+2023-11-01 11:42:02,579+0100 INFO  pdflatex - mpm: going to install 4 file(s) (1 package(s))
+2023-11-01 11:42:03,753+0100 INFO  pdflatex.packagemanager - installing package kvoptions
+2023-11-01 11:42:03,753+0100 INFO  pdflatex - mpm: downloading https://mirror.dogado.de/tex-archive/systems/win32/miktex/tm/packages/kvoptions.tar.lzma...
+2023-11-01 11:42:03,753+0100 INFO  pdflatex.packagemanager - going to download https://mirror.dogado.de/tex-archive/systems/win32/miktex/tm/packages/kvoptions.tar.lzma
+2023-11-01 11:42:03,775+0100 INFO  pdflatex - mpm: 0.01 MB, 2.98 Mbit/s
+2023-11-01 11:42:03,775+0100 INFO  pdflatex - mpm: extracting files from kvoptions.tar.lzma...
+2023-11-01 11:42:04,459+0100 INFO  pdflatex.core - start process: miktex fontmaps configure
+2023-11-01 11:42:17,330+0100 INFO  pdflatex - installing package intcalc triggered by tex/generic/intcalc\intcalc.sty
+2023-11-01 11:42:17,330+0100 INFO  pdflatex - mpm: starting package maintenance...
+2023-11-01 11:42:17,330+0100 INFO  pdflatex - mpm: installation directory: "C:\Users\Vinzenz Götz\Desktop\Uni\Tex\miktex\texmfs\install"
+2023-11-01 11:42:17,330+0100 INFO  pdflatex - mpm: package repository: https://mirror.dogado.de/tex-archive/systems/win32/miktex/tm/packages/
+2023-11-01 11:42:17,944+0100 INFO  pdflatex - mpm: package repository digest: 9b13871fb4f7fb5766b5408bb09bd721
+2023-11-01 11:42:17,944+0100 INFO  pdflatex - mpm: going to download 441613 bytes
+2023-11-01 11:42:17,944+0100 INFO  pdflatex - mpm: going to install 5 file(s) (1 package(s))
+2023-11-01 11:42:19,027+0100 INFO  pdflatex.packagemanager - installing package intcalc
+2023-11-01 11:42:19,027+0100 INFO  pdflatex - mpm: downloading https://mirror.dogado.de/tex-archive/systems/win32/miktex/tm/packages/intcalc.tar.lzma...
+2023-11-01 11:42:19,027+0100 INFO  pdflatex.packagemanager - going to download https://mirror.dogado.de/tex-archive/systems/win32/miktex/tm/packages/intcalc.tar.lzma
+2023-11-01 11:42:19,080+0100 INFO  pdflatex - mpm: 0.44 MB, 63.09 Mbit/s
+2023-11-01 11:42:19,096+0100 INFO  pdflatex - mpm: extracting files from intcalc.tar.lzma...
+2023-11-01 11:42:19,840+0100 INFO  pdflatex.core - start process: miktex fontmaps configure
+2023-11-01 11:42:33,744+0100 INFO  pdflatex - installing package bitset triggered by tex/generic/bitset\bitset.sty
+2023-11-01 11:42:33,744+0100 INFO  pdflatex - mpm: starting package maintenance...
+2023-11-01 11:42:33,744+0100 INFO  pdflatex - mpm: installation directory: "C:\Users\Vinzenz Götz\Desktop\Uni\Tex\miktex\texmfs\install"
+2023-11-01 11:42:33,744+0100 INFO  pdflatex - mpm: package repository: https://mirror.dogado.de/tex-archive/systems/win32/miktex/tm/packages/
+2023-11-01 11:42:34,323+0100 INFO  pdflatex - mpm: package repository digest: 9b13871fb4f7fb5766b5408bb09bd721
+2023-11-01 11:42:34,323+0100 INFO  pdflatex - mpm: going to download 638837 bytes
+2023-11-01 11:42:34,323+0100 INFO  pdflatex - mpm: going to install 5 file(s) (1 package(s))
+2023-11-01 11:42:35,711+0100 INFO  pdflatex.packagemanager - installing package bitset
+2023-11-01 11:42:35,711+0100 INFO  pdflatex - mpm: downloading https://mirror.dogado.de/tex-archive/systems/win32/miktex/tm/packages/bitset.tar.lzma...
+2023-11-01 11:42:35,711+0100 INFO  pdflatex.packagemanager - going to download https://mirror.dogado.de/tex-archive/systems/win32/miktex/tm/packages/bitset.tar.lzma
+2023-11-01 11:42:35,900+0100 INFO  pdflatex - mpm: 0.64 MB, 27.93 Mbit/s
+2023-11-01 11:42:35,915+0100 INFO  pdflatex - mpm: extracting files from bitset.tar.lzma...
+2023-11-01 11:42:37,431+0100 INFO  pdflatex.core - start process: miktex fontmaps configure
+2023-11-01 11:42:48,140+0100 INFO  pdflatex - installing package bigintcalc triggered by tex/generic/bigintcalc\bigintcalc.sty
+2023-11-01 11:42:48,140+0100 INFO  pdflatex - mpm: starting package maintenance...
+2023-11-01 11:42:48,140+0100 INFO  pdflatex - mpm: installation directory: "C:\Users\Vinzenz Götz\Desktop\Uni\Tex\miktex\texmfs\install"
+2023-11-01 11:42:48,140+0100 INFO  pdflatex - mpm: package repository: https://mirror.dogado.de/tex-archive/systems/win32/miktex/tm/packages/
+2023-11-01 11:42:48,604+0100 INFO  pdflatex - mpm: package repository digest: 9b13871fb4f7fb5766b5408bb09bd721
+2023-11-01 11:42:48,604+0100 INFO  pdflatex - mpm: going to download 478294 bytes
+2023-11-01 11:42:48,604+0100 INFO  pdflatex - mpm: going to install 5 file(s) (1 package(s))
+2023-11-01 11:42:49,820+0100 INFO  pdflatex.packagemanager - installing package bigintcalc
+2023-11-01 11:42:49,820+0100 INFO  pdflatex - mpm: downloading https://mirror.dogado.de/tex-archive/systems/win32/miktex/tm/packages/bigintcalc.tar.lzma...
+2023-11-01 11:42:49,820+0100 INFO  pdflatex.packagemanager - going to download https://mirror.dogado.de/tex-archive/systems/win32/miktex/tm/packages/bigintcalc.tar.lzma
+2023-11-01 11:42:49,883+0100 INFO  pdflatex - mpm: 0.48 MB, 62.73 Mbit/s
+2023-11-01 11:42:49,891+0100 INFO  pdflatex - mpm: extracting files from bigintcalc.tar.lzma...
+2023-11-01 11:42:50,597+0100 INFO  pdflatex.core - start process: miktex fontmaps configure
+2023-11-01 11:43:01,886+0100 INFO  pdflatex - installing package rerunfilecheck triggered by tex/latex/rerunfilecheck\rerunfilecheck.sty
+2023-11-01 11:43:01,886+0100 INFO  pdflatex - mpm: starting package maintenance...
+2023-11-01 11:43:01,886+0100 INFO  pdflatex - mpm: installation directory: "C:\Users\Vinzenz Götz\Desktop\Uni\Tex\miktex\texmfs\install"
+2023-11-01 11:43:01,886+0100 INFO  pdflatex - mpm: package repository: https://mirror.dogado.de/tex-archive/systems/win32/miktex/tm/packages/
+2023-11-01 11:43:02,553+0100 INFO  pdflatex - mpm: package repository digest: 9b13871fb4f7fb5766b5408bb09bd721
+2023-11-01 11:43:02,553+0100 INFO  pdflatex - mpm: going to download 3333 bytes
+2023-11-01 11:43:02,553+0100 INFO  pdflatex - mpm: going to install 2 file(s) (1 package(s))
+2023-11-01 11:43:03,909+0100 INFO  pdflatex.packagemanager - installing package rerunfilecheck
+2023-11-01 11:43:03,910+0100 INFO  pdflatex - mpm: downloading https://mirror.dogado.de/tex-archive/systems/win32/miktex/tm/packages/rerunfilecheck.tar.lzma...
+2023-11-01 11:43:03,910+0100 INFO  pdflatex.packagemanager - going to download https://mirror.dogado.de/tex-archive/systems/win32/miktex/tm/packages/rerunfilecheck.tar.lzma
+2023-11-01 11:43:03,933+0100 INFO  pdflatex - mpm: 0.00 MB, 1.21 Mbit/s
+2023-11-01 11:43:03,941+0100 INFO  pdflatex - mpm: extracting files from rerunfilecheck.tar.lzma...
+2023-11-01 11:43:04,768+0100 INFO  pdflatex.core - start process: miktex fontmaps configure
+2023-11-01 11:43:16,171+0100 INFO  pdflatex - installing package uniquecounter triggered by tex/generic/uniquecounter\uniquecounter.sty
+2023-11-01 11:43:16,171+0100 INFO  pdflatex - mpm: starting package maintenance...
+2023-11-01 11:43:16,171+0100 INFO  pdflatex - mpm: installation directory: "C:\Users\Vinzenz Götz\Desktop\Uni\Tex\miktex\texmfs\install"
+2023-11-01 11:43:16,171+0100 INFO  pdflatex - mpm: package repository: https://mirror.dogado.de/tex-archive/systems/win32/miktex/tm/packages/
+2023-11-01 11:43:16,830+0100 INFO  pdflatex - mpm: package repository digest: 9b13871fb4f7fb5766b5408bb09bd721
+2023-11-01 11:43:16,830+0100 INFO  pdflatex - mpm: going to download 298441 bytes
+2023-11-01 11:43:16,830+0100 INFO  pdflatex - mpm: going to install 6 file(s) (1 package(s))
+2023-11-01 11:43:18,277+0100 INFO  pdflatex.packagemanager - installing package uniquecounter
+2023-11-01 11:43:18,284+0100 INFO  pdflatex - mpm: downloading https://mirror.dogado.de/tex-archive/systems/win32/miktex/tm/packages/uniquecounter.tar.lzma...
+2023-11-01 11:43:18,284+0100 INFO  pdflatex.packagemanager - going to download https://mirror.dogado.de/tex-archive/systems/win32/miktex/tm/packages/uniquecounter.tar.lzma
+2023-11-01 11:43:18,346+0100 INFO  pdflatex - mpm: 0.30 MB, 38.51 Mbit/s
+2023-11-01 11:43:18,346+0100 INFO  pdflatex - mpm: extracting files from uniquecounter.tar.lzma...
+2023-11-01 11:43:19,353+0100 INFO  pdflatex.core - start process: miktex fontmaps configure
+2023-11-01 11:43:30,875+0100 INFO  pdflatex - installing package ae triggered by tex/latex/ae\ae.sty
+2023-11-01 11:43:30,875+0100 INFO  pdflatex - mpm: starting package maintenance...
+2023-11-01 11:43:30,875+0100 INFO  pdflatex - mpm: installation directory: "C:\Users\Vinzenz Götz\Desktop\Uni\Tex\miktex\texmfs\install"
+2023-11-01 11:43:30,875+0100 INFO  pdflatex - mpm: package repository: https://mirror.dogado.de/tex-archive/systems/win32/miktex/tm/packages/
+2023-11-01 11:43:31,475+0100 INFO  pdflatex - mpm: package repository digest: 9b13871fb4f7fb5766b5408bb09bd721
+2023-11-01 11:43:31,475+0100 INFO  pdflatex - mpm: going to download 89063 bytes
+2023-11-01 11:43:31,475+0100 INFO  pdflatex - mpm: going to install 119 file(s) (1 package(s))
+2023-11-01 11:43:32,596+0100 INFO  pdflatex.packagemanager - installing package ae
+2023-11-01 11:43:32,597+0100 INFO  pdflatex - mpm: downloading https://mirror.dogado.de/tex-archive/systems/win32/miktex/tm/packages/ae.tar.lzma...
+2023-11-01 11:43:32,597+0100 INFO  pdflatex.packagemanager - going to download https://mirror.dogado.de/tex-archive/systems/win32/miktex/tm/packages/ae.tar.lzma
+2023-11-01 11:43:32,661+0100 INFO  pdflatex - mpm: 0.09 MB, 11.31 Mbit/s
+2023-11-01 11:43:32,667+0100 INFO  pdflatex - mpm: extracting files from ae.tar.lzma...
+2023-11-01 11:43:34,351+0100 INFO  pdflatex.core - start process: miktex fontmaps configure
+2023-11-01 11:43:45,652+0100 INFO  pdflatex - installing package vmargin triggered by tex/latex/vmargin\vmargin.sty
+2023-11-01 11:43:45,652+0100 INFO  pdflatex - mpm: starting package maintenance...
+2023-11-01 11:43:45,652+0100 INFO  pdflatex - mpm: installation directory: "C:\Users\Vinzenz Götz\Desktop\Uni\Tex\miktex\texmfs\install"
+2023-11-01 11:43:45,652+0100 INFO  pdflatex - mpm: package repository: https://mirror.dogado.de/tex-archive/systems/win32/miktex/tm/packages/
+2023-11-01 11:43:46,376+0100 INFO  pdflatex - mpm: package repository digest: 9b13871fb4f7fb5766b5408bb09bd721
+2023-11-01 11:43:46,376+0100 INFO  pdflatex - mpm: going to download 25936 bytes
+2023-11-01 11:43:46,376+0100 INFO  pdflatex - mpm: going to install 4 file(s) (1 package(s))
+2023-11-01 11:43:47,626+0100 INFO  pdflatex.packagemanager - installing package vmargin
+2023-11-01 11:43:47,627+0100 INFO  pdflatex - mpm: downloading https://mirror.dogado.de/tex-archive/systems/win32/miktex/tm/packages/vmargin.cab...
+2023-11-01 11:43:47,627+0100 INFO  pdflatex.packagemanager - going to download https://mirror.dogado.de/tex-archive/systems/win32/miktex/tm/packages/vmargin.cab
+2023-11-01 11:43:47,702+0100 INFO  pdflatex - mpm: 0.03 MB, 2.84 Mbit/s
+2023-11-01 11:43:47,708+0100 INFO  pdflatex - mpm: extracting files from vmargin.cab...
+2023-11-01 11:43:48,451+0100 INFO  pdflatex.core - start process: miktex fontmaps configure
+2023-11-01 11:44:00,322+0100 INFO  pdflatex - installing package fancyhdr triggered by tex/latex/fancyhdr\fancyhdr.sty
+2023-11-01 11:44:00,322+0100 INFO  pdflatex - mpm: starting package maintenance...
+2023-11-01 11:44:00,322+0100 INFO  pdflatex - mpm: installation directory: "C:\Users\Vinzenz Götz\Desktop\Uni\Tex\miktex\texmfs\install"
+2023-11-01 11:44:00,322+0100 INFO  pdflatex - mpm: package repository: https://mirror.dogado.de/tex-archive/systems/win32/miktex/tm/packages/
+2023-11-01 11:44:00,861+0100 INFO  pdflatex - mpm: package repository digest: 9b13871fb4f7fb5766b5408bb09bd721
+2023-11-01 11:44:00,861+0100 INFO  pdflatex - mpm: going to download 5624 bytes
+2023-11-01 11:44:00,861+0100 INFO  pdflatex - mpm: going to install 4 file(s) (1 package(s))
+2023-11-01 11:44:02,034+0100 INFO  pdflatex.packagemanager - installing package fancyhdr
+2023-11-01 11:44:02,035+0100 INFO  pdflatex - mpm: downloading https://mirror.dogado.de/tex-archive/systems/win32/miktex/tm/packages/fancyhdr.tar.lzma...
+2023-11-01 11:44:02,035+0100 INFO  pdflatex.packagemanager - going to download https://mirror.dogado.de/tex-archive/systems/win32/miktex/tm/packages/fancyhdr.tar.lzma
+2023-11-01 11:44:02,053+0100 INFO  pdflatex - mpm: 0.01 MB, 2.05 Mbit/s
+2023-11-01 11:44:02,061+0100 INFO  pdflatex - mpm: extracting files from fancyhdr.tar.lzma...
+2023-11-01 11:44:02,764+0100 INFO  pdflatex.core - start process: miktex fontmaps configure
+2023-11-01 11:44:14,382+0100 INFO  pdflatex - installing package subfigure triggered by tex/latex/subfigure\subfigure.sty
+2023-11-01 11:44:14,382+0100 INFO  pdflatex - mpm: starting package maintenance...
+2023-11-01 11:44:14,382+0100 INFO  pdflatex - mpm: installation directory: "C:\Users\Vinzenz Götz\Desktop\Uni\Tex\miktex\texmfs\install"
+2023-11-01 11:44:14,382+0100 INFO  pdflatex - mpm: package repository: https://mirror.dogado.de/tex-archive/systems/win32/miktex/tm/packages/
+2023-11-01 11:44:14,982+0100 INFO  pdflatex - mpm: package repository digest: 9b13871fb4f7fb5766b5408bb09bd721
+2023-11-01 11:44:14,982+0100 INFO  pdflatex - mpm: going to download 96643 bytes
+2023-11-01 11:44:14,982+0100 INFO  pdflatex - mpm: going to install 6 file(s) (1 package(s))
+2023-11-01 11:44:16,159+0100 INFO  pdflatex.packagemanager - installing package subfigure
+2023-11-01 11:44:16,159+0100 INFO  pdflatex - mpm: downloading https://mirror.dogado.de/tex-archive/systems/win32/miktex/tm/packages/subfigure.cab...
+2023-11-01 11:44:16,159+0100 INFO  pdflatex.packagemanager - going to download https://mirror.dogado.de/tex-archive/systems/win32/miktex/tm/packages/subfigure.cab
+2023-11-01 11:44:16,226+0100 INFO  pdflatex - mpm: 0.10 MB, 12.27 Mbit/s
+2023-11-01 11:44:16,235+0100 INFO  pdflatex - mpm: extracting files from subfigure.cab...
+2023-11-01 11:44:16,953+0100 INFO  pdflatex.core - start process: miktex fontmaps configure
+2023-11-01 11:44:29,784+0100 INFO  pdflatex - installing package textpos triggered by tex/latex/textpos\textpos.sty
+2023-11-01 11:44:29,784+0100 INFO  pdflatex - mpm: starting package maintenance...
+2023-11-01 11:44:29,784+0100 INFO  pdflatex - mpm: installation directory: "C:\Users\Vinzenz Götz\Desktop\Uni\Tex\miktex\texmfs\install"
+2023-11-01 11:44:29,784+0100 INFO  pdflatex - mpm: package repository: https://mirror.dogado.de/tex-archive/systems/win32/miktex/tm/packages/
+2023-11-01 11:44:30,342+0100 INFO  pdflatex - mpm: package repository digest: 9b13871fb4f7fb5766b5408bb09bd721
+2023-11-01 11:44:30,342+0100 INFO  pdflatex - mpm: going to download 4406 bytes
+2023-11-01 11:44:30,342+0100 INFO  pdflatex - mpm: going to install 2 file(s) (1 package(s))
+2023-11-01 11:44:31,523+0100 INFO  pdflatex.packagemanager - installing package textpos
+2023-11-01 11:44:31,523+0100 INFO  pdflatex - mpm: downloading https://mirror.dogado.de/tex-archive/systems/win32/miktex/tm/packages/textpos.tar.lzma...
+2023-11-01 11:44:31,523+0100 INFO  pdflatex.packagemanager - going to download https://mirror.dogado.de/tex-archive/systems/win32/miktex/tm/packages/textpos.tar.lzma
+2023-11-01 11:44:31,543+0100 INFO  pdflatex - mpm: 0.00 MB, 1.60 Mbit/s
+2023-11-01 11:44:31,543+0100 INFO  pdflatex - mpm: extracting files from textpos.tar.lzma...
+2023-11-01 11:44:32,278+0100 INFO  pdflatex.core - start process: miktex fontmaps configure
+2023-11-01 11:44:45,922+0100 INFO  pdflatex - installing package makecell triggered by tex/latex/makecell\makecell.sty
+2023-11-01 11:44:45,922+0100 INFO  pdflatex - mpm: starting package maintenance...
+2023-11-01 11:44:45,922+0100 INFO  pdflatex - mpm: installation directory: "C:\Users\Vinzenz Götz\Desktop\Uni\Tex\miktex\texmfs\install"
+2023-11-01 11:44:45,922+0100 INFO  pdflatex - mpm: package repository: https://mirror.dogado.de/tex-archive/systems/win32/miktex/tm/packages/
+2023-11-01 11:44:46,392+0100 INFO  pdflatex - mpm: package repository digest: 9b13871fb4f7fb5766b5408bb09bd721
+2023-11-01 11:44:46,392+0100 INFO  pdflatex - mpm: going to download 703516 bytes
+2023-11-01 11:44:46,392+0100 INFO  pdflatex - mpm: going to install 6 file(s) (1 package(s))
+2023-11-01 11:44:47,516+0100 INFO  pdflatex.packagemanager - installing package makecell
+2023-11-01 11:44:47,518+0100 INFO  pdflatex - mpm: downloading https://mirror.dogado.de/tex-archive/systems/win32/miktex/tm/packages/makecell.tar.lzma...
+2023-11-01 11:44:47,518+0100 INFO  pdflatex.packagemanager - going to download https://mirror.dogado.de/tex-archive/systems/win32/miktex/tm/packages/makecell.tar.lzma
+2023-11-01 11:44:47,671+0100 INFO  pdflatex - mpm: 0.70 MB, 37.27 Mbit/s
+2023-11-01 11:44:47,682+0100 INFO  pdflatex - mpm: extracting files from makecell.tar.lzma...
+2023-11-01 11:44:48,621+0100 INFO  pdflatex.core - start process: miktex fontmaps configure
+2023-11-01 11:44:59,965+0100 INFO  pdflatex - installing package algorithms triggered by tex/latex/algorithms\algorithm.sty
+2023-11-01 11:44:59,965+0100 INFO  pdflatex - mpm: starting package maintenance...
+2023-11-01 11:44:59,965+0100 INFO  pdflatex - mpm: installation directory: "C:\Users\Vinzenz Götz\Desktop\Uni\Tex\miktex\texmfs\install"
+2023-11-01 11:44:59,965+0100 INFO  pdflatex - mpm: package repository: https://mirror.dogado.de/tex-archive/systems/win32/miktex/tm/packages/
+2023-11-01 11:45:00,476+0100 INFO  pdflatex - mpm: package repository digest: 9b13871fb4f7fb5766b5408bb09bd721
+2023-11-01 11:45:00,476+0100 INFO  pdflatex - mpm: going to download 308703 bytes
+2023-11-01 11:45:00,476+0100 INFO  pdflatex - mpm: going to install 7 file(s) (1 package(s))
+2023-11-01 11:45:01,623+0100 INFO  pdflatex.packagemanager - installing package algorithms
+2023-11-01 11:45:01,626+0100 INFO  pdflatex - mpm: downloading https://mirror.dogado.de/tex-archive/systems/win32/miktex/tm/packages/algorithms.tar.lzma...
+2023-11-01 11:45:01,626+0100 INFO  pdflatex.packagemanager - going to download https://mirror.dogado.de/tex-archive/systems/win32/miktex/tm/packages/algorithms.tar.lzma
+2023-11-01 11:45:01,686+0100 INFO  pdflatex - mpm: 0.31 MB, 39.83 Mbit/s
+2023-11-01 11:45:01,696+0100 INFO  pdflatex - mpm: extracting files from algorithms.tar.lzma...
+2023-11-01 11:45:02,405+0100 INFO  pdflatex.core - start process: miktex fontmaps configure
+2023-11-01 11:45:12,995+0100 INFO  pdflatex - installing package float triggered by tex/latex/float\float.sty
+2023-11-01 11:45:12,995+0100 INFO  pdflatex - mpm: starting package maintenance...
+2023-11-01 11:45:12,995+0100 INFO  pdflatex - mpm: installation directory: "C:\Users\Vinzenz Götz\Desktop\Uni\Tex\miktex\texmfs\install"
+2023-11-01 11:45:12,995+0100 INFO  pdflatex - mpm: package repository: https://mirror.dogado.de/tex-archive/systems/win32/miktex/tm/packages/
+2023-11-01 11:45:13,597+0100 INFO  pdflatex - mpm: package repository digest: 9b13871fb4f7fb5766b5408bb09bd721
+2023-11-01 11:45:13,597+0100 INFO  pdflatex - mpm: going to download 127884 bytes
+2023-11-01 11:45:13,597+0100 INFO  pdflatex - mpm: going to install 5 file(s) (1 package(s))
+2023-11-01 11:45:14,723+0100 INFO  pdflatex.packagemanager - installing package float
+2023-11-01 11:45:14,725+0100 INFO  pdflatex - mpm: downloading https://mirror.dogado.de/tex-archive/systems/win32/miktex/tm/packages/float.tar.lzma...
+2023-11-01 11:45:14,725+0100 INFO  pdflatex.packagemanager - going to download https://mirror.dogado.de/tex-archive/systems/win32/miktex/tm/packages/float.tar.lzma
+2023-11-01 11:45:14,824+0100 INFO  pdflatex - mpm: 0.13 MB, 10.55 Mbit/s
+2023-11-01 11:45:14,826+0100 INFO  pdflatex - mpm: extracting files from float.tar.lzma...
+2023-11-01 11:45:15,564+0100 INFO  pdflatex.core - start process: miktex fontmaps configure
+2023-11-01 11:45:26,759+0100 INFO  pdflatex - installing package setspace triggered by tex/latex/setspace\setspace.sty
+2023-11-01 11:45:26,759+0100 INFO  pdflatex - mpm: starting package maintenance...
+2023-11-01 11:45:26,759+0100 INFO  pdflatex - mpm: installation directory: "C:\Users\Vinzenz Götz\Desktop\Uni\Tex\miktex\texmfs\install"
+2023-11-01 11:45:26,759+0100 INFO  pdflatex - mpm: package repository: https://mirror.dogado.de/tex-archive/systems/win32/miktex/tm/packages/
+2023-11-01 11:45:27,345+0100 INFO  pdflatex - mpm: package repository digest: 9b13871fb4f7fb5766b5408bb09bd721
+2023-11-01 11:45:27,345+0100 INFO  pdflatex - mpm: going to download 7535 bytes
+2023-11-01 11:45:27,345+0100 INFO  pdflatex - mpm: going to install 2 file(s) (1 package(s))
+2023-11-01 11:45:28,559+0100 INFO  pdflatex.packagemanager - installing package setspace
+2023-11-01 11:45:28,559+0100 INFO  pdflatex - mpm: downloading https://mirror.dogado.de/tex-archive/systems/win32/miktex/tm/packages/setspace.tar.lzma...
+2023-11-01 11:45:28,559+0100 INFO  pdflatex.packagemanager - going to download https://mirror.dogado.de/tex-archive/systems/win32/miktex/tm/packages/setspace.tar.lzma
+2023-11-01 11:45:28,599+0100 INFO  pdflatex - mpm: 0.01 MB, 2.08 Mbit/s
+2023-11-01 11:45:28,599+0100 INFO  pdflatex - mpm: extracting files from setspace.tar.lzma...
+2023-11-01 11:45:29,490+0100 INFO  pdflatex.core - start process: miktex fontmaps configure
+2023-11-01 11:45:41,772+0100 INFO  pdflatex - installing package logreq triggered by tex/latex/logreq\logreq.sty
+2023-11-01 11:45:41,772+0100 INFO  pdflatex - mpm: starting package maintenance...
+2023-11-01 11:45:41,772+0100 INFO  pdflatex - mpm: installation directory: "C:\Users\Vinzenz Götz\Desktop\Uni\Tex\miktex\texmfs\install"
+2023-11-01 11:45:41,772+0100 INFO  pdflatex - mpm: package repository: https://mirror.dogado.de/tex-archive/systems/win32/miktex/tm/packages/
+2023-11-01 11:45:42,324+0100 INFO  pdflatex - mpm: package repository digest: 9b13871fb4f7fb5766b5408bb09bd721
+2023-11-01 11:45:42,324+0100 INFO  pdflatex - mpm: going to download 6112 bytes
+2023-11-01 11:45:42,324+0100 INFO  pdflatex - mpm: going to install 14 file(s) (1 package(s))
+2023-11-01 11:45:43,506+0100 INFO  pdflatex.packagemanager - installing package logreq
+2023-11-01 11:45:43,506+0100 INFO  pdflatex - mpm: downloading https://mirror.dogado.de/tex-archive/systems/win32/miktex/tm/packages/logreq.tar.lzma...
+2023-11-01 11:45:43,506+0100 INFO  pdflatex.packagemanager - going to download https://mirror.dogado.de/tex-archive/systems/win32/miktex/tm/packages/logreq.tar.lzma
+2023-11-01 11:45:43,577+0100 INFO  pdflatex - mpm: 0.01 MB, 0.75 Mbit/s
+2023-11-01 11:45:43,585+0100 INFO  pdflatex - mpm: extracting files from logreq.tar.lzma...
+2023-11-01 11:45:44,374+0100 INFO  pdflatex.core - start process: miktex fontmaps configure
+2023-11-01 11:45:56,611+0100 INFO  pdflatex - installing package csquotes triggered by tex/latex/csquotes\csquotes.sty
+2023-11-01 11:45:56,611+0100 INFO  pdflatex - mpm: starting package maintenance...
+2023-11-01 11:45:56,611+0100 INFO  pdflatex - mpm: installation directory: "C:\Users\Vinzenz Götz\Desktop\Uni\Tex\miktex\texmfs\install"
+2023-11-01 11:45:56,611+0100 INFO  pdflatex - mpm: package repository: https://mirror.dogado.de/tex-archive/systems/win32/miktex/tm/packages/
+2023-11-01 11:45:57,026+0100 INFO  pdflatex - mpm: package repository digest: 9b13871fb4f7fb5766b5408bb09bd721
+2023-11-01 11:45:57,026+0100 INFO  pdflatex - mpm: going to download 18366 bytes
+2023-11-01 11:45:57,026+0100 INFO  pdflatex - mpm: going to install 5 file(s) (1 package(s))
+2023-11-01 11:45:58,305+0100 INFO  pdflatex.packagemanager - installing package csquotes
+2023-11-01 11:45:58,305+0100 INFO  pdflatex - mpm: downloading https://mirror.dogado.de/tex-archive/systems/win32/miktex/tm/packages/csquotes.tar.lzma...
+2023-11-01 11:45:58,305+0100 INFO  pdflatex.packagemanager - going to download https://mirror.dogado.de/tex-archive/systems/win32/miktex/tm/packages/csquotes.tar.lzma
+2023-11-01 11:45:58,355+0100 INFO  pdflatex - mpm: 0.02 MB, 3.27 Mbit/s
+2023-11-01 11:45:58,363+0100 INFO  pdflatex - mpm: extracting files from csquotes.tar.lzma...
+2023-11-01 11:45:59,293+0100 INFO  pdflatex.core - start process: miktex fontmaps configure
+2023-11-01 11:46:10,292+0100 INFO  pdflatex - installing package booktabs triggered by tex/latex/booktabs\booktabs.sty
+2023-11-01 11:46:10,292+0100 INFO  pdflatex - mpm: starting package maintenance...
+2023-11-01 11:46:10,292+0100 INFO  pdflatex - mpm: installation directory: "C:\Users\Vinzenz Götz\Desktop\Uni\Tex\miktex\texmfs\install"
+2023-11-01 11:46:10,292+0100 INFO  pdflatex - mpm: package repository: https://mirror.dogado.de/tex-archive/systems/win32/miktex/tm/packages/
+2023-11-01 11:46:10,843+0100 INFO  pdflatex - mpm: package repository digest: 9b13871fb4f7fb5766b5408bb09bd721
+2023-11-01 11:46:10,843+0100 INFO  pdflatex - mpm: going to download 313410 bytes
+2023-11-01 11:46:10,843+0100 INFO  pdflatex - mpm: going to install 5 file(s) (1 package(s))
+2023-11-01 11:46:11,999+0100 INFO  pdflatex.packagemanager - installing package booktabs
+2023-11-01 11:46:12,000+0100 INFO  pdflatex - mpm: downloading https://mirror.dogado.de/tex-archive/systems/win32/miktex/tm/packages/booktabs.tar.lzma...
+2023-11-01 11:46:12,001+0100 INFO  pdflatex.packagemanager - going to download https://mirror.dogado.de/tex-archive/systems/win32/miktex/tm/packages/booktabs.tar.lzma
+2023-11-01 11:46:12,074+0100 INFO  pdflatex - mpm: 0.31 MB, 32.14 Mbit/s
+2023-11-01 11:46:12,074+0100 INFO  pdflatex - mpm: extracting files from booktabs.tar.lzma...
+2023-11-01 11:46:12,859+0100 INFO  pdflatex.core - start process: miktex fontmaps configure
+2023-11-01 11:46:24,318+0100 INFO  pdflatex - installing package nomencl triggered by tex/latex/nomencl\nomencl.sty
+2023-11-01 11:46:24,318+0100 INFO  pdflatex - mpm: starting package maintenance...
+2023-11-01 11:46:24,318+0100 INFO  pdflatex - mpm: installation directory: "C:\Users\Vinzenz Götz\Desktop\Uni\Tex\miktex\texmfs\install"
+2023-11-01 11:46:24,318+0100 INFO  pdflatex - mpm: package repository: https://mirror.dogado.de/tex-archive/systems/win32/miktex/tm/packages/
+2023-11-01 11:46:24,952+0100 INFO  pdflatex - mpm: package repository digest: 9b13871fb4f7fb5766b5408bb09bd721
+2023-11-01 11:46:24,952+0100 INFO  pdflatex - mpm: going to download 4020 bytes
+2023-11-01 11:46:24,952+0100 INFO  pdflatex - mpm: going to install 3 file(s) (1 package(s))
+2023-11-01 11:46:26,211+0100 INFO  pdflatex.packagemanager - installing package nomencl
+2023-11-01 11:46:26,211+0100 INFO  pdflatex - mpm: downloading https://mirror.dogado.de/tex-archive/systems/win32/miktex/tm/packages/nomencl.tar.lzma...
+2023-11-01 11:46:26,211+0100 INFO  pdflatex.packagemanager - going to download https://mirror.dogado.de/tex-archive/systems/win32/miktex/tm/packages/nomencl.tar.lzma
+2023-11-01 11:46:26,242+0100 INFO  pdflatex - mpm: 0.00 MB, 0.78 Mbit/s
+2023-11-01 11:46:26,257+0100 INFO  pdflatex - mpm: extracting files from nomencl.tar.lzma...
+2023-11-01 11:46:26,958+0100 INFO  pdflatex.core - start process: miktex fontmaps configure
+2023-11-01 11:46:40,826+0100 INFO  pdflatex - installing package chngcntr triggered by tex/latex/chngcntr\chngcntr.sty
+2023-11-01 11:46:40,826+0100 INFO  pdflatex - mpm: starting package maintenance...
+2023-11-01 11:46:40,832+0100 INFO  pdflatex - mpm: installation directory: "C:\Users\Vinzenz Götz\Desktop\Uni\Tex\miktex\texmfs\install"
+2023-11-01 11:46:40,832+0100 INFO  pdflatex - mpm: package repository: https://mirror.dogado.de/tex-archive/systems/win32/miktex/tm/packages/
+2023-11-01 11:46:41,318+0100 INFO  pdflatex - mpm: package repository digest: 9b13871fb4f7fb5766b5408bb09bd721
+2023-11-01 11:46:41,318+0100 INFO  pdflatex - mpm: going to download 237203 bytes
+2023-11-01 11:46:41,318+0100 INFO  pdflatex - mpm: going to install 5 file(s) (1 package(s))
+2023-11-01 11:46:42,602+0100 INFO  pdflatex.packagemanager - installing package chngcntr
+2023-11-01 11:46:42,602+0100 INFO  pdflatex - mpm: downloading https://mirror.dogado.de/tex-archive/systems/win32/miktex/tm/packages/chngcntr.tar.lzma...
+2023-11-01 11:46:42,602+0100 INFO  pdflatex.packagemanager - going to download https://mirror.dogado.de/tex-archive/systems/win32/miktex/tm/packages/chngcntr.tar.lzma
+2023-11-01 11:46:42,703+0100 INFO  pdflatex - mpm: 0.24 MB, 18.98 Mbit/s
+2023-11-01 11:46:42,713+0100 INFO  pdflatex - mpm: extracting files from chngcntr.tar.lzma...
+2023-11-01 11:46:43,466+0100 INFO  pdflatex.core - start process: miktex fontmaps configure
+2023-11-01 11:46:54,104+0100 INFO  pdflatex - installing package ulem triggered by tex/latex/ulem\ulem.sty
+2023-11-01 11:46:54,104+0100 INFO  pdflatex - mpm: starting package maintenance...
+2023-11-01 11:46:54,104+0100 INFO  pdflatex - mpm: installation directory: "C:\Users\Vinzenz Götz\Desktop\Uni\Tex\miktex\texmfs\install"
+2023-11-01 11:46:54,104+0100 INFO  pdflatex - mpm: package repository: https://mirror.dogado.de/tex-archive/systems/win32/miktex/tm/packages/
+2023-11-01 11:46:54,676+0100 INFO  pdflatex - mpm: package repository digest: 9b13871fb4f7fb5766b5408bb09bd721
+2023-11-01 11:46:54,676+0100 INFO  pdflatex - mpm: going to download 173224 bytes
+2023-11-01 11:46:54,676+0100 INFO  pdflatex - mpm: going to install 5 file(s) (1 package(s))
+2023-11-01 11:46:55,859+0100 INFO  pdflatex.packagemanager - installing package ulem
+2023-11-01 11:46:55,860+0100 INFO  pdflatex - mpm: downloading https://mirror.dogado.de/tex-archive/systems/win32/miktex/tm/packages/ulem.tar.lzma...
+2023-11-01 11:46:55,860+0100 INFO  pdflatex.packagemanager - going to download https://mirror.dogado.de/tex-archive/systems/win32/miktex/tm/packages/ulem.tar.lzma
+2023-11-01 11:46:55,993+0100 INFO  pdflatex - mpm: 0.17 MB, 10.58 Mbit/s
+2023-11-01 11:46:55,994+0100 INFO  pdflatex - mpm: extracting files from ulem.tar.lzma...
+2023-11-01 11:46:56,798+0100 INFO  pdflatex.core - start process: miktex fontmaps configure
+2023-11-01 11:47:09,976+0100 INFO  pdflatex - installing package bookmark triggered by tex/latex/bookmark\bookmark.sty
+2023-11-01 11:47:09,976+0100 INFO  pdflatex - mpm: starting package maintenance...
+2023-11-01 11:47:09,976+0100 INFO  pdflatex - mpm: installation directory: "C:\Users\Vinzenz Götz\Desktop\Uni\Tex\miktex\texmfs\install"
+2023-11-01 11:47:09,976+0100 INFO  pdflatex - mpm: package repository: https://mirror.dogado.de/tex-archive/systems/win32/miktex/tm/packages/
+2023-11-01 11:47:10,437+0100 INFO  pdflatex - mpm: package repository digest: 9b13871fb4f7fb5766b5408bb09bd721
+2023-11-01 11:47:10,437+0100 INFO  pdflatex - mpm: going to download 496274 bytes
+2023-11-01 11:47:10,437+0100 INFO  pdflatex - mpm: going to install 14 file(s) (1 package(s))
+2023-11-01 11:47:11,547+0100 INFO  pdflatex.packagemanager - installing package bookmark
+2023-11-01 11:47:11,547+0100 INFO  pdflatex - mpm: downloading https://mirror.dogado.de/tex-archive/systems/win32/miktex/tm/packages/bookmark.tar.lzma...
+2023-11-01 11:47:11,547+0100 INFO  pdflatex.packagemanager - going to download https://mirror.dogado.de/tex-archive/systems/win32/miktex/tm/packages/bookmark.tar.lzma
+2023-11-01 11:47:11,730+0100 INFO  pdflatex - mpm: 0.50 MB, 21.93 Mbit/s
+2023-11-01 11:47:11,754+0100 INFO  pdflatex - mpm: extracting files from bookmark.tar.lzma...
+2023-11-01 11:47:13,016+0100 INFO  pdflatex.core - start process: miktex fontmaps configure
+2023-11-01 11:47:24,412+0100 INFO  pdflatex - installing package grfext triggered by tex/latex/grfext\grfext.sty
+2023-11-01 11:47:24,412+0100 INFO  pdflatex - mpm: starting package maintenance...
+2023-11-01 11:47:24,412+0100 INFO  pdflatex - mpm: installation directory: "C:\Users\Vinzenz Götz\Desktop\Uni\Tex\miktex\texmfs\install"
+2023-11-01 11:47:24,412+0100 INFO  pdflatex - mpm: package repository: https://mirror.dogado.de/tex-archive/systems/win32/miktex/tm/packages/
+2023-11-01 11:47:24,951+0100 INFO  pdflatex - mpm: package repository digest: 9b13871fb4f7fb5766b5408bb09bd721
+2023-11-01 11:47:24,951+0100 INFO  pdflatex - mpm: going to download 317057 bytes
+2023-11-01 11:47:24,951+0100 INFO  pdflatex - mpm: going to install 5 file(s) (1 package(s))
+2023-11-01 11:47:26,088+0100 INFO  pdflatex.packagemanager - installing package grfext
+2023-11-01 11:47:26,088+0100 INFO  pdflatex - mpm: downloading https://mirror.dogado.de/tex-archive/systems/win32/miktex/tm/packages/grfext.tar.lzma...
+2023-11-01 11:47:26,088+0100 INFO  pdflatex.packagemanager - going to download https://mirror.dogado.de/tex-archive/systems/win32/miktex/tm/packages/grfext.tar.lzma
+2023-11-01 11:47:26,173+0100 INFO  pdflatex - mpm: 0.32 MB, 28.18 Mbit/s
+2023-11-01 11:47:26,189+0100 INFO  pdflatex - mpm: extracting files from grfext.tar.lzma...
+2023-11-01 11:47:27,043+0100 INFO  pdflatex.core - start process: miktex fontmaps configure
+2023-11-01 11:47:38,892+0100 INFO  pdflatex - installing package psnfss triggered by tex/latex/psnfss\t1ppl.fd
+2023-11-01 11:47:38,892+0100 INFO  pdflatex - mpm: starting package maintenance...
+2023-11-01 11:47:38,892+0100 INFO  pdflatex - mpm: installation directory: "C:\Users\Vinzenz Götz\Desktop\Uni\Tex\miktex\texmfs\install"
+2023-11-01 11:47:38,892+0100 INFO  pdflatex - mpm: package repository: https://mirror.dogado.de/tex-archive/systems/win32/miktex/tm/packages/
+2023-11-01 11:47:39,328+0100 INFO  pdflatex - mpm: package repository digest: 9b13871fb4f7fb5766b5408bb09bd721
+2023-11-01 11:47:39,328+0100 INFO  pdflatex - mpm: going to download 279649 bytes
+2023-11-01 11:47:39,328+0100 INFO  pdflatex - mpm: going to install 121 file(s) (1 package(s))
+2023-11-01 11:47:40,513+0100 INFO  pdflatex.packagemanager - installing package psnfss
+2023-11-01 11:47:40,513+0100 INFO  pdflatex - mpm: downloading https://mirror.dogado.de/tex-archive/systems/win32/miktex/tm/packages/psnfss.tar.lzma...
+2023-11-01 11:47:40,513+0100 INFO  pdflatex.packagemanager - going to download https://mirror.dogado.de/tex-archive/systems/win32/miktex/tm/packages/psnfss.tar.lzma
+2023-11-01 11:47:40,582+0100 INFO  pdflatex - mpm: 0.28 MB, 36.08 Mbit/s
+2023-11-01 11:47:40,582+0100 INFO  pdflatex - mpm: extracting files from psnfss.tar.lzma...
+2023-11-01 11:47:42,376+0100 INFO  pdflatex.core - start process: miktex fontmaps configure
+2023-11-01 11:47:56,747+0100 INFO  pdflatex - this process (10940) finishes with exit code 1
+2023-11-01 11:47:56,747+0100 ERROR pdflatex - major issue: So far, you have not checked for MiKTeX updates.
+2023-11-01 19:55:03,637+0100 INFO  pdflatex - this process (7136) started by cmd in directory C:\Users\Vinzenz Götz\Desktop\Uni\Aero\Studienarbeit_Aeroelastik_WS2023\TexDinge with command line: pdflatex thesis.tex
+2023-11-01 19:55:03,637+0100 INFO  pdflatex - running on Windows 10.0.19045
+2023-11-01 19:55:03,640+0100 INFO  pdflatex - this is MiKTeX-PDFTEX 4.16.0 (1.40.25) (MiKTeX 23.10.12 Portable)
+2023-11-01 19:55:03,648+0100 INFO  pdflatex - allowing known shell commands
+2023-11-01 19:55:03,699+0100 INFO  pdflatex - going to create file: pdflatex.fmt
+2023-11-01 19:55:03,699+0100 INFO  pdflatex.core - start process: miktex --enable-installer formats build pdflatex --engine pdftex
+2023-11-01 19:55:24,715+0100 INFO  pdflatex - this process (7136) finishes with exit code 1
+2023-11-01 19:58:47,053+0100 INFO  pdflatex - this process (14120) started by cmd in directory C:\Users\Vinzenz Götz\Desktop\Uni\Aero\Studienarbeit_Aeroelastik_WS2023\TexDinge with command line: pdflatex thesis.tex
+2023-11-01 19:58:47,053+0100 INFO  pdflatex - running on Windows 10.0.19045
+2023-11-01 19:58:47,056+0100 INFO  pdflatex - this is MiKTeX-PDFTEX 4.16.0 (1.40.25) (MiKTeX 23.10.12 Portable)
+2023-11-01 19:58:47,064+0100 INFO  pdflatex - allowing known shell commands
+2023-11-01 19:58:59,607+0100 INFO  pdflatex - this process (14120) finishes with exit code 1
+2023-11-01 20:05:11,208+0100 INFO  pdflatex - this process (17332) started by cmd in directory C:\Users\Vinzenz Götz\Desktop\Uni\Aero\Studienarbeit_Aeroelastik_WS2023\TexDinge with command line: pdflatex thesis.tex
+2023-11-01 20:05:11,208+0100 INFO  pdflatex - running on Windows 10.0.19045
+2023-11-01 20:05:11,211+0100 INFO  pdflatex - this is MiKTeX-PDFTEX 4.16.0 (1.40.25) (MiKTeX 23.10.12 Portable)
+2023-11-01 20:05:11,222+0100 INFO  pdflatex - allowing known shell commands
+2023-11-01 20:05:19,230+0100 INFO  pdflatex - this process (17332) finishes with exit code 0
+2023-11-01 20:07:52,914+0100 INFO  pdflatex - this process (2952) started by cmd in directory C:\Users\Vinzenz Götz\Desktop\Uni\Aero\Studienarbeit_Aeroelastik_WS2023\TexDinge with command line: pdflatex thesis.tex
+2023-11-01 20:07:52,914+0100 INFO  pdflatex - running on Windows 10.0.19045
+2023-11-01 20:07:52,916+0100 INFO  pdflatex - this is MiKTeX-PDFTEX 4.16.0 (1.40.25) (MiKTeX 23.10.12 Portable)
+2023-11-01 20:07:52,926+0100 INFO  pdflatex - allowing known shell commands
+2023-11-01 20:08:00,811+0100 INFO  pdflatex - this process (2952) finishes with exit code 0
+2023-11-01 20:10:50,065+0100 INFO  pdflatex - this process (2972) started by powershell in directory C:\Users\Vinzenz Götz\Desktop\Uni\Tex\miktex\texmfs\install\miktex\bin\x64 with command line: "C:\Users\Vinzenz Götz\Desktop\Uni\Tex\miktex\texmfs\install\miktex\bin\x64\pdflatex.exe" "C:\Users\Vinzenz Götz\Desktop\Uni\Aero\Studienarbeit_Aeroelastik_WS2023\TexDinge\thesis.tex"
+2023-11-01 20:10:50,065+0100 INFO  pdflatex - running on Windows 10.0.19045
+2023-11-01 20:10:50,067+0100 INFO  pdflatex - this is MiKTeX-PDFTEX 4.16.0 (1.40.25) (MiKTeX 23.10.12 Portable)
+2023-11-01 20:10:50,078+0100 INFO  pdflatex - allowing known shell commands
+2023-11-01 20:11:33,700+0100 INFO  pdflatex - this process (2972) finishes with exit code 1
+2023-11-01 20:12:04,902+0100 INFO  pdflatex - this process (19020) started by powershell in directory C:\Users\Vinzenz Götz\Desktop\Uni\Tex\miktex\texmfs\install\miktex\bin\x64 with command line: "C:\Users\Vinzenz Götz\Desktop\Uni\Tex\miktex\texmfs\install\miktex\bin\x64\pdflatex.exe" "C:\Users\Vinzenz Götz\Desktop\Uni\Aero\Studienarbeit_Aeroelastik_WS2023\TexDinge\thesis.tex"
+2023-11-01 20:12:04,903+0100 INFO  pdflatex - running on Windows 10.0.19045
+2023-11-01 20:12:04,907+0100 INFO  pdflatex - this is MiKTeX-PDFTEX 4.16.0 (1.40.25) (MiKTeX 23.10.12 Portable)
+2023-11-01 20:12:04,916+0100 INFO  pdflatex - allowing known shell commands
+2023-11-01 20:12:10,518+0100 INFO  pdflatex - this process (19020) finishes with exit code 1
+2023-11-01 20:12:10,520+0100 WARN  pdflatex.core - still open: "C:/Users/Vinzenz Götz/Desktop/Uni/Aero/Studienarbeit_Aeroelastik_WS2023/TexDinge/thesis.tex"
+2023-11-01 20:17:06,789+0100 INFO  pdflatex - this process (4656) started by texmaker in directory C:\Users\Vinzenz Götz\Desktop\Uni\Aero\Studienarbeit_Aeroelastik_WS2023\TexDinge with command line: pdflatex -synctex=1 -interaction=nonstopmode thesis.tex
+2023-11-01 20:17:06,789+0100 INFO  pdflatex - running on Windows 10.0.19045
+2023-11-01 20:17:06,792+0100 INFO  pdflatex - this is MiKTeX-PDFTEX 4.16.0 (1.40.25) (MiKTeX 23.10.12 Portable)
+2023-11-01 20:17:06,800+0100 INFO  pdflatex - allowing known shell commands
+2023-11-01 20:17:12,855+0100 INFO  pdflatex - this process (4656) finishes with exit code 0
+2023-11-01 20:18:03,187+0100 INFO  pdflatex - this process (15336) started by texmaker in directory C:\Users\Vinzenz Götz\Desktop\Uni\Aero\Studienarbeit_Aeroelastik_WS2023\TexDinge with command line: pdflatex -synctex=1 -interaction=nonstopmode thesis.tex
+2023-11-01 20:18:03,187+0100 INFO  pdflatex - running on Windows 10.0.19045
+2023-11-01 20:18:03,189+0100 INFO  pdflatex - this is MiKTeX-PDFTEX 4.16.0 (1.40.25) (MiKTeX 23.10.12 Portable)
+2023-11-01 20:18:03,201+0100 INFO  pdflatex - allowing known shell commands
+2023-11-01 20:18:10,093+0100 INFO  pdflatex - this process (15336) finishes with exit code 0
+2023-11-01 20:18:12,142+0100 INFO  pdflatex - this process (956) started by texmaker in directory C:\Users\Vinzenz Götz\Desktop\Uni\Aero\Studienarbeit_Aeroelastik_WS2023\TexDinge with command line: pdflatex -synctex=1 -interaction=nonstopmode thesis.tex
+2023-11-01 20:18:12,142+0100 INFO  pdflatex - running on Windows 10.0.19045
+2023-11-01 20:18:12,144+0100 INFO  pdflatex - this is MiKTeX-PDFTEX 4.16.0 (1.40.25) (MiKTeX 23.10.12 Portable)
+2023-11-01 20:18:12,154+0100 INFO  pdflatex - allowing known shell commands
+2023-11-01 20:18:18,610+0100 INFO  pdflatex - this process (956) finishes with exit code 0
+2023-11-01 20:22:48,538+0100 INFO  pdflatex - this process (18196) started by texmaker in directory C:\Users\Vinzenz Götz\Desktop\Uni\Aero\Studienarbeit_Aeroelastik_WS2023\TexDinge with command line: pdflatex -synctex=1 -interaction=nonstopmode thesis.tex
+2023-11-01 20:22:48,538+0100 INFO  pdflatex - running on Windows 10.0.19045
+2023-11-01 20:22:48,541+0100 INFO  pdflatex - this is MiKTeX-PDFTEX 4.16.0 (1.40.25) (MiKTeX 23.10.12 Portable)
+2023-11-01 20:22:48,548+0100 INFO  pdflatex - allowing known shell commands
+2023-11-01 20:22:54,247+0100 INFO  pdflatex - this process (18196) finishes with exit code 0
+2023-11-01 20:22:59,111+0100 INFO  pdflatex - this process (16876) started by texmaker in directory C:\Users\Vinzenz Götz\Desktop\Uni\Aero\Studienarbeit_Aeroelastik_WS2023\TexDinge with command line: pdflatex -synctex=1 -interaction=nonstopmode thesis.tex
+2023-11-01 20:22:59,111+0100 INFO  pdflatex - running on Windows 10.0.19045
+2023-11-01 20:22:59,114+0100 INFO  pdflatex - this is MiKTeX-PDFTEX 4.16.0 (1.40.25) (MiKTeX 23.10.12 Portable)
+2023-11-01 20:22:59,123+0100 INFO  pdflatex - allowing known shell commands
+2023-11-01 20:23:05,053+0100 INFO  pdflatex - this process (16876) finishes with exit code 0
+2023-11-01 20:23:06,985+0100 INFO  pdflatex - this process (14120) started by texmaker in directory C:\Users\Vinzenz Götz\Desktop\Uni\Aero\Studienarbeit_Aeroelastik_WS2023\TexDinge with command line: pdflatex -synctex=1 -interaction=nonstopmode thesis.tex
+2023-11-01 20:23:06,985+0100 INFO  pdflatex - running on Windows 10.0.19045
+2023-11-01 20:23:06,988+0100 INFO  pdflatex - this is MiKTeX-PDFTEX 4.16.0 (1.40.25) (MiKTeX 23.10.12 Portable)
+2023-11-01 20:23:06,996+0100 INFO  pdflatex - allowing known shell commands
+2023-11-01 20:23:13,302+0100 INFO  pdflatex - this process (14120) finishes with exit code 0
+2023-11-01 20:23:23,729+0100 INFO  pdflatex - this process (1152) started by texmaker in directory C:\Users\Vinzenz Götz\Desktop\Uni\Aero\Studienarbeit_Aeroelastik_WS2023\TexDinge with command line: pdflatex -synctex=1 -interaction=nonstopmode thesis.tex
+2023-11-01 20:23:23,729+0100 INFO  pdflatex - running on Windows 10.0.19045
+2023-11-01 20:23:23,733+0100 INFO  pdflatex - this is MiKTeX-PDFTEX 4.16.0 (1.40.25) (MiKTeX 23.10.12 Portable)
+2023-11-01 20:23:23,744+0100 INFO  pdflatex - allowing known shell commands
+2023-11-01 20:23:29,788+0100 INFO  pdflatex - this process (1152) finishes with exit code 0
+2023-11-01 20:23:34,750+0100 INFO  pdflatex - this process (19396) started by texmaker in directory C:\Users\Vinzenz Götz\Desktop\Uni\Aero\Studienarbeit_Aeroelastik_WS2023\TexDinge with command line: pdflatex -synctex=1 -interaction=nonstopmode thesis.tex
+2023-11-01 20:23:34,750+0100 INFO  pdflatex - running on Windows 10.0.19045
+2023-11-01 20:23:34,753+0100 INFO  pdflatex - this is MiKTeX-PDFTEX 4.16.0 (1.40.25) (MiKTeX 23.10.12 Portable)
+2023-11-01 20:23:34,763+0100 INFO  pdflatex - allowing known shell commands
+2023-11-01 20:23:41,630+0100 INFO  pdflatex - this process (19396) finishes with exit code 0
+2023-11-01 20:23:43,562+0100 INFO  pdflatex - this process (14280) started by texmaker in directory C:\Users\Vinzenz Götz\Desktop\Uni\Aero\Studienarbeit_Aeroelastik_WS2023\TexDinge with command line: pdflatex -synctex=1 -interaction=nonstopmode thesis.tex
+2023-11-01 20:23:43,562+0100 INFO  pdflatex - running on Windows 10.0.19045
+2023-11-01 20:23:43,565+0100 INFO  pdflatex - this is MiKTeX-PDFTEX 4.16.0 (1.40.25) (MiKTeX 23.10.12 Portable)
+2023-11-01 20:23:43,577+0100 INFO  pdflatex - allowing known shell commands
+2023-11-01 20:23:50,364+0100 INFO  pdflatex - this process (14280) finishes with exit code 0
+2023-11-01 20:25:13,990+0100 INFO  pdflatex - this process (9636) started by texmaker in directory C:\Users\Vinzenz Götz\Desktop\Uni\Aero\Studienarbeit_Aeroelastik_WS2023\TexDinge with command line: pdflatex -synctex=1 -interaction=nonstopmode thesis.tex
+2023-11-01 20:25:13,991+0100 INFO  pdflatex - running on Windows 10.0.19045
+2023-11-01 20:25:13,994+0100 INFO  pdflatex - this is MiKTeX-PDFTEX 4.16.0 (1.40.25) (MiKTeX 23.10.12 Portable)
+2023-11-01 20:25:14,004+0100 INFO  pdflatex - allowing known shell commands
+2023-11-01 20:25:18,594+0100 INFO  pdflatex - installing package babel-german triggered by tex/latex/babel-german\german.ldf
+2023-11-01 20:25:18,597+0100 INFO  pdflatex.packagemanager - going to download https://api2.miktex.org/hello
+2023-11-01 20:25:18,776+0100 INFO  pdflatex.packagemanager - going to download https://api2.miktex.org/repositories?&releaseState=Stable&orderBy=ranking&take=1&onlySecure=true
+2023-11-01 20:25:18,804+0100 INFO  pdflatex - mpm: starting package maintenance...
+2023-11-01 20:25:18,804+0100 INFO  pdflatex - mpm: installation directory: "C:\Users\Vinzenz Götz\Desktop\Uni\Tex\miktex\texmfs\install"
+2023-11-01 20:25:18,804+0100 INFO  pdflatex - mpm: package repository: https://ftp.mpi-inf.mpg.de/pub/tex/mirror/ftp.dante.de/pub/tex/systems/win32/miktex/tm/packages/
+2023-11-01 20:25:20,013+0100 WARN  pdflatex.packagemanager - dependency problem: showframe is required by _miktex-latex-packages
+2023-11-01 20:25:20,013+0100 WARN  pdflatex.packagemanager - dependency problem: thailatex is required by _miktex-latex-packages
+2023-11-01 20:25:20,436+0100 INFO  pdflatex - mpm: package repository digest: 7ae35de309635e3151207c2fd0773e91
+2023-11-01 20:25:20,436+0100 INFO  pdflatex - mpm: going to download 519666 bytes
+2023-11-01 20:25:20,436+0100 INFO  pdflatex - mpm: going to install 13 file(s) (1 package(s))
+2023-11-01 20:25:21,331+0100 INFO  pdflatex.packagemanager - installing package babel-german
+2023-11-01 20:25:21,332+0100 INFO  pdflatex - mpm: downloading https://ftp.mpi-inf.mpg.de/pub/tex/mirror/ftp.dante.de/pub/tex/systems/win32/miktex/tm/packages/babel-german.tar.lzma...
+2023-11-01 20:25:21,354+0100 INFO  pdflatex.packagemanager - going to download https://ftp.mpi-inf.mpg.de/pub/tex/mirror/ftp.dante.de/pub/tex/systems/win32/miktex/tm/packages/babel-german.tar.lzma
+2023-11-01 20:25:21,785+0100 INFO  pdflatex - mpm: 0.52 MB, 9.67 Mbit/s
+2023-11-01 20:25:21,793+0100 INFO  pdflatex - mpm: extracting files from babel-german.tar.lzma...
+2023-11-01 20:25:22,457+0100 INFO  pdflatex.core - start process: miktex fontmaps configure
+2023-11-01 20:25:33,215+0100 INFO  pdflatex - this process (9636) finishes with exit code 0
+2023-11-01 20:25:38,041+0100 INFO  pdflatex - this process (18116) started by texmaker in directory C:\Users\Vinzenz Götz\Desktop\Uni\Aero\Studienarbeit_Aeroelastik_WS2023\TexDinge with command line: pdflatex -synctex=1 -interaction=nonstopmode thesis.tex
+2023-11-01 20:25:38,041+0100 INFO  pdflatex - running on Windows 10.0.19045
+2023-11-01 20:25:38,044+0100 INFO  pdflatex - this is MiKTeX-PDFTEX 4.16.0 (1.40.25) (MiKTeX 23.10.12 Portable)
+2023-11-01 20:25:38,053+0100 INFO  pdflatex - allowing known shell commands
+2023-11-01 20:25:44,644+0100 INFO  pdflatex - this process (18116) finishes with exit code 0
+2023-11-01 20:25:46,707+0100 INFO  pdflatex - this process (724) started by texmaker in directory C:\Users\Vinzenz Götz\Desktop\Uni\Aero\Studienarbeit_Aeroelastik_WS2023\TexDinge with command line: pdflatex -synctex=1 -interaction=nonstopmode thesis.tex
+2023-11-01 20:25:46,707+0100 INFO  pdflatex - running on Windows 10.0.19045
+2023-11-01 20:25:46,710+0100 INFO  pdflatex - this is MiKTeX-PDFTEX 4.16.0 (1.40.25) (MiKTeX 23.10.12 Portable)
+2023-11-01 20:25:46,720+0100 INFO  pdflatex - allowing known shell commands
+2023-11-01 20:25:53,628+0100 INFO  pdflatex - this process (724) finishes with exit code 0
+2023-11-01 20:27:12,485+0100 INFO  pdflatex - this process (6956) started by texmaker in directory C:\Users\Vinzenz Götz\Desktop\Uni\Aero\Studienarbeit_Aeroelastik_WS2023\TexDinge with command line: pdflatex -synctex=1 -interaction=nonstopmode thesis.tex
+2023-11-01 20:27:12,485+0100 INFO  pdflatex - running on Windows 10.0.19045
+2023-11-01 20:27:12,487+0100 INFO  pdflatex - this is MiKTeX-PDFTEX 4.16.0 (1.40.25) (MiKTeX 23.10.12 Portable)
+2023-11-01 20:27:12,496+0100 INFO  pdflatex - allowing known shell commands
+2023-11-01 20:27:18,523+0100 INFO  pdflatex - this process (6956) finishes with exit code 0
+2023-11-01 20:27:23,320+0100 INFO  pdflatex - this process (5904) started by texmaker in directory C:\Users\Vinzenz Götz\Desktop\Uni\Aero\Studienarbeit_Aeroelastik_WS2023\TexDinge with command line: pdflatex -synctex=1 -interaction=nonstopmode thesis.tex
+2023-11-01 20:27:23,320+0100 INFO  pdflatex - running on Windows 10.0.19045
+2023-11-01 20:27:23,323+0100 INFO  pdflatex - this is MiKTeX-PDFTEX 4.16.0 (1.40.25) (MiKTeX 23.10.12 Portable)
+2023-11-01 20:27:23,332+0100 INFO  pdflatex - allowing known shell commands
+2023-11-01 20:27:29,660+0100 INFO  pdflatex - this process (5904) finishes with exit code 0
+2023-11-01 20:27:31,661+0100 INFO  pdflatex - this process (11484) started by texmaker in directory C:\Users\Vinzenz Götz\Desktop\Uni\Aero\Studienarbeit_Aeroelastik_WS2023\TexDinge with command line: pdflatex -synctex=1 -interaction=nonstopmode thesis.tex
+2023-11-01 20:27:31,661+0100 INFO  pdflatex - running on Windows 10.0.19045
+2023-11-01 20:27:31,664+0100 INFO  pdflatex - this is MiKTeX-PDFTEX 4.16.0 (1.40.25) (MiKTeX 23.10.12 Portable)
+2023-11-01 20:27:31,674+0100 INFO  pdflatex - allowing known shell commands
+2023-11-01 20:27:38,110+0100 INFO  pdflatex - this process (11484) finishes with exit code 0
+2023-11-02 17:40:02,076+0100 INFO  pdflatex - this process (16188) started by texmaker in directory C:\Users\Vinzenz Götz\Desktop\Uni\Aero\Studienarbeit_Aeroelastik_WS2023\TexDinge with command line: pdflatex -synctex=1 -interaction=nonstopmode thesis.tex
+2023-11-02 17:40:02,077+0100 INFO  pdflatex - running on Windows 10.0.19045
+2023-11-02 17:40:02,081+0100 INFO  pdflatex - this is MiKTeX-PDFTEX 4.16.0 (1.40.25) (MiKTeX 23.10.12 Portable)
+2023-11-02 17:40:02,108+0100 INFO  pdflatex - allowing known shell commands
+2023-11-02 17:40:10,143+0100 INFO  pdflatex - this process (16188) finishes with exit code 0
+2023-11-02 17:40:18,251+0100 INFO  pdflatex - this process (11556) started by texmaker in directory C:\Users\Vinzenz Götz\Desktop\Uni\Aero\Studienarbeit_Aeroelastik_WS2023\TexDinge with command line: pdflatex -synctex=1 -interaction=nonstopmode thesis.tex
+2023-11-02 17:40:18,252+0100 INFO  pdflatex - running on Windows 10.0.19045
+2023-11-02 17:40:18,254+0100 INFO  pdflatex - this is MiKTeX-PDFTEX 4.16.0 (1.40.25) (MiKTeX 23.10.12 Portable)
+2023-11-02 17:40:18,265+0100 INFO  pdflatex - allowing known shell commands
+2023-11-02 17:40:24,749+0100 INFO  pdflatex - this process (11556) finishes with exit code 0
+2023-11-02 17:40:26,722+0100 INFO  pdflatex - this process (15300) started by texmaker in directory C:\Users\Vinzenz Götz\Desktop\Uni\Aero\Studienarbeit_Aeroelastik_WS2023\TexDinge with command line: pdflatex -synctex=1 -interaction=nonstopmode thesis.tex
+2023-11-02 17:40:26,723+0100 INFO  pdflatex - running on Windows 10.0.19045
+2023-11-02 17:40:26,725+0100 INFO  pdflatex - this is MiKTeX-PDFTEX 4.16.0 (1.40.25) (MiKTeX 23.10.12 Portable)
+2023-11-02 17:40:26,735+0100 INFO  pdflatex - allowing known shell commands
+2023-11-02 17:40:33,848+0100 INFO  pdflatex - this process (15300) finishes with exit code 0
+2023-11-02 17:51:57,849+0100 INFO  pdflatex - this process (8648) started by texmaker in directory C:\Users\Vinzenz Götz\Desktop\Uni\Aero\Studienarbeit_Aeroelastik_WS2023\TexDinge with command line: pdflatex -synctex=1 -interaction=nonstopmode thesis.tex
+2023-11-02 17:51:57,850+0100 INFO  pdflatex - running on Windows 10.0.19045
+2023-11-02 17:51:57,853+0100 INFO  pdflatex - this is MiKTeX-PDFTEX 4.16.0 (1.40.25) (MiKTeX 23.10.12 Portable)
+2023-11-02 17:51:57,861+0100 INFO  pdflatex - allowing known shell commands
+2023-11-02 17:52:04,069+0100 INFO  pdflatex - this process (8648) finishes with exit code 0
+2023-11-02 17:52:08,805+0100 INFO  pdflatex - this process (6316) started by texmaker in directory C:\Users\Vinzenz Götz\Desktop\Uni\Aero\Studienarbeit_Aeroelastik_WS2023\TexDinge with command line: pdflatex -synctex=1 -interaction=nonstopmode thesis.tex
+2023-11-02 17:52:08,805+0100 INFO  pdflatex - running on Windows 10.0.19045
+2023-11-02 17:52:08,808+0100 INFO  pdflatex - this is MiKTeX-PDFTEX 4.16.0 (1.40.25) (MiKTeX 23.10.12 Portable)
+2023-11-02 17:52:08,818+0100 INFO  pdflatex - allowing known shell commands
+2023-11-02 17:52:15,224+0100 INFO  pdflatex - this process (6316) finishes with exit code 0
+2023-11-02 17:52:17,286+0100 INFO  pdflatex - this process (16432) started by texmaker in directory C:\Users\Vinzenz Götz\Desktop\Uni\Aero\Studienarbeit_Aeroelastik_WS2023\TexDinge with command line: pdflatex -synctex=1 -interaction=nonstopmode thesis.tex
+2023-11-02 17:52:17,286+0100 INFO  pdflatex - running on Windows 10.0.19045
+2023-11-02 17:52:17,289+0100 INFO  pdflatex - this is MiKTeX-PDFTEX 4.16.0 (1.40.25) (MiKTeX 23.10.12 Portable)
+2023-11-02 17:52:17,297+0100 INFO  pdflatex - allowing known shell commands
+2023-11-02 17:52:23,922+0100 INFO  pdflatex - this process (16432) finishes with exit code 0
+2023-11-02 17:52:45,721+0100 INFO  pdflatex - this process (16920) started by texmaker in directory C:\Users\Vinzenz Götz\Desktop\Uni\Aero\Studienarbeit_Aeroelastik_WS2023\TexDinge with command line: pdflatex -synctex=1 -interaction=nonstopmode thesis.tex
+2023-11-02 17:52:45,722+0100 INFO  pdflatex - running on Windows 10.0.19045
+2023-11-02 17:52:45,724+0100 INFO  pdflatex - this is MiKTeX-PDFTEX 4.16.0 (1.40.25) (MiKTeX 23.10.12 Portable)
+2023-11-02 17:52:45,735+0100 INFO  pdflatex - allowing known shell commands
+2023-11-02 17:52:52,085+0100 INFO  pdflatex - this process (16920) finishes with exit code 0
+2023-11-02 17:52:57,406+0100 INFO  pdflatex - this process (9120) started by texmaker in directory C:\Users\Vinzenz Götz\Desktop\Uni\Aero\Studienarbeit_Aeroelastik_WS2023\TexDinge with command line: pdflatex -synctex=1 -interaction=nonstopmode thesis.tex
+2023-11-02 17:52:57,406+0100 INFO  pdflatex - running on Windows 10.0.19045
+2023-11-02 17:52:57,409+0100 INFO  pdflatex - this is MiKTeX-PDFTEX 4.16.0 (1.40.25) (MiKTeX 23.10.12 Portable)
+2023-11-02 17:52:57,418+0100 INFO  pdflatex - allowing known shell commands
+2023-11-02 17:53:03,891+0100 INFO  pdflatex - this process (9120) finishes with exit code 0
+2023-11-02 17:53:05,870+0100 INFO  pdflatex - this process (9844) started by texmaker in directory C:\Users\Vinzenz Götz\Desktop\Uni\Aero\Studienarbeit_Aeroelastik_WS2023\TexDinge with command line: pdflatex -synctex=1 -interaction=nonstopmode thesis.tex
+2023-11-02 17:53:05,870+0100 INFO  pdflatex - running on Windows 10.0.19045
+2023-11-02 17:53:05,873+0100 INFO  pdflatex - this is MiKTeX-PDFTEX 4.16.0 (1.40.25) (MiKTeX 23.10.12 Portable)
+2023-11-02 17:53:05,882+0100 INFO  pdflatex - allowing known shell commands
+2023-11-02 17:53:12,644+0100 INFO  pdflatex - this process (9844) finishes with exit code 0
+2023-11-02 17:53:31,388+0100 INFO  pdflatex - this process (11676) started by texmaker in directory C:\Users\Vinzenz Götz\Desktop\Uni\Aero\Studienarbeit_Aeroelastik_WS2023\TexDinge with command line: pdflatex -synctex=1 -interaction=nonstopmode thesis.tex
+2023-11-02 17:53:31,389+0100 INFO  pdflatex - running on Windows 10.0.19045
+2023-11-02 17:53:31,391+0100 INFO  pdflatex - this is MiKTeX-PDFTEX 4.16.0 (1.40.25) (MiKTeX 23.10.12 Portable)
+2023-11-02 17:53:31,401+0100 INFO  pdflatex - allowing known shell commands
+2023-11-02 17:53:37,705+0100 INFO  pdflatex - this process (11676) finishes with exit code 1
+2023-11-02 17:53:51,149+0100 INFO  pdflatex - this process (12352) started by texmaker in directory C:\Users\Vinzenz Götz\Desktop\Uni\Aero\Studienarbeit_Aeroelastik_WS2023\TexDinge with command line: pdflatex -synctex=1 -interaction=nonstopmode thesis.tex
+2023-11-02 17:53:51,149+0100 INFO  pdflatex - running on Windows 10.0.19045
+2023-11-02 17:53:51,152+0100 INFO  pdflatex - this is MiKTeX-PDFTEX 4.16.0 (1.40.25) (MiKTeX 23.10.12 Portable)
+2023-11-02 17:53:51,160+0100 INFO  pdflatex - allowing known shell commands
+2023-11-02 17:53:57,636+0100 INFO  pdflatex - this process (12352) finishes with exit code 1
+2023-11-02 17:54:09,672+0100 INFO  pdflatex - this process (16260) started by texmaker in directory C:\Users\Vinzenz Götz\Desktop\Uni\Aero\Studienarbeit_Aeroelastik_WS2023\TexDinge with command line: pdflatex -synctex=1 -interaction=nonstopmode thesis.tex
+2023-11-02 17:54:09,672+0100 INFO  pdflatex - running on Windows 10.0.19045
+2023-11-02 17:54:09,675+0100 INFO  pdflatex - this is MiKTeX-PDFTEX 4.16.0 (1.40.25) (MiKTeX 23.10.12 Portable)
+2023-11-02 17:54:09,684+0100 INFO  pdflatex - allowing known shell commands
+2023-11-02 17:54:15,981+0100 INFO  pdflatex - this process (16260) finishes with exit code 0
+2023-11-02 17:54:20,761+0100 INFO  pdflatex - this process (7316) started by texmaker in directory C:\Users\Vinzenz Götz\Desktop\Uni\Aero\Studienarbeit_Aeroelastik_WS2023\TexDinge with command line: pdflatex -synctex=1 -interaction=nonstopmode thesis.tex
+2023-11-02 17:54:20,762+0100 INFO  pdflatex - running on Windows 10.0.19045
+2023-11-02 17:54:20,764+0100 INFO  pdflatex - this is MiKTeX-PDFTEX 4.16.0 (1.40.25) (MiKTeX 23.10.12 Portable)
+2023-11-02 17:54:20,774+0100 INFO  pdflatex - allowing known shell commands
+2023-11-02 17:54:27,670+0100 INFO  pdflatex - this process (7316) finishes with exit code 0
+2023-11-02 17:54:29,560+0100 INFO  pdflatex - this process (16164) started by texmaker in directory C:\Users\Vinzenz Götz\Desktop\Uni\Aero\Studienarbeit_Aeroelastik_WS2023\TexDinge with command line: pdflatex -synctex=1 -interaction=nonstopmode thesis.tex
+2023-11-02 17:54:29,560+0100 INFO  pdflatex - running on Windows 10.0.19045
+2023-11-02 17:54:29,563+0100 INFO  pdflatex - this is MiKTeX-PDFTEX 4.16.0 (1.40.25) (MiKTeX 23.10.12 Portable)
+2023-11-02 17:54:29,572+0100 INFO  pdflatex - allowing known shell commands
+2023-11-02 17:54:36,167+0100 INFO  pdflatex - this process (16164) finishes with exit code 0
+2023-11-02 17:55:29,879+0100 INFO  pdflatex - this process (13652) started by texmaker in directory C:\Users\Vinzenz Götz\Desktop\Uni\Aero\Studienarbeit_Aeroelastik_WS2023\TexDinge with command line: pdflatex -synctex=1 -interaction=nonstopmode thesis.tex
+2023-11-02 17:55:29,879+0100 INFO  pdflatex - running on Windows 10.0.19045
+2023-11-02 17:55:29,881+0100 INFO  pdflatex - this is MiKTeX-PDFTEX 4.16.0 (1.40.25) (MiKTeX 23.10.12 Portable)
+2023-11-02 17:55:29,891+0100 INFO  pdflatex - allowing known shell commands
+2023-11-02 17:55:35,848+0100 INFO  pdflatex - this process (13652) finishes with exit code 0
+2023-11-02 17:55:40,792+0100 INFO  pdflatex - this process (14712) started by texmaker in directory C:\Users\Vinzenz Götz\Desktop\Uni\Aero\Studienarbeit_Aeroelastik_WS2023\TexDinge with command line: pdflatex -synctex=1 -interaction=nonstopmode thesis.tex
+2023-11-02 17:55:40,792+0100 INFO  pdflatex - running on Windows 10.0.19045
+2023-11-02 17:55:40,795+0100 INFO  pdflatex - this is MiKTeX-PDFTEX 4.16.0 (1.40.25) (MiKTeX 23.10.12 Portable)
+2023-11-02 17:55:40,803+0100 INFO  pdflatex - allowing known shell commands
+2023-11-02 17:55:47,368+0100 INFO  pdflatex - this process (14712) finishes with exit code 0
+2023-11-02 17:55:49,318+0100 INFO  pdflatex - this process (1420) started by texmaker in directory C:\Users\Vinzenz Götz\Desktop\Uni\Aero\Studienarbeit_Aeroelastik_WS2023\TexDinge with command line: pdflatex -synctex=1 -interaction=nonstopmode thesis.tex
+2023-11-02 17:55:49,318+0100 INFO  pdflatex - running on Windows 10.0.19045
+2023-11-02 17:55:49,321+0100 INFO  pdflatex - this is MiKTeX-PDFTEX 4.16.0 (1.40.25) (MiKTeX 23.10.12 Portable)
+2023-11-02 17:55:49,331+0100 INFO  pdflatex - allowing known shell commands
+2023-11-02 17:55:56,465+0100 INFO  pdflatex - this process (1420) finishes with exit code 0
+2023-11-02 17:56:20,063+0100 INFO  pdflatex - this process (5932) started by texmaker in directory C:\Users\Vinzenz Götz\Desktop\Uni\Aero\Studienarbeit_Aeroelastik_WS2023\TexDinge with command line: pdflatex -synctex=1 -interaction=nonstopmode thesis.tex
+2023-11-02 17:56:20,064+0100 INFO  pdflatex - running on Windows 10.0.19045
+2023-11-02 17:56:20,066+0100 INFO  pdflatex - this is MiKTeX-PDFTEX 4.16.0 (1.40.25) (MiKTeX 23.10.12 Portable)
+2023-11-02 17:56:20,075+0100 INFO  pdflatex - allowing known shell commands
+2023-11-02 17:56:26,403+0100 INFO  pdflatex - this process (5932) finishes with exit code 0
+2023-11-02 17:56:31,452+0100 INFO  pdflatex - this process (13712) started by texmaker in directory C:\Users\Vinzenz Götz\Desktop\Uni\Aero\Studienarbeit_Aeroelastik_WS2023\TexDinge with command line: pdflatex -synctex=1 -interaction=nonstopmode thesis.tex
+2023-11-02 17:56:31,452+0100 INFO  pdflatex - running on Windows 10.0.19045
+2023-11-02 17:56:31,455+0100 INFO  pdflatex - this is MiKTeX-PDFTEX 4.16.0 (1.40.25) (MiKTeX 23.10.12 Portable)
+2023-11-02 17:56:31,465+0100 INFO  pdflatex - allowing known shell commands
+2023-11-02 17:56:38,018+0100 INFO  pdflatex - this process (13712) finishes with exit code 0
+2023-11-02 17:56:39,932+0100 INFO  pdflatex - this process (7448) started by texmaker in directory C:\Users\Vinzenz Götz\Desktop\Uni\Aero\Studienarbeit_Aeroelastik_WS2023\TexDinge with command line: pdflatex -synctex=1 -interaction=nonstopmode thesis.tex
+2023-11-02 17:56:39,932+0100 INFO  pdflatex - running on Windows 10.0.19045
+2023-11-02 17:56:39,934+0100 INFO  pdflatex - this is MiKTeX-PDFTEX 4.16.0 (1.40.25) (MiKTeX 23.10.12 Portable)
+2023-11-02 17:56:39,944+0100 INFO  pdflatex - allowing known shell commands
+2023-11-02 17:56:46,884+0100 INFO  pdflatex - this process (7448) finishes with exit code 0
+2023-11-02 17:57:34,471+0100 INFO  pdflatex - this process (15512) started by texmaker in directory C:\Users\Vinzenz Götz\Desktop\Uni\Aero\Studienarbeit_Aeroelastik_WS2023\TexDinge with command line: pdflatex -synctex=1 -interaction=nonstopmode thesis.tex
+2023-11-02 17:57:34,471+0100 INFO  pdflatex - running on Windows 10.0.19045
+2023-11-02 17:57:34,475+0100 INFO  pdflatex - this is MiKTeX-PDFTEX 4.16.0 (1.40.25) (MiKTeX 23.10.12 Portable)
+2023-11-02 17:57:34,483+0100 INFO  pdflatex - allowing known shell commands
+2023-11-02 17:57:40,427+0100 INFO  pdflatex - this process (15512) finishes with exit code 0
+2023-11-02 17:57:45,302+0100 INFO  pdflatex - this process (11196) started by texmaker in directory C:\Users\Vinzenz Götz\Desktop\Uni\Aero\Studienarbeit_Aeroelastik_WS2023\TexDinge with command line: pdflatex -synctex=1 -interaction=nonstopmode thesis.tex
+2023-11-02 17:57:45,302+0100 INFO  pdflatex - running on Windows 10.0.19045
+2023-11-02 17:57:45,305+0100 INFO  pdflatex - this is MiKTeX-PDFTEX 4.16.0 (1.40.25) (MiKTeX 23.10.12 Portable)
+2023-11-02 17:57:45,315+0100 INFO  pdflatex - allowing known shell commands
+2023-11-02 17:57:51,898+0100 INFO  pdflatex - this process (11196) finishes with exit code 0
+2023-11-02 17:57:53,824+0100 INFO  pdflatex - this process (17032) started by texmaker in directory C:\Users\Vinzenz Götz\Desktop\Uni\Aero\Studienarbeit_Aeroelastik_WS2023\TexDinge with command line: pdflatex -synctex=1 -interaction=nonstopmode thesis.tex
+2023-11-02 17:57:53,824+0100 INFO  pdflatex - running on Windows 10.0.19045
+2023-11-02 17:57:53,827+0100 INFO  pdflatex - this is MiKTeX-PDFTEX 4.16.0 (1.40.25) (MiKTeX 23.10.12 Portable)
+2023-11-02 17:57:53,836+0100 INFO  pdflatex - allowing known shell commands
+2023-11-02 17:58:00,814+0100 INFO  pdflatex - this process (17032) finishes with exit code 0
+2023-11-02 18:06:33,171+0100 INFO  pdflatex - this process (9280) started by texmaker in directory C:\Users\Vinzenz Götz\Desktop\Uni\Aero\Studienarbeit_Aeroelastik_WS2023\TexDinge with command line: pdflatex -synctex=1 -interaction=nonstopmode thesis.tex
+2023-11-02 18:06:33,171+0100 INFO  pdflatex - running on Windows 10.0.19045
+2023-11-02 18:06:33,174+0100 INFO  pdflatex - this is MiKTeX-PDFTEX 4.16.0 (1.40.25) (MiKTeX 23.10.12 Portable)
+2023-11-02 18:06:33,184+0100 INFO  pdflatex - allowing known shell commands
+2023-11-02 18:06:39,663+0100 INFO  pdflatex - this process (9280) finishes with exit code 1
+2023-11-02 18:07:14,617+0100 INFO  pdflatex - this process (18236) started by texmaker in directory C:\Users\Vinzenz Götz\Desktop\Uni\Aero\Studienarbeit_Aeroelastik_WS2023\TexDinge with command line: pdflatex -synctex=1 -interaction=nonstopmode thesis.tex
+2023-11-02 18:07:14,617+0100 INFO  pdflatex - running on Windows 10.0.19045
+2023-11-02 18:07:14,620+0100 INFO  pdflatex - this is MiKTeX-PDFTEX 4.16.0 (1.40.25) (MiKTeX 23.10.12 Portable)
+2023-11-02 18:07:14,630+0100 INFO  pdflatex - allowing known shell commands
+2023-11-02 18:07:20,875+0100 INFO  pdflatex - this process (18236) finishes with exit code 0
+2023-11-02 18:07:26,007+0100 INFO  pdflatex - this process (2872) started by texmaker in directory C:\Users\Vinzenz Götz\Desktop\Uni\Aero\Studienarbeit_Aeroelastik_WS2023\TexDinge with command line: pdflatex -synctex=1 -interaction=nonstopmode thesis.tex
+2023-11-02 18:07:26,007+0100 INFO  pdflatex - running on Windows 10.0.19045
+2023-11-02 18:07:26,010+0100 INFO  pdflatex - this is MiKTeX-PDFTEX 4.16.0 (1.40.25) (MiKTeX 23.10.12 Portable)
+2023-11-02 18:07:26,020+0100 INFO  pdflatex - allowing known shell commands
+2023-11-02 18:07:32,698+0100 INFO  pdflatex - this process (2872) finishes with exit code 0
+2023-11-02 18:07:34,734+0100 INFO  pdflatex - this process (11280) started by texmaker in directory C:\Users\Vinzenz Götz\Desktop\Uni\Aero\Studienarbeit_Aeroelastik_WS2023\TexDinge with command line: pdflatex -synctex=1 -interaction=nonstopmode thesis.tex
+2023-11-02 18:07:34,734+0100 INFO  pdflatex - running on Windows 10.0.19045
+2023-11-02 18:07:34,736+0100 INFO  pdflatex - this is MiKTeX-PDFTEX 4.16.0 (1.40.25) (MiKTeX 23.10.12 Portable)
+2023-11-02 18:07:34,747+0100 INFO  pdflatex - allowing known shell commands
+2023-11-02 18:07:41,925+0100 INFO  pdflatex - this process (11280) finishes with exit code 0
+2023-11-02 18:08:23,385+0100 INFO  pdflatex - this process (15272) started by texmaker in directory C:\Users\Vinzenz Götz\Desktop\Uni\Aero\Studienarbeit_Aeroelastik_WS2023\TexDinge with command line: pdflatex -synctex=1 -interaction=nonstopmode thesis.tex
+2023-11-02 18:08:23,385+0100 INFO  pdflatex - running on Windows 10.0.19045
+2023-11-02 18:08:23,388+0100 INFO  pdflatex - this is MiKTeX-PDFTEX 4.16.0 (1.40.25) (MiKTeX 23.10.12 Portable)
+2023-11-02 18:08:23,396+0100 INFO  pdflatex - allowing known shell commands
+2023-11-02 18:08:29,788+0100 INFO  pdflatex - this process (15272) finishes with exit code 1
+2023-11-02 18:09:09,030+0100 INFO  pdflatex - this process (812) started by texmaker in directory C:\Users\Vinzenz Götz\Desktop\Uni\Aero\Studienarbeit_Aeroelastik_WS2023\TexDinge with command line: pdflatex -synctex=1 -interaction=nonstopmode thesis.tex
+2023-11-02 18:09:09,031+0100 INFO  pdflatex - running on Windows 10.0.19045
+2023-11-02 18:09:09,034+0100 INFO  pdflatex - this is MiKTeX-PDFTEX 4.16.0 (1.40.25) (MiKTeX 23.10.12 Portable)
+2023-11-02 18:09:09,042+0100 INFO  pdflatex - allowing known shell commands
+2023-11-02 18:09:15,374+0100 INFO  pdflatex - this process (812) finishes with exit code 0
+2023-11-02 18:09:20,421+0100 INFO  pdflatex - this process (16432) started by texmaker in directory C:\Users\Vinzenz Götz\Desktop\Uni\Aero\Studienarbeit_Aeroelastik_WS2023\TexDinge with command line: pdflatex -synctex=1 -interaction=nonstopmode thesis.tex
+2023-11-02 18:09:20,421+0100 INFO  pdflatex - running on Windows 10.0.19045
+2023-11-02 18:09:20,424+0100 INFO  pdflatex - this is MiKTeX-PDFTEX 4.16.0 (1.40.25) (MiKTeX 23.10.12 Portable)
+2023-11-02 18:09:20,433+0100 INFO  pdflatex - allowing known shell commands
+2023-11-02 18:09:26,892+0100 INFO  pdflatex - this process (16432) finishes with exit code 0
+2023-11-02 18:09:28,852+0100 INFO  pdflatex - this process (17372) started by texmaker in directory C:\Users\Vinzenz Götz\Desktop\Uni\Aero\Studienarbeit_Aeroelastik_WS2023\TexDinge with command line: pdflatex -synctex=1 -interaction=nonstopmode thesis.tex
+2023-11-02 18:09:28,853+0100 INFO  pdflatex - running on Windows 10.0.19045
+2023-11-02 18:09:28,855+0100 INFO  pdflatex - this is MiKTeX-PDFTEX 4.16.0 (1.40.25) (MiKTeX 23.10.12 Portable)
+2023-11-02 18:09:28,865+0100 INFO  pdflatex - allowing known shell commands
+2023-11-02 18:09:36,029+0100 INFO  pdflatex - this process (17372) finishes with exit code 0
+2023-11-02 18:12:16,083+0100 INFO  pdflatex - this process (1004) started by texmaker in directory C:\Users\Vinzenz Götz\Desktop\Uni\Aero\Studienarbeit_Aeroelastik_WS2023\TexDinge with command line: pdflatex -synctex=1 -interaction=nonstopmode thesis.tex
+2023-11-02 18:12:16,083+0100 INFO  pdflatex - running on Windows 10.0.19045
+2023-11-02 18:12:16,085+0100 INFO  pdflatex - this is MiKTeX-PDFTEX 4.16.0 (1.40.25) (MiKTeX 23.10.12 Portable)
+2023-11-02 18:12:16,093+0100 INFO  pdflatex - allowing known shell commands
+2023-11-02 18:12:22,168+0100 INFO  pdflatex - this process (1004) finishes with exit code 0
+2023-11-02 18:12:27,378+0100 INFO  pdflatex - this process (9732) started by texmaker in directory C:\Users\Vinzenz Götz\Desktop\Uni\Aero\Studienarbeit_Aeroelastik_WS2023\TexDinge with command line: pdflatex -synctex=1 -interaction=nonstopmode thesis.tex
+2023-11-02 18:12:27,378+0100 INFO  pdflatex - running on Windows 10.0.19045
+2023-11-02 18:12:27,380+0100 INFO  pdflatex - this is MiKTeX-PDFTEX 4.16.0 (1.40.25) (MiKTeX 23.10.12 Portable)
+2023-11-02 18:12:27,389+0100 INFO  pdflatex - allowing known shell commands
+2023-11-02 18:12:33,852+0100 INFO  pdflatex - this process (9732) finishes with exit code 0
+2023-11-02 18:12:35,887+0100 INFO  pdflatex - this process (7796) started by texmaker in directory C:\Users\Vinzenz Götz\Desktop\Uni\Aero\Studienarbeit_Aeroelastik_WS2023\TexDinge with command line: pdflatex -synctex=1 -interaction=nonstopmode thesis.tex
+2023-11-02 18:12:35,887+0100 INFO  pdflatex - running on Windows 10.0.19045
+2023-11-02 18:12:35,890+0100 INFO  pdflatex - this is MiKTeX-PDFTEX 4.16.0 (1.40.25) (MiKTeX 23.10.12 Portable)
+2023-11-02 18:12:35,900+0100 INFO  pdflatex - allowing known shell commands
+2023-11-02 18:12:42,610+0100 INFO  pdflatex - this process (7796) finishes with exit code 0
+2023-11-02 18:25:29,581+0100 INFO  pdflatex - this process (15664) started by texmaker in directory C:\Users\Vinzenz Götz\Desktop\Uni\Aero\Studienarbeit_Aeroelastik_WS2023\TexDinge with command line: pdflatex -synctex=1 -interaction=nonstopmode thesis.tex
+2023-11-02 18:25:29,581+0100 INFO  pdflatex - running on Windows 10.0.19045
+2023-11-02 18:25:29,584+0100 INFO  pdflatex - this is MiKTeX-PDFTEX 4.16.0 (1.40.25) (MiKTeX 23.10.12 Portable)
+2023-11-02 18:25:29,594+0100 INFO  pdflatex - allowing known shell commands
+2023-11-02 18:25:36,612+0100 INFO  pdflatex - this process (15664) finishes with exit code 0
+2023-11-02 18:25:41,871+0100 INFO  pdflatex - this process (14464) started by texmaker in directory C:\Users\Vinzenz Götz\Desktop\Uni\Aero\Studienarbeit_Aeroelastik_WS2023\TexDinge with command line: pdflatex -synctex=1 -interaction=nonstopmode thesis.tex
+2023-11-02 18:25:41,872+0100 INFO  pdflatex - running on Windows 10.0.19045
+2023-11-02 18:25:41,874+0100 INFO  pdflatex - this is MiKTeX-PDFTEX 4.16.0 (1.40.25) (MiKTeX 23.10.12 Portable)
+2023-11-02 18:25:41,885+0100 INFO  pdflatex - allowing known shell commands
+2023-11-02 18:25:48,826+0100 INFO  pdflatex - this process (14464) finishes with exit code 0
+2023-11-02 18:25:50,848+0100 INFO  pdflatex - this process (17920) started by texmaker in directory C:\Users\Vinzenz Götz\Desktop\Uni\Aero\Studienarbeit_Aeroelastik_WS2023\TexDinge with command line: pdflatex -synctex=1 -interaction=nonstopmode thesis.tex
+2023-11-02 18:25:50,848+0100 INFO  pdflatex - running on Windows 10.0.19045
+2023-11-02 18:25:50,851+0100 INFO  pdflatex - this is MiKTeX-PDFTEX 4.16.0 (1.40.25) (MiKTeX 23.10.12 Portable)
+2023-11-02 18:25:50,861+0100 INFO  pdflatex - allowing known shell commands
+2023-11-02 18:25:57,651+0100 INFO  pdflatex - this process (17920) finishes with exit code 0
+2023-11-02 18:27:52,261+0100 INFO  pdflatex - this process (12688) started by texmaker in directory C:\Users\Vinzenz Götz\Desktop\Uni\Aero\Studienarbeit_Aeroelastik_WS2023\TexDinge with command line: pdflatex -synctex=1 -interaction=nonstopmode thesis.tex
+2023-11-02 18:27:52,261+0100 INFO  pdflatex - running on Windows 10.0.19045
+2023-11-02 18:27:52,264+0100 INFO  pdflatex - this is MiKTeX-PDFTEX 4.16.0 (1.40.25) (MiKTeX 23.10.12 Portable)
+2023-11-02 18:27:52,272+0100 INFO  pdflatex - allowing known shell commands
+2023-11-02 18:27:58,464+0100 INFO  pdflatex - this process (12688) finishes with exit code 0
+2023-11-02 18:28:03,290+0100 INFO  pdflatex - this process (4512) started by texmaker in directory C:\Users\Vinzenz Götz\Desktop\Uni\Aero\Studienarbeit_Aeroelastik_WS2023\TexDinge with command line: pdflatex -synctex=1 -interaction=nonstopmode thesis.tex
+2023-11-02 18:28:03,290+0100 INFO  pdflatex - running on Windows 10.0.19045
+2023-11-02 18:28:03,293+0100 INFO  pdflatex - this is MiKTeX-PDFTEX 4.16.0 (1.40.25) (MiKTeX 23.10.12 Portable)
+2023-11-02 18:28:03,304+0100 INFO  pdflatex - allowing known shell commands
+2023-11-02 18:28:09,912+0100 INFO  pdflatex - this process (4512) finishes with exit code 0
+2023-11-02 18:28:11,834+0100 INFO  pdflatex - this process (5680) started by texmaker in directory C:\Users\Vinzenz Götz\Desktop\Uni\Aero\Studienarbeit_Aeroelastik_WS2023\TexDinge with command line: pdflatex -synctex=1 -interaction=nonstopmode thesis.tex
+2023-11-02 18:28:11,834+0100 INFO  pdflatex - running on Windows 10.0.19045
+2023-11-02 18:28:11,837+0100 INFO  pdflatex - this is MiKTeX-PDFTEX 4.16.0 (1.40.25) (MiKTeX 23.10.12 Portable)
+2023-11-02 18:28:11,847+0100 INFO  pdflatex - allowing known shell commands
+2023-11-02 18:28:18,752+0100 INFO  pdflatex - this process (5680) finishes with exit code 0
+2023-11-02 18:28:48,468+0100 INFO  pdflatex - this process (13072) started by texmaker in directory C:\Users\Vinzenz Götz\Desktop\Uni\Aero\Studienarbeit_Aeroelastik_WS2023\TexDinge with command line: pdflatex -synctex=1 -interaction=nonstopmode thesis.tex
+2023-11-02 18:28:48,468+0100 INFO  pdflatex - running on Windows 10.0.19045
+2023-11-02 18:28:48,472+0100 INFO  pdflatex - this is MiKTeX-PDFTEX 4.16.0 (1.40.25) (MiKTeX 23.10.12 Portable)
+2023-11-02 18:28:48,480+0100 INFO  pdflatex - allowing known shell commands
+2023-11-02 18:28:55,348+0100 INFO  pdflatex - this process (13072) finishes with exit code 0
+2023-11-02 18:29:00,210+0100 INFO  pdflatex - this process (8872) started by texmaker in directory C:\Users\Vinzenz Götz\Desktop\Uni\Aero\Studienarbeit_Aeroelastik_WS2023\TexDinge with command line: pdflatex -synctex=1 -interaction=nonstopmode thesis.tex
+2023-11-02 18:29:00,210+0100 INFO  pdflatex - running on Windows 10.0.19045
+2023-11-02 18:29:00,213+0100 INFO  pdflatex - this is MiKTeX-PDFTEX 4.16.0 (1.40.25) (MiKTeX 23.10.12 Portable)
+2023-11-02 18:29:00,222+0100 INFO  pdflatex - allowing known shell commands
+2023-11-02 18:29:07,048+0100 INFO  pdflatex - this process (8872) finishes with exit code 0
+2023-11-02 18:29:09,022+0100 INFO  pdflatex - this process (14756) started by texmaker in directory C:\Users\Vinzenz Götz\Desktop\Uni\Aero\Studienarbeit_Aeroelastik_WS2023\TexDinge with command line: pdflatex -synctex=1 -interaction=nonstopmode thesis.tex
+2023-11-02 18:29:09,022+0100 INFO  pdflatex - running on Windows 10.0.19045
+2023-11-02 18:29:09,026+0100 INFO  pdflatex - this is MiKTeX-PDFTEX 4.16.0 (1.40.25) (MiKTeX 23.10.12 Portable)
+2023-11-02 18:29:09,034+0100 INFO  pdflatex - allowing known shell commands
+2023-11-02 18:29:16,101+0100 INFO  pdflatex - this process (14756) finishes with exit code 0
+2023-11-02 18:30:01,052+0100 INFO  pdflatex - this process (5256) started by texmaker in directory C:\Users\Vinzenz Götz\Desktop\Uni\Aero\Studienarbeit_Aeroelastik_WS2023\TexDinge with command line: pdflatex -synctex=1 -interaction=nonstopmode thesis.tex
+2023-11-02 18:30:01,052+0100 INFO  pdflatex - running on Windows 10.0.19045
+2023-11-02 18:30:01,055+0100 INFO  pdflatex - this is MiKTeX-PDFTEX 4.16.0 (1.40.25) (MiKTeX 23.10.12 Portable)
+2023-11-02 18:30:01,064+0100 INFO  pdflatex - allowing known shell commands
+2023-11-02 18:30:07,567+0100 INFO  pdflatex - this process (5256) finishes with exit code 0
+2023-11-02 18:30:13,291+0100 INFO  pdflatex - this process (5104) started by texmaker in directory C:\Users\Vinzenz Götz\Desktop\Uni\Aero\Studienarbeit_Aeroelastik_WS2023\TexDinge with command line: pdflatex -synctex=1 -interaction=nonstopmode thesis.tex
+2023-11-02 18:30:13,291+0100 INFO  pdflatex - running on Windows 10.0.19045
+2023-11-02 18:30:13,294+0100 INFO  pdflatex - this is MiKTeX-PDFTEX 4.16.0 (1.40.25) (MiKTeX 23.10.12 Portable)
+2023-11-02 18:30:13,303+0100 INFO  pdflatex - allowing known shell commands
+2023-11-02 18:30:19,960+0100 INFO  pdflatex - this process (5104) finishes with exit code 0
+2023-11-02 18:30:21,946+0100 INFO  pdflatex - this process (17896) started by texmaker in directory C:\Users\Vinzenz Götz\Desktop\Uni\Aero\Studienarbeit_Aeroelastik_WS2023\TexDinge with command line: pdflatex -synctex=1 -interaction=nonstopmode thesis.tex
+2023-11-02 18:30:21,947+0100 INFO  pdflatex - running on Windows 10.0.19045
+2023-11-02 18:30:21,949+0100 INFO  pdflatex - this is MiKTeX-PDFTEX 4.16.0 (1.40.25) (MiKTeX 23.10.12 Portable)
+2023-11-02 18:30:21,958+0100 INFO  pdflatex - allowing known shell commands
+2023-11-02 18:30:28,935+0100 INFO  pdflatex - this process (17896) finishes with exit code 0
+2023-11-02 18:30:44,130+0100 INFO  pdflatex - this process (7276) started by texmaker in directory C:\Users\Vinzenz Götz\Desktop\Uni\Aero\Studienarbeit_Aeroelastik_WS2023\TexDinge with command line: pdflatex -synctex=1 -interaction=nonstopmode thesis.tex
+2023-11-02 18:30:44,130+0100 INFO  pdflatex - running on Windows 10.0.19045
+2023-11-02 18:30:44,132+0100 INFO  pdflatex - this is MiKTeX-PDFTEX 4.16.0 (1.40.25) (MiKTeX 23.10.12 Portable)
+2023-11-02 18:30:44,141+0100 INFO  pdflatex - allowing known shell commands
+2023-11-02 18:30:50,383+0100 INFO  pdflatex - this process (7276) finishes with exit code 0
+2023-11-02 18:30:55,371+0100 INFO  pdflatex - this process (10280) started by texmaker in directory C:\Users\Vinzenz Götz\Desktop\Uni\Aero\Studienarbeit_Aeroelastik_WS2023\TexDinge with command line: pdflatex -synctex=1 -interaction=nonstopmode thesis.tex
+2023-11-02 18:30:55,372+0100 INFO  pdflatex - running on Windows 10.0.19045
+2023-11-02 18:30:55,375+0100 INFO  pdflatex - this is MiKTeX-PDFTEX 4.16.0 (1.40.25) (MiKTeX 23.10.12 Portable)
+2023-11-02 18:30:55,384+0100 INFO  pdflatex - allowing known shell commands
+2023-11-02 18:31:02,757+0100 INFO  pdflatex - this process (10280) finishes with exit code 0
+2023-11-02 18:31:05,252+0100 INFO  pdflatex - this process (10540) started by texmaker in directory C:\Users\Vinzenz Götz\Desktop\Uni\Aero\Studienarbeit_Aeroelastik_WS2023\TexDinge with command line: pdflatex -synctex=1 -interaction=nonstopmode thesis.tex
+2023-11-02 18:31:05,252+0100 INFO  pdflatex - running on Windows 10.0.19045
+2023-11-02 18:31:05,258+0100 INFO  pdflatex - this is MiKTeX-PDFTEX 4.16.0 (1.40.25) (MiKTeX 23.10.12 Portable)
+2023-11-02 18:31:05,279+0100 INFO  pdflatex - allowing known shell commands
+2023-11-02 18:31:13,096+0100 INFO  pdflatex - this process (10540) finishes with exit code 0
+2023-11-02 18:44:43,666+0100 INFO  pdflatex - this process (8304) started by texmaker in directory C:\Users\Vinzenz Götz\Desktop\Uni\Aero\Studienarbeit_Aeroelastik_WS2023\TexDinge with command line: pdflatex -synctex=1 -interaction=nonstopmode thesis.tex
+2023-11-02 18:44:43,666+0100 INFO  pdflatex - running on Windows 10.0.19045
+2023-11-02 18:44:43,669+0100 INFO  pdflatex - this is MiKTeX-PDFTEX 4.16.0 (1.40.25) (MiKTeX 23.10.12 Portable)
+2023-11-02 18:44:43,679+0100 INFO  pdflatex - allowing known shell commands
+2023-11-02 18:44:50,471+0100 INFO  pdflatex - this process (8304) finishes with exit code 0
+2023-11-02 18:44:55,456+0100 INFO  pdflatex - this process (11624) started by texmaker in directory C:\Users\Vinzenz Götz\Desktop\Uni\Aero\Studienarbeit_Aeroelastik_WS2023\TexDinge with command line: pdflatex -synctex=1 -interaction=nonstopmode thesis.tex
+2023-11-02 18:44:55,456+0100 INFO  pdflatex - running on Windows 10.0.19045
+2023-11-02 18:44:55,459+0100 INFO  pdflatex - this is MiKTeX-PDFTEX 4.16.0 (1.40.25) (MiKTeX 23.10.12 Portable)
+2023-11-02 18:44:55,468+0100 INFO  pdflatex - allowing known shell commands
+2023-11-02 18:45:02,435+0100 INFO  pdflatex - this process (11624) finishes with exit code 0
+2023-11-02 18:45:04,419+0100 INFO  pdflatex - this process (13992) started by texmaker in directory C:\Users\Vinzenz Götz\Desktop\Uni\Aero\Studienarbeit_Aeroelastik_WS2023\TexDinge with command line: pdflatex -synctex=1 -interaction=nonstopmode thesis.tex
+2023-11-02 18:45:04,419+0100 INFO  pdflatex - running on Windows 10.0.19045
+2023-11-02 18:45:04,422+0100 INFO  pdflatex - this is MiKTeX-PDFTEX 4.16.0 (1.40.25) (MiKTeX 23.10.12 Portable)
+2023-11-02 18:45:04,432+0100 INFO  pdflatex - allowing known shell commands
+2023-11-02 18:45:11,296+0100 INFO  pdflatex - this process (13992) finishes with exit code 0
+2023-11-02 18:56:48,172+0100 INFO  pdflatex - this process (14888) started by texmaker in directory C:\Users\Vinzenz Götz\Desktop\Uni\Aero\Studienarbeit_Aeroelastik_WS2023\TexDinge with command line: pdflatex -synctex=1 -interaction=nonstopmode thesis.tex
+2023-11-02 18:56:48,172+0100 INFO  pdflatex - running on Windows 10.0.19045
+2023-11-02 18:56:48,176+0100 INFO  pdflatex - this is MiKTeX-PDFTEX 4.16.0 (1.40.25) (MiKTeX 23.10.12 Portable)
+2023-11-02 18:56:48,185+0100 INFO  pdflatex - allowing known shell commands
+2023-11-02 18:56:56,488+0100 INFO  pdflatex - this process (14888) finishes with exit code 1
+2023-11-02 18:58:43,693+0100 INFO  pdflatex - this process (16320) started by texmaker in directory C:\Users\Vinzenz Götz\Desktop\Uni\Aero\Studienarbeit_Aeroelastik_WS2023\TexDinge with command line: pdflatex -synctex=1 -interaction=nonstopmode thesis.tex
+2023-11-02 18:58:43,693+0100 INFO  pdflatex - running on Windows 10.0.19045
+2023-11-02 18:58:43,696+0100 INFO  pdflatex - this is MiKTeX-PDFTEX 4.16.0 (1.40.25) (MiKTeX 23.10.12 Portable)
+2023-11-02 18:58:43,705+0100 INFO  pdflatex - allowing known shell commands
+2023-11-02 18:58:50,682+0100 INFO  pdflatex - this process (16320) finishes with exit code 0
+2023-11-02 18:58:56,162+0100 INFO  pdflatex - this process (7380) started by texmaker in directory C:\Users\Vinzenz Götz\Desktop\Uni\Aero\Studienarbeit_Aeroelastik_WS2023\TexDinge with command line: pdflatex -synctex=1 -interaction=nonstopmode thesis.tex
+2023-11-02 18:58:56,165+0100 INFO  pdflatex - running on Windows 10.0.19045
+2023-11-02 18:58:56,168+0100 INFO  pdflatex - this is MiKTeX-PDFTEX 4.16.0 (1.40.25) (MiKTeX 23.10.12 Portable)
+2023-11-02 18:58:56,177+0100 INFO  pdflatex - allowing known shell commands
+2023-11-02 18:59:03,448+0100 INFO  pdflatex - this process (7380) finishes with exit code 0
+2023-11-02 18:59:05,896+0100 INFO  pdflatex - this process (1424) started by texmaker in directory C:\Users\Vinzenz Götz\Desktop\Uni\Aero\Studienarbeit_Aeroelastik_WS2023\TexDinge with command line: pdflatex -synctex=1 -interaction=nonstopmode thesis.tex
+2023-11-02 18:59:05,896+0100 INFO  pdflatex - running on Windows 10.0.19045
+2023-11-02 18:59:05,900+0100 INFO  pdflatex - this is MiKTeX-PDFTEX 4.16.0 (1.40.25) (MiKTeX 23.10.12 Portable)
+2023-11-02 18:59:05,911+0100 INFO  pdflatex - allowing known shell commands
+2023-11-02 18:59:13,218+0100 INFO  pdflatex - this process (1424) finishes with exit code 0
+2023-11-04 08:20:33,943+0100 INFO  pdflatex - this process (10616) started by texmaker in directory C:\Users\Vinzenz Götz\Desktop\Uni\CFDStudienarbeit\Tex\Praktikumsbericht with command line: pdflatex -synctex=1 -interaction=nonstopmode thesis.tex
+2023-11-04 08:20:33,943+0100 INFO  pdflatex - running on Windows 10.0.19045
+2023-11-04 08:20:33,946+0100 INFO  pdflatex - this is MiKTeX-PDFTEX 4.16.0 (1.40.25) (MiKTeX 23.10.12 Portable)
+2023-11-04 08:20:33,972+0100 INFO  pdflatex - allowing known shell commands
+2023-11-04 08:20:49,290+0100 INFO  pdflatex - this process (10616) finishes with exit code 1
+2023-11-04 08:24:33,650+0100 INFO  pdflatex - this process (5676) started by texmaker in directory C:\Users\Vinzenz Götz\Desktop\Uni\CFDStudienarbeit\Tex\Studienarbeit with command line: pdflatex -synctex=1 -interaction=nonstopmode thesis.tex
+2023-11-04 08:24:33,650+0100 INFO  pdflatex - running on Windows 10.0.19045
+2023-11-04 08:24:33,653+0100 INFO  pdflatex - this is MiKTeX-PDFTEX 4.16.0 (1.40.25) (MiKTeX 23.10.12 Portable)
+2023-11-04 08:24:33,662+0100 INFO  pdflatex - allowing known shell commands
+2023-11-04 08:24:42,350+0100 INFO  pdflatex - this process (5676) finishes with exit code 1
+2023-11-04 08:26:30,371+0100 INFO  pdflatex - this process (12196) started by texmaker in directory C:\Users\Vinzenz Götz\Desktop\Uni\CFDStudienarbeit\Tex\Studienarbeit with command line: pdflatex -synctex=1 -interaction=nonstopmode thesis.tex
+2023-11-04 08:26:30,372+0100 INFO  pdflatex - running on Windows 10.0.19045
+2023-11-04 08:26:30,375+0100 INFO  pdflatex - this is MiKTeX-PDFTEX 4.16.0 (1.40.25) (MiKTeX 23.10.12 Portable)
+2023-11-04 08:26:30,386+0100 INFO  pdflatex - allowing known shell commands
+2023-11-04 08:26:38,030+0100 INFO  pdflatex - this process (12196) finishes with exit code 1
+2023-11-04 08:26:57,171+0100 INFO  pdflatex - this process (18684) started by texmaker in directory C:\Users\Vinzenz Götz\Desktop\Uni\CFDStudienarbeit\Tex\Studienarbeit with command line: pdflatex -synctex=1 -interaction=nonstopmode thesis.tex
+2023-11-04 08:26:57,171+0100 INFO  pdflatex - running on Windows 10.0.19045
+2023-11-04 08:26:57,174+0100 INFO  pdflatex - this is MiKTeX-PDFTEX 4.16.0 (1.40.25) (MiKTeX 23.10.12 Portable)
+2023-11-04 08:26:57,186+0100 INFO  pdflatex - allowing known shell commands
+2023-11-04 08:27:05,463+0100 INFO  pdflatex - this process (18684) finishes with exit code 0
+2023-11-04 08:27:16,847+0100 INFO  pdflatex - this process (19048) started by texmaker in directory C:\Users\Vinzenz Götz\Desktop\Uni\CFDStudienarbeit\Tex\Studienarbeit with command line: pdflatex -synctex=1 -interaction=nonstopmode thesis.tex
+2023-11-04 08:27:16,847+0100 INFO  pdflatex - running on Windows 10.0.19045
+2023-11-04 08:27:16,851+0100 INFO  pdflatex - this is MiKTeX-PDFTEX 4.16.0 (1.40.25) (MiKTeX 23.10.12 Portable)
+2023-11-04 08:27:16,864+0100 INFO  pdflatex - allowing known shell commands
+2023-11-04 08:27:26,142+0100 INFO  pdflatex - this process (19048) finishes with exit code 0
+2023-11-04 08:27:29,168+0100 INFO  pdflatex - this process (15368) started by texmaker in directory C:\Users\Vinzenz Götz\Desktop\Uni\CFDStudienarbeit\Tex\Studienarbeit with command line: pdflatex -synctex=1 -interaction=nonstopmode thesis.tex
+2023-11-04 08:27:29,169+0100 INFO  pdflatex - running on Windows 10.0.19045
+2023-11-04 08:27:29,178+0100 INFO  pdflatex - this is MiKTeX-PDFTEX 4.16.0 (1.40.25) (MiKTeX 23.10.12 Portable)
+2023-11-04 08:27:29,193+0100 INFO  pdflatex - allowing known shell commands
+2023-11-04 08:27:38,200+0100 INFO  pdflatex - this process (15368) finishes with exit code 0
+2023-11-04 08:28:41,224+0100 INFO  pdflatex - this process (10888) started by texmaker in directory C:\Users\Vinzenz Götz\Desktop\Uni\CFDStudienarbeit\Tex\Studienarbeit with command line: pdflatex -synctex=1 -interaction=nonstopmode thesis.tex
+2023-11-04 08:28:41,225+0100 INFO  pdflatex - running on Windows 10.0.19045
+2023-11-04 08:28:41,228+0100 INFO  pdflatex - this is MiKTeX-PDFTEX 4.16.0 (1.40.25) (MiKTeX 23.10.12 Portable)
+2023-11-04 08:28:41,239+0100 INFO  pdflatex - allowing known shell commands
+2023-11-04 08:28:48,918+0100 INFO  pdflatex - this process (10888) finishes with exit code 0
+2023-11-04 08:28:55,886+0100 INFO  pdflatex - this process (2200) started by texmaker in directory C:\Users\Vinzenz Götz\Desktop\Uni\CFDStudienarbeit\Tex\Studienarbeit with command line: pdflatex -synctex=1 -interaction=nonstopmode thesis.tex
+2023-11-04 08:28:55,886+0100 INFO  pdflatex - running on Windows 10.0.19045
+2023-11-04 08:28:55,890+0100 INFO  pdflatex - this is MiKTeX-PDFTEX 4.16.0 (1.40.25) (MiKTeX 23.10.12 Portable)
+2023-11-04 08:28:55,903+0100 INFO  pdflatex - allowing known shell commands
+2023-11-04 08:29:05,097+0100 INFO  pdflatex - this process (2200) finishes with exit code 0
+2023-11-04 08:29:08,097+0100 INFO  pdflatex - this process (13696) started by texmaker in directory C:\Users\Vinzenz Götz\Desktop\Uni\CFDStudienarbeit\Tex\Studienarbeit with command line: pdflatex -synctex=1 -interaction=nonstopmode thesis.tex
+2023-11-04 08:29:08,097+0100 INFO  pdflatex - running on Windows 10.0.19045
+2023-11-04 08:29:08,100+0100 INFO  pdflatex - this is MiKTeX-PDFTEX 4.16.0 (1.40.25) (MiKTeX 23.10.12 Portable)
+2023-11-04 08:29:08,112+0100 INFO  pdflatex - allowing known shell commands
+2023-11-04 08:29:18,218+0100 INFO  pdflatex - this process (13696) finishes with exit code 0
+2023-11-04 08:31:16,484+0100 INFO  pdflatex - this process (12704) started by texmaker in directory C:\Users\Vinzenz Götz\Desktop\Uni\CFDStudienarbeit\Tex\Studienarbeit with command line: pdflatex -synctex=1 -interaction=nonstopmode thesis.tex
+2023-11-04 08:31:16,484+0100 INFO  pdflatex - running on Windows 10.0.19045
+2023-11-04 08:31:16,487+0100 INFO  pdflatex - this is MiKTeX-PDFTEX 4.16.0 (1.40.25) (MiKTeX 23.10.12 Portable)
+2023-11-04 08:31:16,496+0100 INFO  pdflatex - allowing known shell commands
+2023-11-04 08:31:22,233+0100 INFO  pdflatex - this process (12704) finishes with exit code 1
+2023-11-04 08:31:22,236+0100 WARN  pdflatex.core - still open: thesis.tex
+2023-11-04 08:31:22,236+0100 WARN  pdflatex.core - still open: "C:\Users\Vinzenz Götz\Desktop\Uni\CFDStudienarbeit\Tex\miktex\texmfs\install\tex/latex/babel-german\german.ldf"
+2023-11-04 08:31:22,236+0100 WARN  pdflatex.core - still open: "C:\Users\Vinzenz Götz\Desktop\Uni\CFDStudienarbeit\Tex\miktex\texmfs\install\tex/generic/babel\babel.sty"
+2023-11-04 08:31:46,755+0100 INFO  pdflatex - this process (1912) started by texmaker in directory C:\Users\Vinzenz Götz\Desktop\Uni\CFDStudienarbeit\Tex\Studienarbeit with command line: pdflatex -synctex=1 -interaction=nonstopmode thesis.tex
+2023-11-04 08:31:46,755+0100 INFO  pdflatex - running on Windows 10.0.19045
+2023-11-04 08:31:46,758+0100 INFO  pdflatex - this is MiKTeX-PDFTEX 4.16.0 (1.40.25) (MiKTeX 23.10.12 Portable)
+2023-11-04 08:31:46,771+0100 INFO  pdflatex - allowing known shell commands
+2023-11-04 08:31:52,427+0100 INFO  pdflatex - this process (1912) finishes with exit code 1
+2023-11-04 08:31:52,430+0100 WARN  pdflatex.core - still open: thesis.tex
+2023-11-04 08:31:52,430+0100 WARN  pdflatex.core - still open: "C:\Users\Vinzenz Götz\Desktop\Uni\CFDStudienarbeit\Tex\miktex\texmfs\install\tex/generic/babel\babel.sty"
+2023-11-04 08:31:52,430+0100 WARN  pdflatex.core - still open: "C:\Users\Vinzenz Götz\Desktop\Uni\CFDStudienarbeit\Tex\miktex\texmfs\install\tex/latex/babel-german\german.ldf"
+2023-11-04 08:32:13,319+0100 INFO  pdflatex - this process (12096) started by texmaker in directory C:\Users\Vinzenz Götz\Desktop\Uni\CFDStudienarbeit\Tex\Studienarbeit with command line: pdflatex -synctex=1 -interaction=nonstopmode thesis.tex
+2023-11-04 08:32:13,319+0100 INFO  pdflatex - running on Windows 10.0.19045
+2023-11-04 08:32:13,323+0100 INFO  pdflatex - this is MiKTeX-PDFTEX 4.16.0 (1.40.25) (MiKTeX 23.10.12 Portable)
+2023-11-04 08:32:13,336+0100 INFO  pdflatex - allowing known shell commands
+2023-11-04 08:32:21,212+0100 INFO  pdflatex - this process (12096) finishes with exit code 0
+2023-11-04 08:32:27,740+0100 INFO  pdflatex - this process (10936) started by texmaker in directory C:\Users\Vinzenz Götz\Desktop\Uni\CFDStudienarbeit\Tex\Studienarbeit with command line: pdflatex -synctex=1 -interaction=nonstopmode thesis.tex
+2023-11-04 08:32:27,740+0100 INFO  pdflatex - running on Windows 10.0.19045
+2023-11-04 08:32:27,745+0100 INFO  pdflatex - this is MiKTeX-PDFTEX 4.16.0 (1.40.25) (MiKTeX 23.10.12 Portable)
+2023-11-04 08:32:27,762+0100 INFO  pdflatex - allowing known shell commands
+2023-11-04 08:32:36,435+0100 INFO  pdflatex - this process (10936) finishes with exit code 0
+2023-11-04 08:32:39,302+0100 INFO  pdflatex - this process (16464) started by texmaker in directory C:\Users\Vinzenz Götz\Desktop\Uni\CFDStudienarbeit\Tex\Studienarbeit with command line: pdflatex -synctex=1 -interaction=nonstopmode thesis.tex
+2023-11-04 08:32:39,303+0100 INFO  pdflatex - running on Windows 10.0.19045
+2023-11-04 08:32:39,306+0100 INFO  pdflatex - this is MiKTeX-PDFTEX 4.16.0 (1.40.25) (MiKTeX 23.10.12 Portable)
+2023-11-04 08:32:39,319+0100 INFO  pdflatex - allowing known shell commands
+2023-11-04 08:32:48,629+0100 INFO  pdflatex - this process (16464) finishes with exit code 0
+2023-11-04 08:33:42,735+0100 INFO  pdflatex - this process (14204) started by texmaker in directory C:\Users\Vinzenz Götz\Desktop\Uni\CFDStudienarbeit\Tex\Studienarbeit with command line: pdflatex -synctex=1 -interaction=nonstopmode thesis.tex
+2023-11-04 08:33:42,735+0100 INFO  pdflatex - running on Windows 10.0.19045
+2023-11-04 08:33:42,739+0100 INFO  pdflatex - this is MiKTeX-PDFTEX 4.16.0 (1.40.25) (MiKTeX 23.10.12 Portable)
+2023-11-04 08:33:42,752+0100 INFO  pdflatex - allowing known shell commands
+2023-11-04 08:33:54,811+0100 INFO  pdflatex - this process (14204) finishes with exit code 0
+2023-11-04 08:34:03,400+0100 INFO  pdflatex - this process (11064) started by texmaker in directory C:\Users\Vinzenz Götz\Desktop\Uni\CFDStudienarbeit\Tex\Studienarbeit with command line: pdflatex -synctex=1 -interaction=nonstopmode thesis.tex
+2023-11-04 08:34:03,400+0100 INFO  pdflatex - running on Windows 10.0.19045
+2023-11-04 08:34:03,405+0100 INFO  pdflatex - this is MiKTeX-PDFTEX 4.16.0 (1.40.25) (MiKTeX 23.10.12 Portable)
+2023-11-04 08:34:03,421+0100 INFO  pdflatex - allowing known shell commands
+2023-11-04 08:34:13,188+0100 INFO  pdflatex - this process (11064) finishes with exit code 0
+2023-11-04 08:34:16,893+0100 INFO  pdflatex - this process (4808) started by texmaker in directory C:\Users\Vinzenz Götz\Desktop\Uni\CFDStudienarbeit\Tex\Studienarbeit with command line: pdflatex -synctex=1 -interaction=nonstopmode thesis.tex
+2023-11-04 08:34:16,893+0100 INFO  pdflatex - running on Windows 10.0.19045
+2023-11-04 08:34:16,898+0100 INFO  pdflatex - this is MiKTeX-PDFTEX 4.16.0 (1.40.25) (MiKTeX 23.10.12 Portable)
+2023-11-04 08:34:16,917+0100 INFO  pdflatex - allowing known shell commands
+2023-11-04 08:34:36,761+0100 INFO  pdflatex - this process (4808) finishes with exit code 0
+2023-11-04 08:37:10,934+0100 INFO  pdflatex - this process (9648) started by texmaker in directory C:\Users\Vinzenz Götz\Desktop\Uni\CFDStudienarbeit\Tex\Studienarbeit with command line: pdflatex -synctex=1 -interaction=nonstopmode thesis.tex
+2023-11-04 08:37:10,935+0100 INFO  pdflatex - running on Windows 10.0.19045
+2023-11-04 08:37:10,938+0100 INFO  pdflatex - this is MiKTeX-PDFTEX 4.16.0 (1.40.25) (MiKTeX 23.10.12 Portable)
+2023-11-04 08:37:10,950+0100 INFO  pdflatex - allowing known shell commands
+2023-11-04 08:37:18,416+0100 INFO  pdflatex - this process (9648) finishes with exit code 1
+2023-11-04 08:37:38,514+0100 INFO  pdflatex - this process (14224) started by texmaker in directory C:\Users\Vinzenz Götz\Desktop\Uni\CFDStudienarbeit\Tex\Studienarbeit with command line: pdflatex -synctex=1 -interaction=nonstopmode thesis.tex
+2023-11-04 08:37:38,515+0100 INFO  pdflatex - running on Windows 10.0.19045
+2023-11-04 08:37:38,518+0100 INFO  pdflatex - this is MiKTeX-PDFTEX 4.16.0 (1.40.25) (MiKTeX 23.10.12 Portable)
+2023-11-04 08:37:38,530+0100 INFO  pdflatex - allowing known shell commands
+2023-11-04 08:37:46,552+0100 INFO  pdflatex - this process (14224) finishes with exit code 0
+2023-11-04 08:37:53,016+0100 INFO  pdflatex - this process (5168) started by texmaker in directory C:\Users\Vinzenz Götz\Desktop\Uni\CFDStudienarbeit\Tex\Studienarbeit with command line: pdflatex -synctex=1 -interaction=nonstopmode thesis.tex
+2023-11-04 08:37:53,016+0100 INFO  pdflatex - running on Windows 10.0.19045
+2023-11-04 08:37:53,020+0100 INFO  pdflatex - this is MiKTeX-PDFTEX 4.16.0 (1.40.25) (MiKTeX 23.10.12 Portable)
+2023-11-04 08:37:53,035+0100 INFO  pdflatex - allowing known shell commands
+2023-11-04 08:38:01,524+0100 INFO  pdflatex - this process (5168) finishes with exit code 0
+2023-11-04 08:38:04,118+0100 INFO  pdflatex - this process (13168) started by texmaker in directory C:\Users\Vinzenz Götz\Desktop\Uni\CFDStudienarbeit\Tex\Studienarbeit with command line: pdflatex -synctex=1 -interaction=nonstopmode thesis.tex
+2023-11-04 08:38:04,119+0100 INFO  pdflatex - running on Windows 10.0.19045
+2023-11-04 08:38:04,123+0100 INFO  pdflatex - this is MiKTeX-PDFTEX 4.16.0 (1.40.25) (MiKTeX 23.10.12 Portable)
+2023-11-04 08:38:04,134+0100 INFO  pdflatex - allowing known shell commands
+2023-11-04 08:38:12,810+0100 INFO  pdflatex - this process (13168) finishes with exit code 0
+2023-11-04 08:40:57,541+0100 INFO  pdflatex - this process (10288) started by texmaker in directory C:\Users\Vinzenz Götz\Desktop\Uni\CFDStudienarbeit\Tex\Studienarbeit with command line: pdflatex -synctex=1 -interaction=nonstopmode thesis.tex
+2023-11-04 08:40:57,541+0100 INFO  pdflatex - running on Windows 10.0.19045
+2023-11-04 08:40:57,544+0100 INFO  pdflatex - this is MiKTeX-PDFTEX 4.16.0 (1.40.25) (MiKTeX 23.10.12 Portable)
+2023-11-04 08:40:57,555+0100 INFO  pdflatex - allowing known shell commands
+2023-11-04 08:41:02,836+0100 INFO  pdflatex - this process (10288) finishes with exit code 1
+2023-11-04 08:41:02,839+0100 WARN  pdflatex.core - still open: thesis.tex
+2023-11-04 08:41:02,839+0100 WARN  pdflatex.core - still open: "C:\Users\Vinzenz Götz\Desktop\Uni\CFDStudienarbeit\Tex\miktex\texmfs\install\tex/generic/babel\babel.sty"
+2023-11-04 08:41:02,839+0100 WARN  pdflatex.core - still open: "C:\Users\Vinzenz Götz\Desktop\Uni\CFDStudienarbeit\Tex\miktex\texmfs\install\tex/latex/babel-english\english.ldf"
+2023-11-04 08:43:00,296+0100 INFO  pdflatex - this process (8512) started by texmaker in directory C:\Users\Vinzenz Götz\Desktop\Uni\CFDStudienarbeit\Tex\Studienarbeit with command line: pdflatex -synctex=1 -interaction=nonstopmode thesis.tex
+2023-11-04 08:43:00,297+0100 INFO  pdflatex - running on Windows 10.0.19045
+2023-11-04 08:43:00,300+0100 INFO  pdflatex - this is MiKTeX-PDFTEX 4.16.0 (1.40.25) (MiKTeX 23.10.12 Portable)
+2023-11-04 08:43:00,311+0100 INFO  pdflatex - allowing known shell commands
+2023-11-04 08:43:18,107+0100 INFO  pdflatex - this process (8512) finishes with exit code 0
+2023-11-04 08:43:24,838+0100 INFO  pdflatex - this process (15460) started by texmaker in directory C:\Users\Vinzenz Götz\Desktop\Uni\CFDStudienarbeit\Tex\Studienarbeit with command line: pdflatex -synctex=1 -interaction=nonstopmode thesis.tex
+2023-11-04 08:43:24,838+0100 INFO  pdflatex - running on Windows 10.0.19045
+2023-11-04 08:43:24,842+0100 INFO  pdflatex - this is MiKTeX-PDFTEX 4.16.0 (1.40.25) (MiKTeX 23.10.12 Portable)
+2023-11-04 08:43:24,854+0100 INFO  pdflatex - allowing known shell commands
+2023-11-04 08:43:33,384+0100 INFO  pdflatex - this process (15460) finishes with exit code 0
+2023-11-04 08:43:36,041+0100 INFO  pdflatex - this process (12424) started by texmaker in directory C:\Users\Vinzenz Götz\Desktop\Uni\CFDStudienarbeit\Tex\Studienarbeit with command line: pdflatex -synctex=1 -interaction=nonstopmode thesis.tex
+2023-11-04 08:43:36,041+0100 INFO  pdflatex - running on Windows 10.0.19045
+2023-11-04 08:43:36,044+0100 INFO  pdflatex - this is MiKTeX-PDFTEX 4.16.0 (1.40.25) (MiKTeX 23.10.12 Portable)
+2023-11-04 08:43:36,058+0100 INFO  pdflatex - allowing known shell commands
+2023-11-04 08:43:45,496+0100 INFO  pdflatex - this process (12424) finishes with exit code 0
+2023-11-04 08:46:45,475+0100 INFO  pdflatex - this process (12168) started by texmaker in directory C:\Users\Vinzenz Götz\Desktop\Uni\CFDStudienarbeit\Tex\Studienarbeit with command line: pdflatex -synctex=1 -interaction=nonstopmode thesis.tex
+2023-11-04 08:46:45,475+0100 INFO  pdflatex - running on Windows 10.0.19045
+2023-11-04 08:46:45,478+0100 INFO  pdflatex - this is MiKTeX-PDFTEX 4.16.0 (1.40.25) (MiKTeX 23.10.12 Portable)
+2023-11-04 08:46:45,488+0100 INFO  pdflatex - allowing known shell commands
+2023-11-04 08:46:54,033+0100 INFO  pdflatex - this process (12168) finishes with exit code 1
+2023-11-04 08:47:14,618+0100 INFO  pdflatex - this process (13848) started by texmaker in directory C:\Users\Vinzenz Götz\Desktop\Uni\CFDStudienarbeit\Tex\Studienarbeit with command line: pdflatex -synctex=1 -interaction=nonstopmode thesis.tex
+2023-11-04 08:47:14,618+0100 INFO  pdflatex - running on Windows 10.0.19045
+2023-11-04 08:47:14,621+0100 INFO  pdflatex - this is MiKTeX-PDFTEX 4.16.0 (1.40.25) (MiKTeX 23.10.12 Portable)
+2023-11-04 08:47:14,634+0100 INFO  pdflatex - allowing known shell commands
+2023-11-04 08:47:23,190+0100 INFO  pdflatex - this process (13848) finishes with exit code 0
+2023-11-04 08:47:30,705+0100 INFO  pdflatex - this process (16748) started by texmaker in directory C:\Users\Vinzenz Götz\Desktop\Uni\CFDStudienarbeit\Tex\Studienarbeit with command line: pdflatex -synctex=1 -interaction=nonstopmode thesis.tex
+2023-11-04 08:47:30,705+0100 INFO  pdflatex - running on Windows 10.0.19045
+2023-11-04 08:47:30,710+0100 INFO  pdflatex - this is MiKTeX-PDFTEX 4.16.0 (1.40.25) (MiKTeX 23.10.12 Portable)
+2023-11-04 08:47:30,727+0100 INFO  pdflatex - allowing known shell commands
+2023-11-04 08:47:39,847+0100 INFO  pdflatex - this process (16748) finishes with exit code 0
+2023-11-04 08:47:42,827+0100 INFO  pdflatex - this process (1688) started by texmaker in directory C:\Users\Vinzenz Götz\Desktop\Uni\CFDStudienarbeit\Tex\Studienarbeit with command line: pdflatex -synctex=1 -interaction=nonstopmode thesis.tex
+2023-11-04 08:47:42,827+0100 INFO  pdflatex - running on Windows 10.0.19045
+2023-11-04 08:47:42,831+0100 INFO  pdflatex - this is MiKTeX-PDFTEX 4.16.0 (1.40.25) (MiKTeX 23.10.12 Portable)
+2023-11-04 08:47:42,843+0100 INFO  pdflatex - allowing known shell commands
+2023-11-04 08:47:52,939+0100 INFO  pdflatex - this process (1688) finishes with exit code 0
+2023-11-04 08:48:49,535+0100 INFO  pdflatex - this process (2808) started by texmaker in directory C:\Users\Vinzenz Götz\Desktop\Uni\CFDStudienarbeit\Tex\Studienarbeit with command line: pdflatex -synctex=1 -interaction=nonstopmode thesis.tex
+2023-11-04 08:48:49,535+0100 INFO  pdflatex - running on Windows 10.0.19045
+2023-11-04 08:48:49,538+0100 INFO  pdflatex - this is MiKTeX-PDFTEX 4.16.0 (1.40.25) (MiKTeX 23.10.12 Portable)
+2023-11-04 08:48:49,549+0100 INFO  pdflatex - allowing known shell commands
+2023-11-04 08:48:57,846+0100 INFO  pdflatex - this process (2808) finishes with exit code 0
+2023-11-04 08:49:04,701+0100 INFO  pdflatex - this process (18992) started by texmaker in directory C:\Users\Vinzenz Götz\Desktop\Uni\CFDStudienarbeit\Tex\Studienarbeit with command line: pdflatex -synctex=1 -interaction=nonstopmode thesis.tex
+2023-11-04 08:49:04,702+0100 INFO  pdflatex - running on Windows 10.0.19045
+2023-11-04 08:49:04,706+0100 INFO  pdflatex - this is MiKTeX-PDFTEX 4.16.0 (1.40.25) (MiKTeX 23.10.12 Portable)
+2023-11-04 08:49:04,722+0100 INFO  pdflatex - allowing known shell commands
+2023-11-04 08:49:14,324+0100 INFO  pdflatex - this process (18992) finishes with exit code 0
+2023-11-04 08:49:17,346+0100 INFO  pdflatex - this process (1912) started by texmaker in directory C:\Users\Vinzenz Götz\Desktop\Uni\CFDStudienarbeit\Tex\Studienarbeit with command line: pdflatex -synctex=1 -interaction=nonstopmode thesis.tex
+2023-11-04 08:49:17,346+0100 INFO  pdflatex - running on Windows 10.0.19045
+2023-11-04 08:49:17,351+0100 INFO  pdflatex - this is MiKTeX-PDFTEX 4.16.0 (1.40.25) (MiKTeX 23.10.12 Portable)
+2023-11-04 08:49:17,364+0100 INFO  pdflatex - allowing known shell commands
+2023-11-04 08:49:27,199+0100 INFO  pdflatex - this process (1912) finishes with exit code 0
+2023-11-04 08:50:25,633+0100 INFO  pdflatex - this process (8408) started by texmaker in directory C:\Users\Vinzenz Götz\Desktop\Uni\CFDStudienarbeit\Tex\Studienarbeit with command line: pdflatex -synctex=1 -interaction=nonstopmode thesis.tex
+2023-11-04 08:50:25,634+0100 INFO  pdflatex - running on Windows 10.0.19045
+2023-11-04 08:50:25,637+0100 INFO  pdflatex - this is MiKTeX-PDFTEX 4.16.0 (1.40.25) (MiKTeX 23.10.12 Portable)
+2023-11-04 08:50:25,646+0100 INFO  pdflatex - allowing known shell commands
+2023-11-04 08:50:31,943+0100 INFO  pdflatex - this process (8408) finishes with exit code 1
+2023-11-04 08:50:31,947+0100 WARN  pdflatex.core - still open: thesis.tex
+2023-11-04 08:50:31,947+0100 WARN  pdflatex.core - still open: "C:\Users\Vinzenz Götz\Desktop\Uni\CFDStudienarbeit\Tex\miktex\texmfs\install\tex/generic/babel\nil.ldf"
+2023-11-04 08:50:31,948+0100 WARN  pdflatex.core - still open: "C:\Users\Vinzenz Götz\Desktop\Uni\CFDStudienarbeit\Tex\miktex\texmfs\install\tex/generic/babel\babel.sty"
+2023-11-04 08:51:27,870+0100 INFO  pdflatex - this process (15264) started by texmaker in directory C:\Users\Vinzenz Götz\Desktop\Uni\CFDStudienarbeit\Tex\Studienarbeit with command line: pdflatex -synctex=1 -interaction=nonstopmode thesis.tex
+2023-11-04 08:51:27,870+0100 INFO  pdflatex - running on Windows 10.0.19045
+2023-11-04 08:51:27,873+0100 INFO  pdflatex - this is MiKTeX-PDFTEX 4.16.0 (1.40.25) (MiKTeX 23.10.12 Portable)
+2023-11-04 08:51:27,883+0100 INFO  pdflatex - allowing known shell commands
+2023-11-04 08:51:35,341+0100 INFO  pdflatex - this process (15264) finishes with exit code 0
+2023-11-04 08:51:41,449+0100 INFO  pdflatex - this process (5904) started by texmaker in directory C:\Users\Vinzenz Götz\Desktop\Uni\CFDStudienarbeit\Tex\Studienarbeit with command line: pdflatex -synctex=1 -interaction=nonstopmode thesis.tex
+2023-11-04 08:51:41,449+0100 INFO  pdflatex - running on Windows 10.0.19045
+2023-11-04 08:51:41,453+0100 INFO  pdflatex - this is MiKTeX-PDFTEX 4.16.0 (1.40.25) (MiKTeX 23.10.12 Portable)
+2023-11-04 08:51:41,466+0100 INFO  pdflatex - allowing known shell commands
+2023-11-04 08:51:50,268+0100 INFO  pdflatex - this process (5904) finishes with exit code 0
+2023-11-04 08:51:53,258+0100 INFO  pdflatex - this process (16524) started by texmaker in directory C:\Users\Vinzenz Götz\Desktop\Uni\CFDStudienarbeit\Tex\Studienarbeit with command line: pdflatex -synctex=1 -interaction=nonstopmode thesis.tex
+2023-11-04 08:51:53,259+0100 INFO  pdflatex - running on Windows 10.0.19045
+2023-11-04 08:51:53,262+0100 INFO  pdflatex - this is MiKTeX-PDFTEX 4.16.0 (1.40.25) (MiKTeX 23.10.12 Portable)
+2023-11-04 08:51:53,275+0100 INFO  pdflatex - allowing known shell commands
+2023-11-04 08:52:01,842+0100 INFO  pdflatex - this process (16524) finishes with exit code 0
+2023-11-04 08:54:00,523+0100 INFO  pdflatex - this process (4112) started by texmaker in directory C:\Users\Vinzenz Götz\Desktop\Uni\CFDStudienarbeit\Tex\Studienarbeit with command line: pdflatex -synctex=1 -interaction=nonstopmode thesis.tex
+2023-11-04 08:54:00,523+0100 INFO  pdflatex - running on Windows 10.0.19045
+2023-11-04 08:54:00,526+0100 INFO  pdflatex - this is MiKTeX-PDFTEX 4.16.0 (1.40.25) (MiKTeX 23.10.12 Portable)
+2023-11-04 08:54:00,539+0100 INFO  pdflatex - allowing known shell commands
+2023-11-04 08:54:08,957+0100 INFO  pdflatex - this process (4112) finishes with exit code 0
+2023-11-04 08:54:15,010+0100 INFO  pdflatex - this process (14496) started by texmaker in directory C:\Users\Vinzenz Götz\Desktop\Uni\CFDStudienarbeit\Tex\Studienarbeit with command line: pdflatex -synctex=1 -interaction=nonstopmode thesis.tex
+2023-11-04 08:54:15,010+0100 INFO  pdflatex - running on Windows 10.0.19045
+2023-11-04 08:54:15,013+0100 INFO  pdflatex - this is MiKTeX-PDFTEX 4.16.0 (1.40.25) (MiKTeX 23.10.12 Portable)
+2023-11-04 08:54:15,025+0100 INFO  pdflatex - allowing known shell commands
+2023-11-04 08:54:22,731+0100 INFO  pdflatex - this process (14496) finishes with exit code 0
+2023-11-04 08:54:25,282+0100 INFO  pdflatex - this process (13896) started by texmaker in directory C:\Users\Vinzenz Götz\Desktop\Uni\CFDStudienarbeit\Tex\Studienarbeit with command line: pdflatex -synctex=1 -interaction=nonstopmode thesis.tex
+2023-11-04 08:54:25,282+0100 INFO  pdflatex - running on Windows 10.0.19045
+2023-11-04 08:54:25,285+0100 INFO  pdflatex - this is MiKTeX-PDFTEX 4.16.0 (1.40.25) (MiKTeX 23.10.12 Portable)
+2023-11-04 08:54:25,296+0100 INFO  pdflatex - allowing known shell commands
+2023-11-04 08:54:33,708+0100 INFO  pdflatex - this process (13896) finishes with exit code 0
