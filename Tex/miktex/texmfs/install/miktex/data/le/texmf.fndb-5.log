@@ -926,3 +926,9 @@
 +nswissgerman.ldf;tex/latex/babel-german;
 +swissgerman.ldf;tex/latex/babel-german;
 +babel-german.tpm;tpm/packages;
++ieee-alphabetic.bbx;tex/latex/biblatex-ieee;
++biblatex-ieee.tpm;tpm/packages;
++ieee-alphabetic.cbx;tex/latex/biblatex-ieee;
++ieee.bbx;tex/latex/biblatex-ieee;
++ieee.cbx;tex/latex/biblatex-ieee;
++magyar-ieee.lbx;tex/latex/biblatex-ieee;

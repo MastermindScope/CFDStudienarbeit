@@ -2,23 +2,6 @@
 
 
 
-
-
-
-
-%% -------------------------------
-%% |    ISSD Thesis Template       |
-%% -------------------------------
-%% Further additions by:
-%%   Philipp Stroehle, IM, 2013 
-%%   Jasper Feine, ISSD, 2018
-%%   Merlin Knaeble, ISSD, 2020 
-%% firstname.lastname "at" kit.edu
-
-%% Notes:
-%% Language switch after \begin{document}
-
-% Based on thesisclass.cls of Timo Rohrberg, 2009
 % ----------------------------------------------------------------
 % Thesis - Main document
 % ----------------------------------------------------------------
@@ -46,7 +29,7 @@
 
 
 
-\usepackage[backend=biber,style=alphabetic,sorting=ynt]{biblatex}
+\usepackage[backend=biber,style=authoryear,sorting=ynt]{biblatex}
 \bibliography{thesis} 
 %\bibliographystyle{ieeetr}
 
@@ -79,17 +62,17 @@
 % uncomment one of the following, according to your thesis
 %\newcommand{\mytype}{Bachelor's Thesis} 
 %\newcommand{\mytype}{Master's Thesis}
-\newcommand{\mytype}{Bericht Praxissemester}
+\newcommand{\mytype}{Assignment one of three}
 
-\newcommand{\myname}{Vinzenz Götz}
-\newcommand{\matricle}{00107303}
-\newcommand{\mytitle}{Praxissemester bei Webasto Thermo \& Comfort SE}
-\newcommand{\myinstitute}{Praxissemester}
+\newcommand{\myname}{Andreas Wenger | Vinzenz Götz}
+\newcommand{\matricle}{M1 | M2}
+\newcommand{\mytitle}{Numerical model of one-dimensional heat conduction in a fin}
+\newcommand{\myinstitute}{}
 
 
-\newcommand{\reviewerone}{}
+\newcommand{\reviewerone}{Prof. Roberto Nunhez}
 
-\newcommand{\submissiontime}{WS 22/23}
+\newcommand{\submissiontime}{WS 23/24}
 
 %% -------------------------------
 %% |  Information for PDF file   |
@@ -173,7 +156,7 @@ he-lio-trope
 
 %\phantomsection
 \addcontentsline{toc}{chapter}{\bibname}
-\printbibliography[title = Literatur]
+\printbibliography[]
 
 
 

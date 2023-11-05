@@ -1,3 +1,5 @@
+%% LaTeX Template of Vinzenz Götz, based on the following templates.
+%% Modified over the years to fit my needs.
 %% LaTeX2e class for diploma theses
 %% Based on wissdoc.cls by Roland Bless, 1996-2001
 %% bless@telematik.informatik.uni-karlsruhe.de
@@ -60,7 +62,7 @@
 \onehalfspacing
 
 %\usepackage{natbib} % Bibliography style
-\usepackage[backend=biber,style=alphabetic,sorting=ynt]{biblatex}
+%\usepackage[backend=biber,style=ieee,sorting=ynt]{biblatex}
 
 %% --- End of Packages ---
 

@@ -127,3 +127,6 @@
 2023-11-01 20:25:30,483+0100 INFO  miktex-fc-cache - this process (17176) started by miktex in directory C:\Users\Vinzenz Götz\Desktop\Uni\Aero\Studienarbeit_Aeroelastik_WS2023\TexDinge with command line: miktex-fc-cache --miktex-disable-maintenance --miktex-disable-diagnose
 2023-11-01 20:25:30,483+0100 INFO  miktex-fc-cache - running on Windows 10.0.19045
 2023-11-01 20:25:30,628+0100 INFO  miktex-fc-cache - this process (17176) finishes with exit code 0
+2023-11-05 08:29:23,930+0100 INFO  miktex-fc-cache - this process (7048) started by miktex in directory C:\Users\Vinzenz Götz\Desktop\Uni\CFDStudienarbeit\Tex\Studienarbeit with command line: miktex-fc-cache --miktex-disable-maintenance --miktex-disable-diagnose
+2023-11-05 08:29:23,930+0100 INFO  miktex-fc-cache - running on Windows 10.0.19045
+2023-11-05 08:29:25,086+0100 INFO  miktex-fc-cache - this process (7048) finishes with exit code 0
