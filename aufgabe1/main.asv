@@ -1,0 +1,45 @@
+%% Assignment 1 main.m
+%Andreas Wenger & Vinzenz Goetz
+%Units = [kg,m,°C]
+%
+%A*T+b = T', do this very often
+%functions:
+%[output1, output2, ...] = fuction(input1, input2, ...)
+%matrix = createA(meshSize, k, h, P, L, At, T_w, T_ar)
+%vector = createFields(meshSize)
+%vector = initFields(vector)
+%vector = sourceTerms(meshSize, L, P, k, h, At, T_ar, T_w)
+%scalar = residual(eps, vector, norm)
+%graph = visualize(vectorx,vectorT)
+
+meshSize = input("Input Mesh Size >>>  ");
+if meshSize == 0
+    meshSize = 20;
+end
+
+k = 100;
+h = 10;
+P = 0.4;
+L = 1;
+A_t = 0.01;
+T_w = 20;
+T_ar = 20;
+
+
+A = createA(meshSize, k, h, P, L, A_t, T_w, T_ar);
+
+
+for i = 
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1247,3 +1247,18 @@
 2023-11-05 08:32:56,152+0100 INFO  pdflatex - this is MiKTeX-PDFTEX 4.16.0 (1.40.25) (MiKTeX 23.10.12 Portable)
 2023-11-05 08:32:56,161+0100 INFO  pdflatex - allowing known shell commands
 2023-11-05 08:33:03,033+0100 INFO  pdflatex - this process (14160) finishes with exit code 0
+2023-11-06 16:54:25,785+0100 INFO  pdflatex - this process (2824) started by texmaker in directory C:\Users\Vinzenz Götz\Desktop\Uni\CFDStudienarbeit\Tex\Studienarbeit with command line: pdflatex -synctex=1 -interaction=nonstopmode thesis.tex
+2023-11-06 16:54:25,786+0100 INFO  pdflatex - running on Windows 10.0.19045
+2023-11-06 16:54:25,790+0100 INFO  pdflatex - this is MiKTeX-PDFTEX 4.16.0 (1.40.25) (MiKTeX 23.10.12 Portable)
+2023-11-06 16:54:25,831+0100 INFO  pdflatex - allowing known shell commands
+2023-11-06 16:54:38,788+0100 INFO  pdflatex - this process (2824) finishes with exit code 0
+2023-11-06 16:54:52,468+0100 INFO  pdflatex - this process (10236) started by texmaker in directory C:\Users\Vinzenz Götz\Desktop\Uni\CFDStudienarbeit\Tex\Studienarbeit with command line: pdflatex -synctex=1 -interaction=nonstopmode thesis.tex
+2023-11-06 16:54:52,469+0100 INFO  pdflatex - running on Windows 10.0.19045
+2023-11-06 16:54:52,473+0100 INFO  pdflatex - this is MiKTeX-PDFTEX 4.16.0 (1.40.25) (MiKTeX 23.10.12 Portable)
+2023-11-06 16:54:52,491+0100 INFO  pdflatex - allowing known shell commands
+2023-11-06 16:55:02,487+0100 INFO  pdflatex - this process (10236) finishes with exit code 0
+2023-11-06 16:55:05,551+0100 INFO  pdflatex - this process (5412) started by texmaker in directory C:\Users\Vinzenz Götz\Desktop\Uni\CFDStudienarbeit\Tex\Studienarbeit with command line: pdflatex -synctex=1 -interaction=nonstopmode thesis.tex
+2023-11-06 16:55:05,551+0100 INFO  pdflatex - running on Windows 10.0.19045
+2023-11-06 16:55:05,558+0100 INFO  pdflatex - this is MiKTeX-PDFTEX 4.16.0 (1.40.25) (MiKTeX 23.10.12 Portable)
+2023-11-06 16:55:05,575+0100 INFO  pdflatex - allowing known shell commands
+2023-11-06 16:55:15,595+0100 INFO  pdflatex - this process (5412) finishes with exit code 0

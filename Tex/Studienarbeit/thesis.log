@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.10.12 Portable) (preloaded format=pdflatex 2023.11.1)  5 NOV 2023 08:32
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.10.12 Portable) (preloaded format=pdflatex 2023.11.1)  6 NOV 2023 16:55
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -401,7 +401,7 @@ Class scrbook Warning: Usage of package `fancyhdr' together
 (scrbook)              `\addtokomafont' for the page style elements need
 (scrbook)              explicite user intervention to work.
 (scrbook)              Nevertheless, using requested
-(scrbook)              package `fancyhdr' on input line 46.
+(scrbook)              package `fancyhdr' on input line 48.
 
 
 (C:\Users\Vinzenz Götz\Desktop\Uni\CFDStudienarbeit\Tex\miktex\texmfs\install\
@@ -1248,7 +1248,7 @@ File: t1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 \@nomenclaturefile=\write5
 \openout5 = `thesis.nlo'.
 
-Package nomencl Info: Writing nomenclature file thesis.nlo on input line 68.
+Package nomencl Info: Writing nomenclature file thesis.nlo on input line 51.
 
 (C:\Users\Vinzenz Götz\Desktop\Uni\CFDStudienarbeit\Tex\miktex\texmfs\install\
 tex/latex/ulem\ulem.sty
@@ -1268,35 +1268,35 @@ Package csquotes Info: ... none found.
  (thesis.aux (titlepage.aux) (text/content.aux))
 \openout1 = `thesis.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 124.
-LaTeX Font Info:    ... okay on input line 124.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 124.
-LaTeX Font Info:    ... okay on input line 124.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 124.
-LaTeX Font Info:    ... okay on input line 124.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 124.
-LaTeX Font Info:    ... okay on input line 124.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 124.
-LaTeX Font Info:    ... okay on input line 124.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 124.
-LaTeX Font Info:    ... okay on input line 124.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 124.
-LaTeX Font Info:    ... okay on input line 124.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 124.
-LaTeX Font Info:    ... okay on input line 124.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 124.
-LaTeX Font Info:    ... okay on input line 124.
-Package scrbase Info: activating english \partname on input line 124.
-Package scrbase Info: activating english \chaptername on input line 124.
-Package scrbase Info: activating english \appendixname on input line 124.
-Package scrbase Info: activating english \figurename on input line 124.
-Package scrbase Info: activating english \tablename on input line 124.
-Package scrbase Info: activating english \contentsname on input line 124.
-Package scrbase Info: activating english \listfigurename on input line 124.
-Package scrbase Info: activating english \listtablename on input line 124.
-Package scrbase Info: activating english \bibname on input line 124.
-Package scrbase Info: activating english \indexname on input line 124.
-Package hyperref Info: Link coloring OFF on input line 124.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 107.
+LaTeX Font Info:    ... okay on input line 107.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 107.
+LaTeX Font Info:    ... okay on input line 107.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 107.
+LaTeX Font Info:    ... okay on input line 107.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 107.
+LaTeX Font Info:    ... okay on input line 107.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 107.
+LaTeX Font Info:    ... okay on input line 107.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 107.
+LaTeX Font Info:    ... okay on input line 107.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 107.
+LaTeX Font Info:    ... okay on input line 107.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 107.
+LaTeX Font Info:    ... okay on input line 107.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 107.
+LaTeX Font Info:    ... okay on input line 107.
+Package scrbase Info: activating english \partname on input line 107.
+Package scrbase Info: activating english \chaptername on input line 107.
+Package scrbase Info: activating english \appendixname on input line 107.
+Package scrbase Info: activating english \figurename on input line 107.
+Package scrbase Info: activating english \tablename on input line 107.
+Package scrbase Info: activating english \contentsname on input line 107.
+Package scrbase Info: activating english \listfigurename on input line 107.
+Package scrbase Info: activating english \listtablename on input line 107.
+Package scrbase Info: activating english \bibname on input line 107.
+Package scrbase Info: activating english \indexname on input line 107.
+Package hyperref Info: Link coloring OFF on input line 107.
 
 (thesis.out) (thesis.out)
 \@outlinefile=\write6
@@ -1309,7 +1309,7 @@ Class scrbook Info: loading recommended package `bookmark'.
 (scrbook)           `bookmarkpackage=false' before \begin{document} and
 (scrbook)           you can avoid this message adding:
 (scrbook)             \usepackage{bookmark}
-(scrbook)           before \begin{document} on input line 124.
+(scrbook)           before \begin{document} on input line 107.
 
 (C:\Users\Vinzenz Götz\Desktop\Uni\CFDStudienarbeit\Tex\miktex\texmfs\install\
 tex/latex/bookmark\bookmark.sty
@@ -1368,8 +1368,8 @@ Package biblatex Info: Automatic encoding selection.
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'thesis.bbl' found.
  (thesis.bbl)
-Package biblatex Info: Reference section=0 on input line 124.
-Package biblatex Info: Reference segment=0 on input line 124.
+Package biblatex Info: Reference section=0 on input line 107.
+Package biblatex Info: Reference segment=0 on input line 107.
 \c@lstlisting=\count460
 \openout2 = `titlepage.aux'.
 
@@ -1464,7 +1464,7 @@ pdfTeX warning (ext4): destination with the same identifier (name{page.i}) has
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.147 \listoffigures
+l.130 \listoffigures
                      \addcontentsline{toc}{chapter}{Figures} [1
 
 
@@ -1574,17 +1574,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 22--23
 
 
 LaTeX Warning: No positions in optional float specifier.
-               Default added (so using `tbp') on input line 40.
-
-
-Overfull \hbox (44.40027pt too wide) in paragraph at lines 43--54
- [][] 
- []
+               Default added (so using `tbp') on input line 33.
 
 <figures/mode1.jpg, id=61, 1676.2625pt x 947.54pt>
 File: figures/mode1.jpg Graphic file (type jpg)
 <use figures/mode1.jpg>
-Package pdftex.def Info: figures/mode1.jpg  used on input line 59.
+Package pdftex.def Info: figures/mode1.jpg  used on input line 47.
 (pdftex.def)             Requested size: 427.43153pt x 241.61227pt.
 ) [1
 
@@ -1596,14 +1591,14 @@ pdfTeX warning (ext4): destination with the same identifier (name{figure.1.1})
 has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.160 \include{text/content}
-                             <./figures/mode1.jpg>] [2
+l.143 \include{text/content}
+                            
 pdfTeX warning (ext4): destination with the same identifier (name{table.1.1}) h
 as been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.160 \include{text/content}
-                            ]
+l.143 \include{text/content}
+                             <./figures/mode1.jpg>]
 
 Class scrbook Warning: Redefinition of \@makeschapterhead detected.
 (scrbook)              Note: KOMA-Script does use styles for commands like
@@ -1632,27 +1627,25 @@ Package logreq Info: Writing requests to 'thesis.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 33629 strings out of 474717
- 668277 string characters out of 5740830
- 1936036 words of memory out of 5000000
- 55107 multiletter control sequences out of 15000+600000
- 625677 words of font info for 83 fonts, out of 8000000 for 9000
+ 33626 strings out of 474717
+ 668245 string characters out of 5740830
+ 1931036 words of memory out of 5000000
+ 55106 multiletter control sequences out of 15000+600000
+ 622652 words of font info for 82 fonts, out of 8000000 for 9000
  1143 hyphenation exceptions out of 8191
- 122i,15n,121p,10904b,1518s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 122i,11n,121p,10904b,1518s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/Vinzenz Götz/Desktop/Uni/CFDStudienarbeit/Tex/miktex/texmfs/instal
 l/fonts/type1/public/lm/lmbx12.pfb><C:/Users/Vinzenz Götz/Desktop/Uni/CFDStudi
 enarbeit/Tex/miktex/texmfs/install/fonts/type1/public/lm/lmr10.pfb><C:/Users/Vi
 nzenz Götz/Desktop/Uni/CFDStudienarbeit/Tex/miktex/texmfs/install/fonts/type1/
 public/lm/lmri10.pfb><C:/Users/Vinzenz Götz/Desktop/Uni/CFDStudienarbeit/Tex/m
-iktex/texmfs/install/fonts/type1/public/lm/lmro10.pfb><C:/Users/Vinzenz Götz/D
-esktop/Uni/CFDStudienarbeit/Tex/miktex/texmfs/install/fonts/type1/public/lm/lms
-sbx10.pfb><C:/Users/Vinzenz Götz/Desktop/Uni/CFDStudienarbeit/Tex/miktex/texmf
-s/install/fonts/type1/urw/palatino/uplb8a.pfb><C:/Users/Vinzenz Götz/Desktop/U
-ni/CFDStudienarbeit/Tex/miktex/texmfs/install/fonts/type1/urw/palatino/uplr8a.p
-fb>
-Output written on thesis.pdf (8 pages, 733752 bytes).
+iktex/texmfs/install/fonts/type1/public/lm/lmssbx10.pfb><C:/Users/Vinzenz Götz
+/Desktop/Uni/CFDStudienarbeit/Tex/miktex/texmfs/install/fonts/type1/urw/palatin
+o/uplb8a.pfb><C:/Users/Vinzenz Götz/Desktop/Uni/CFDStudienarbeit/Tex/miktex/te
+xmfs/install/fonts/type1/urw/palatino/uplr8a.pfb>
+Output written on thesis.pdf (7 pages, 702498 bytes).
 PDF statistics:
- 148 PDF objects out of 1000 (max. 8388607)
- 21 named destinations out of 1000 (max. 500000)
+ 139 PDF objects out of 1000 (max. 8388607)
+ 20 named destinations out of 1000 (max. 500000)
  87 words of extra memory for PDF output out of 10000 (max. 10000000)
 
