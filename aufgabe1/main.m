@@ -13,7 +13,7 @@
 close all
 
 %this defines mesh sized to be investigated
-meshSize = 5:5:1000;
+meshSize = 10:100:1010;
 
 
 %this section defines the constants used in the problem
@@ -48,13 +48,19 @@ for i = 1:length(meshSize)
     %here, the system matrix as well as source terms are initialized
     dx = L/meshSize(i);
     %system matrix is created
-    A = createA(meshSize(i), k, h, P, L, A_t, T_w, T_ar);
+    A = createA(meshSize(i)-1, k, h, P, L, A_t, T_w, T_ar);
     %source terms are created
-    b = sourceTerms(meshSize(i), L, P, k, h, A_t, T_ar, T_w);
-    x = linspace(0,L,meshSize(i));
+    b = sourceTerms(meshSize(i)-1, L, P, k, h, A_t, T_ar, T_w);
+    x = linspace(0+dx/2,L-dx/2,meshSize(i)-1);
     
     %system is solved and T obtained
     T = A\b;
+    x(end+1) = x(end)+dx/2;
+    T(end+1) = (2*k/dx*T(end)+h*T_ar)/(2*k/dx+h);
+    x(2:end+1) = x;
+    x(1) = 0;
+    T(2:end+1) = T;
+    T(1) = T_w;
     plot(x,T);
     hold on
     
@@ -72,13 +78,13 @@ plot(x,anaSol)
 xlabel("x [m]");
 ylabel("T [°C]");
 figure
-semilogx(meshSize, errAbs)
+loglog(meshSize, errAbs)
 title("Absolute error on the last point")
 xlabel("Mesh elements");
 ylabel("Absolute error");
 grid
 figure
-semilogx(meshSize, errRel)
+loglog(meshSize, errRel)
 title("Relative error on the last point")
 xlabel("Mesh elements");
 ylabel("Relative error");
