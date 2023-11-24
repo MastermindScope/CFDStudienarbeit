@@ -52,6 +52,7 @@ for i = 1:length(meshSize)
     A = createA(meshSize(i), k, h, P, L, A_t, T_w, T_ar);
     %source terms are created
     b = sourceTerms(meshSize(i), L, P, k, h, A_t, T_ar, T_w);
+    %x = linspace(0+dx/2,L-dx/2,meshSize(i)-1);
     x = (dx/2):dx:(L-dx/2);
     
     %system is solved and T obtained
