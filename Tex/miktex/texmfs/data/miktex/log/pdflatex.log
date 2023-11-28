@@ -1262,3 +1262,18 @@
 2023-11-06 16:55:05,558+0100 INFO  pdflatex - this is MiKTeX-PDFTEX 4.16.0 (1.40.25) (MiKTeX 23.10.12 Portable)
 2023-11-06 16:55:05,575+0100 INFO  pdflatex - allowing known shell commands
 2023-11-06 16:55:15,595+0100 INFO  pdflatex - this process (5412) finishes with exit code 0
+2023-11-27 20:06:22,483+0100 INFO  pdflatex - this process (18660) started by texmaker in directory C:\Users\Vinzenz Götz\Desktop\Uni\CFDStudienarbeit\Tex\Studienarbeit with command line: pdflatex -synctex=1 -interaction=nonstopmode thesis.tex
+2023-11-27 20:06:22,488+0100 INFO  pdflatex - running on Windows 10.0.19045
+2023-11-27 20:06:22,510+0100 INFO  pdflatex - this is MiKTeX-PDFTEX 4.16.0 (1.40.25) (MiKTeX 23.10.12 Portable)
+2023-11-27 20:06:22,654+0100 INFO  pdflatex - allowing known shell commands
+2023-11-27 20:07:03,224+0100 INFO  pdflatex - this process (18660) finishes with exit code 0
+2023-11-27 20:08:14,234+0100 INFO  pdflatex - this process (23704) started by texmaker in directory C:\Users\Vinzenz Götz\Desktop\Uni\CFDStudienarbeit\Tex\Studienarbeit with command line: pdflatex -synctex=1 -interaction=nonstopmode thesis.tex
+2023-11-27 20:08:14,236+0100 INFO  pdflatex - running on Windows 10.0.19045
+2023-11-27 20:08:14,272+0100 INFO  pdflatex - this is MiKTeX-PDFTEX 4.16.0 (1.40.25) (MiKTeX 23.10.12 Portable)
+2023-11-27 20:08:14,369+0100 INFO  pdflatex - allowing known shell commands
+2023-11-27 20:09:03,409+0100 INFO  pdflatex - this process (23704) finishes with exit code 0
+2023-11-27 20:09:22,874+0100 INFO  pdflatex - this process (8004) started by texmaker in directory C:\Users\Vinzenz Götz\Desktop\Uni\CFDStudienarbeit\Tex\Studienarbeit with command line: pdflatex -synctex=1 -interaction=nonstopmode thesis.tex
+2023-11-27 20:09:22,876+0100 INFO  pdflatex - running on Windows 10.0.19045
+2023-11-27 20:09:22,901+0100 INFO  pdflatex - this is MiKTeX-PDFTEX 4.16.0 (1.40.25) (MiKTeX 23.10.12 Portable)
+2023-11-27 20:09:22,991+0100 INFO  pdflatex - allowing known shell commands
+2023-11-27 20:10:25,560+0100 INFO  pdflatex - this process (8004) finishes with exit code 0

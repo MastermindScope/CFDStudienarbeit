@@ -118,3 +118,6 @@
 2023-11-06 16:54:50,598+0100 INFO  kpsewhich - this process (15736) started by biber in directory C:\Users\Vinzenz Götz\Desktop\Uni\CFDStudienarbeit\Tex\Studienarbeit with command line: kpsewhich biber.conf
 2023-11-06 16:54:50,598+0100 INFO  kpsewhich - running on Windows 10.0.19045
 2023-11-06 16:54:50,807+0100 INFO  kpsewhich - this process (15736) finishes with exit code 1
+2023-11-27 20:08:01,335+0100 INFO  kpsewhich - this process (24120) started by biber in directory C:\Users\Vinzenz Götz\Desktop\Uni\CFDStudienarbeit\Tex\Studienarbeit with command line: kpsewhich biber.conf
+2023-11-27 20:08:01,341+0100 INFO  kpsewhich - running on Windows 10.0.19045
+2023-11-27 20:08:02,636+0100 INFO  kpsewhich - this process (24120) finishes with exit code 1
