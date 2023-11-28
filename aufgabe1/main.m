@@ -94,17 +94,18 @@ end
 %output of temperature at the end of the fin
 fprintf('The temperature at the tip of the fin = %.3f °C for a meshsize of %d elements \n', T_f, meshSize(end))
 
-
+%plot errors and the analytical solution
 figure(2)
 title("Relative error over length")
 xlabel("Length [m]");
 ylabel("Relative error");
 legend(ltext);
 grid
-fontsize(20,"points")
+fontsize(13,"points")
+saveas(2, "errLen.png")
 
 
-%plot errors and the analytical solution
+
 figure(1)
 plot(x,anaSol,LineWidth=1.5)
 xlabel("x [m]");
@@ -112,18 +113,19 @@ ylabel("T [°C]");
 ltext(end+1) = "analytical solution";
 legend(ltext);
 %the fontsize command requires version R2022a or later
-fontsize(20,"points")
+fontsize(13,"points")
+saveas(1, "T.png")
 
 
-figure
+figure(3)
 loglog(meshSize, errRel)
 title("Relative error on the last point")
 xlabel("Mesh elements");
 ylabel("Relative error");
 grid
+fontsize(13,"points")
+saveas(3, "errElems.png")
 
 
 
 hold off
-
-fontsize(20,"points")
