@@ -46,14 +46,13 @@ gam = (T_w-T_ar)/((1-a/bprime));
 %gam = (T_w-T_ar)/(1+exp(-2*sqrt(m)*L));
 
 %this initializes the error vectors with the right length
-errAbs = zeros(1,length(meshSize));
 errRel = zeros(1,length(meshSize));
 
 for i = 1:length(meshSize)
     %here, the system matrix as well as source terms are initialized
     dx = L/meshSize(i);
     %system matrix is created
-    A = createA(meshSize(i), k, h, P, L, A_t, T_w, T_ar);
+    A = createA(meshSize(i), k, h, P, L, A_t);
     %source terms are created
     b = sourceTerms(meshSize(i), L, P, k, h, A_t, T_ar, T_w);
     x = dx/2:dx:L-dx/2;
@@ -75,12 +74,12 @@ for i = 1:length(meshSize)
 
     
   
-    
+  
     %calculate analytical solution for given mesh size
     anaSol = gam.*exp(mprime.*x)-gam.*a./bprime.*exp(-mprime*x)+T_ar;
     
     %fill error vector
-    errRel(i) = norm(anaSol-T)/norm(anaSol)/length(T);
+    errRel(i) = abs(anaSol(end)-T(end))/anaSol(end);
 
     errLen = abs(anaSol-T')./anaSol;
     figure(2)
@@ -92,7 +91,7 @@ for i = 1:length(meshSize)
 end
 
 %output of temperature at the end of the fin
-fprintf('The temperature at the tip of the fin = %.3f °C for a meshsize of %d elements \n', T_f, meshSize(end))
+fprintf('The temperature at the tip of the fin T_f = %.3f °C for a meshsize of %d elements \n', T_f, meshSize(end))
 
 %plot errors and the analytical solution
 figure(2)
@@ -105,17 +104,17 @@ fontsize(13,"points")
 saveas(2, "errLen.png")
 
 
-
 figure(1)
+grid
 plot(x,anaSol,LineWidth=1.5)
 xlabel("x [m]");
 ylabel("T [°C]");
 ltext(end+1) = "analytical solution";
+title("T for different mesh sizes and analytical solution")
 legend(ltext);
 %the fontsize command requires version R2022a or later
 fontsize(13,"points")
 saveas(1, "T.png")
-
 
 figure(3)
 loglog(meshSize, errRel)
@@ -125,7 +124,5 @@ ylabel("Relative error");
 grid
 fontsize(13,"points")
 saveas(3, "errElems.png")
-
-
 
 hold off

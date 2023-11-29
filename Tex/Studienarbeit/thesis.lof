@@ -1,3 +1,11 @@
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {1.1}{\ignorespaces The inverse relationship between probability and severity\nobreakspace {}\blx@tocontentsinit {0}\cite {CS-25}}}{1}{figure.1.1}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {2.1}{\ignorespaces The matlab code for the definition of the constants used in this problem}}{3}{figure.2.1}%
+\contentsline {figure}{\numberline {2.2}{\ignorespaces The matlab code for the definition of further constants using the analytical solution}}{4}{figure.2.2}%
+\contentsline {figure}{\numberline {2.3}{\ignorespaces The matlab code for the calculation of T}}{4}{figure.2.3}%
+\contentsline {figure}{\numberline {2.4}{\ignorespaces The matlab code for the calculation of the analytical solution and the display of relative errors}}{5}{figure.2.4}%
+\contentsline {figure}{\numberline {2.5}{\ignorespaces The relative error of $T$ over the length of the rod with a varying number of mesh elements.}}{5}{figure.2.5}%
+\contentsline {figure}{\numberline {2.6}{\ignorespaces The matlab code for the relative error at the last point comparing different numbers of mesh elements.}}{5}{figure.2.6}%
+\contentsline {figure}{\numberline {2.7}{\ignorespaces The matlab code for the output $T_f$ and temperature curves of different numbers of mesh elements compared to the analytical solution.}}{6}{figure.2.7}%
+\contentsline {figure}{\numberline {2.8}{\ignorespaces The matlab code for the output temperature curves of different numbers of mesh elements compared to the analytical solution.}}{6}{figure.2.8}%
 \providecommand \tocbasic@end@toc@file {}\tocbasic@end@toc@file 

@@ -14,6 +14,7 @@
 
 
 
+
 %% ---------------------------------
 %% |      Additional packages      |
 %% ---------------------------------
@@ -42,6 +43,8 @@
 \usepackage{lmodern}
 \usepackage{listings}
 \usepackage{chngcntr}
+\usepackage{amsmath}
+\usepackage{mathtools}
 \usepackage[utf8]{inputenc}
 \usepackage[T1]{fontenc}
 \renewcommand{\nomname}{Definitionen und Abkürzungen}
@@ -51,6 +54,12 @@
 \makenomenclature
 \usepackage[normalem]{ulem}
 \newcommand{\markup}[1]{\uline{#1}}
+\makeatletter
+\renewcommand*\env@matrix[1][*\c@MaxMatrixCols c]{%
+  \hskip -\arraycolsep
+  \let\@ifnextchar\new@ifnextchar
+  \array{#1}}
+\makeatother
 
 
 
@@ -65,7 +74,7 @@
 \newcommand{\mytype}{Assignment one of three}
 
 \newcommand{\myname}{Andreas Wenger | Vinzenz Götz}
-\newcommand{\matricle}{M1 | M2}
+\newcommand{\matricle}{44267018 | 25173223}
 \newcommand{\mytitle}{Numerical model of one-dimensional heat conduction in a fin}
 \newcommand{\myinstitute}{}
 
@@ -128,8 +137,8 @@ he-lio-trope
 
 % You may elect not to include a list of figures, list of tables and list of abbreviations, if the work is a seminar thesis (comment out the following)
 \listoffigures \addcontentsline{toc}{chapter}{Figures} 
-\listoftables  \addcontentsline{toc}{chapter}{Tables} 
-\printnomenclature[8cm]  \addcontentsline{toc}{chapter}{Definitions and Abbreviations}
+%\listoftables  \addcontentsline{toc}{chapter}{Tables} 
+%\printnomenclature[8cm]  \addcontentsline{toc}{chapter}{Definitions and Abbreviations}
 
 %\renewcommand{\tablename}{Tabelle}
 %\renewcommand{\figurename}{Abbildung}
@@ -154,10 +163,9 @@ he-lio-trope
 
 
 
-
 %\phantomsection
-\addcontentsline{toc}{chapter}{\bibname}
-\printbibliography[]
+%\addcontentsline{toc}{chapter}{\bibname}
+%\printbibliography[]
 
 
 
