@@ -1,0 +1,15 @@
+function b = sourceTerms(meshSize, L, P, k, h, A_t, T_ar, T_w, cp, M_p0, T0, dt)
+    % initialize b
+    b = ones(meshSize,1);
+    % define dx
+    dx = L/meshSize;
+    %define constant m
+    n = h*P/(cp*A_t);
+    % set values of the entries
+    b = b*n*T_ar*dx+(M_p0*T0)/dt;
+    %change wrong values
+    b(1) = n*T_ar*dx+(M_p0*T0(1))/dt+(2*k*T_w)/(cp*dx);
+    if meshSize > 1
+        b(meshSize) = (M_p0*T0(meshSize))/dt+(2*k*T_ar)/(cp*(2*k+h*dx))+n*T_ar*dx;
+    end
+end

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.10.12 Portable) (preloaded format=pdflatex 2023.11.1)  29 NOV 2023 19:46
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.10.12 Portable) (preloaded format=pdflatex 2023.11.1)  19 DEC 2023 15:27
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1373,38 +1373,38 @@ Package: ulem 2019/11/18
 )
 Package csquotes Info: Checking for multilingual support...
 Package csquotes Info: ... none found.
- (thesis.aux (titlepage.aux) (text/content.aux))
+ (thesis.aux (titlepage.aux) (text/contentAss2.aux))
 \openout1 = `thesis.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 116.
-LaTeX Font Info:    ... okay on input line 116.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 116.
-LaTeX Font Info:    ... okay on input line 116.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 116.
-LaTeX Font Info:    ... okay on input line 116.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 116.
-LaTeX Font Info:    ... okay on input line 116.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 116.
-LaTeX Font Info:    ... okay on input line 116.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 116.
-LaTeX Font Info:    ... okay on input line 116.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 116.
-LaTeX Font Info:    ... okay on input line 116.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 116.
-LaTeX Font Info:    ... okay on input line 116.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 116.
-LaTeX Font Info:    ... okay on input line 116.
-Package scrbase Info: activating english \partname on input line 116.
-Package scrbase Info: activating english \chaptername on input line 116.
-Package scrbase Info: activating english \appendixname on input line 116.
-Package scrbase Info: activating english \figurename on input line 116.
-Package scrbase Info: activating english \tablename on input line 116.
-Package scrbase Info: activating english \contentsname on input line 116.
-Package scrbase Info: activating english \listfigurename on input line 116.
-Package scrbase Info: activating english \listtablename on input line 116.
-Package scrbase Info: activating english \bibname on input line 116.
-Package scrbase Info: activating english \indexname on input line 116.
-Package hyperref Info: Link coloring OFF on input line 116.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 149.
+LaTeX Font Info:    ... okay on input line 149.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 149.
+LaTeX Font Info:    ... okay on input line 149.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 149.
+LaTeX Font Info:    ... okay on input line 149.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 149.
+LaTeX Font Info:    ... okay on input line 149.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 149.
+LaTeX Font Info:    ... okay on input line 149.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 149.
+LaTeX Font Info:    ... okay on input line 149.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 149.
+LaTeX Font Info:    ... okay on input line 149.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 149.
+LaTeX Font Info:    ... okay on input line 149.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 149.
+LaTeX Font Info:    ... okay on input line 149.
+Package scrbase Info: activating english \partname on input line 149.
+Package scrbase Info: activating english \chaptername on input line 149.
+Package scrbase Info: activating english \appendixname on input line 149.
+Package scrbase Info: activating english \figurename on input line 149.
+Package scrbase Info: activating english \tablename on input line 149.
+Package scrbase Info: activating english \contentsname on input line 149.
+Package scrbase Info: activating english \listfigurename on input line 149.
+Package scrbase Info: activating english \listtablename on input line 149.
+Package scrbase Info: activating english \bibname on input line 149.
+Package scrbase Info: activating english \indexname on input line 149.
+Package hyperref Info: Link coloring OFF on input line 149.
  (thesis.out)
 (thesis.out)
 \@outlinefile=\write6
@@ -1417,7 +1417,7 @@ Class scrbook Info: loading recommended package `bookmark'.
 (scrbook)           `bookmarkpackage=false' before \begin{document} and
 (scrbook)           you can avoid this message adding:
 (scrbook)             \usepackage{bookmark}
-(scrbook)           before \begin{document} on input line 116.
+(scrbook)           before \begin{document} on input line 149.
 
 (C:\Users\Vinzenz Götz\Desktop\Uni\Tex\miktex\texmfs\install\tex/latex/bookmar
 k\bookmark.sty
@@ -1476,8 +1476,8 @@ Package biblatex Info: Automatic encoding selection.
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'thesis.bbl' found.
  (thesis.bbl)
-Package biblatex Info: Reference section=0 on input line 116.
-Package biblatex Info: Reference segment=0 on input line 116.
+Package biblatex Info: Reference section=0 on input line 149.
+Package biblatex Info: Reference segment=0 on input line 149.
 \c@lstlisting=\count476
 \openout2 = `titlepage.aux'.
 
@@ -1555,7 +1555,14 @@ LaTeX Font Info:    Trying to load font information for T1+lmss on input line 1
 (C:\Users\Vinzenz Götz\Desktop\Uni\Tex\miktex\texmfs\install\tex/latex/lm\t1lm
 ss.fd
 File: t1lmss.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
-))
+)
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <10.95> on input line 3.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <8> on input line 3.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <6> on input line 3.
+)
 \tf@toc=\write7
 \openout7 = `thesis.toc'.
 
@@ -1564,7 +1571,7 @@ pdfTeX warning (ext4): destination with the same identifier (name{page.i}) has
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.139 \listoffigures
+l.172 \listoffigures
                      \addcontentsline{toc}{chapter}{Figures} [1
 
 
@@ -1582,24 +1589,18 @@ Class scrbook Warning: Redefinition of \@makeschapterhead detected.
 (scrbook)              KOMA-Script and will not work with a coming version,
 (scrbook)              that will remove this deprecated code.
 
-(thesis.lof
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10.95> on input line 3.
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <8> on input line 3.
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <6> on input line 3.
-)
+(thesis.lof)
 \tf@lof=\write8
 \openout8 = `thesis.lof'.
 
  [2
 
 {C:/Users/Vinzenz Götz/Desktop/Uni/Tex/miktex/texmfs/install/fonts/enc/dvips/l
-m/lm-mathit.enc}]
-\openout2 = `text/content.aux'.
+m/lm-mathit.enc}{C:/Users/Vinzenz Götz/Desktop/Uni/Tex/miktex/texmfs/install/f
+onts/enc/dvips/lm/lm-rm.enc}]
+\openout2 = `text/contentAss2.aux'.
 
- (text/content.tex
+ (text/contentAss2.tex
 chapter 1.
 
 Class scrbook Warning: \float@addtolists detected!
@@ -1627,14 +1628,32 @@ Class scrbook Warning: Redefinition of \@makechapterhead detected.
 (scrbook)              KOMA-Script and will not work with a coming version,
 (scrbook)              that will remove this deprecated code.
 
-[1
+LaTeX Font Info:    Trying to load font information for TS1+lmr on input line 7
+.
+
+(C:\Users\Vinzenz Götz\Desktop\Uni\Tex\miktex\texmfs\install\tex/latex/lm\ts1l
+mr.fd
+File: ts1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)
+(C:\Users\Vinzenz Götz\Desktop\Uni\Tex\miktex\texmfs\install\tex/latex/listing
+s\lstlang1.sty
+File: lstlang1.sty 2023/02/27 1.9 listings language file
+)
+Package hyperref Info: bookmark level for unknown lstlisting defaults to 0 on i
+nput line 16.
+LaTeX Font Info:    Trying to load font information for T1+lmtt on input line 1
+6.
+
+(C:\Users\Vinzenz Götz\Desktop\Uni\Tex\miktex\texmfs\install\tex/latex/lm\t1lm
+tt.fd
+File: t1lmtt.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+) (code/main.m) (code/main.m) [1
 
 
 
 {C:/Users/Vinzenz Götz/Desktop/Uni/Tex/miktex/texmfs/install/fonts/enc/dvips/l
-m/lm-rm.enc}{C:/Users/Vinzenz Götz/Desktop/Uni/Tex/miktex/texmfs/install/fonts
-/enc/dvips/lm/lm-mathsy.enc}{C:/Users/Vinzenz Götz/Desktop/Uni/Tex/miktex/texm
-fs/install/fonts/enc/dvips/lm/lm-mathex.enc}] [2]
+m/lm-ts1.enc}] (code/sourceTerms.m)
+[2]
 chapter 2.
 
 Class scrbook Warning: Redefinition of \@makechapterhead detected.
@@ -1647,17 +1666,21 @@ Class scrbook Warning: Redefinition of \@makechapterhead detected.
 (scrbook)              KOMA-Script and will not work with a coming version,
 (scrbook)              that will remove this deprecated code.
 
-<figures/define_constants.jpg, id=88, 714.2685pt x 693.792pt>
-File: figures/define_constants.jpg Graphic file (type jpg)
-<use figures/define_constants.jpg>
-Package pdftex.def Info: figures/define_constants.jpg  used on input line 125.
-(pdftex.def)             Requested size: 341.94652pt x 332.14828pt.
-<figures/define_anaSol_constants.jpg, id=91, 708.246pt x 290.2845pt>
-File: figures/define_anaSol_constants.jpg Graphic file (type jpg)
-<use figures/define_anaSol_constants.jpg>
-Package pdftex.def Info: figures/define_anaSol_constants.jpg  used on input lin
-e 141.
-(pdftex.def)             Requested size: 341.94652pt x 140.1544pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 43--44
+
+ []
+
+<figures/TsmalldtBigtErr.jpg, id=98, 702.625pt x 526.96875pt>
+File: figures/TsmalldtBigtErr.jpg Graphic file (type jpg)
+<use figures/TsmalldtBigtErr.jpg>
+Package pdftex.def Info: figures/TsmalldtBigtErr.jpg  used on input line 51.
+(pdftex.def)             Requested size: 320.57364pt x 240.43854pt.
+<figures/TsmalldtBigt.jpg, id=99, 702.625pt x 526.96875pt>
+File: figures/TsmalldtBigt.jpg Graphic file (type jpg)
+<use figures/TsmalldtBigt.jpg>
+Package pdftex.def Info: figures/TsmalldtBigt.jpg  used on input line 61.
+(pdftex.def)             Requested size: 320.57364pt x 240.43854pt.
 [3
 
 
@@ -1665,88 +1688,15 @@ pdfTeX warning (ext4): destination with the same identifier (name{figure.2.1})
 has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.145 
-       <./figures/define_constants.jpg>]
-<figures/begin_for_loop_calculate_T.jpg, id=97, 702.2235pt x 484.81125pt>
-File: figures/begin_for_loop_calculate_T.jpg Graphic file (type jpg)
-<use figures/begin_for_loop_calculate_T.jpg>
-Package pdftex.def Info: figures/begin_for_loop_calculate_T.jpg  used on input 
-line 153.
-(pdftex.def)             Requested size: 341.94652pt x 236.07266pt.
- [4
+l.67 
+     
 pdfTeX warning (ext4): destination with the same identifier (name{figure.2.2}) 
 has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.166 
-      
-pdfTeX warning (ext4): destination with the same identifier (name{figure.2.3}) 
-has been already used, duplicate ignored
-<argument> ...shipout:D \box_use:N \l_shipout_box 
-                                                  \__shipout_drop_firstpage_...
-l.166 
-       <./figures/define_anaSol_constants.jpg> <./figures/begin_for_loop_calcul
-ate_T.jpg>]
-<figures/calculate_anaSol_fill_errvec.jpg, id=105, 711.25725pt x 351.11176pt>
-File: figures/calculate_anaSol_fill_errvec.jpg Graphic file (type jpg)
-<use figures/calculate_anaSol_fill_errvec.jpg>
-Package pdftex.def Info: figures/calculate_anaSol_fill_errvec.jpg  used on inpu
-t line 174.
-(pdftex.def)             Requested size: 299.20076pt x 147.69629pt.
-<figures/errLen.png, id=108, 421.575pt x 316.0608pt>
-File: figures/errLen.png Graphic file (type png)
-<use figures/errLen.png>
-Package pdftex.def Info: figures/errLen.png  used on input line 186.
-(pdftex.def)             Requested size: 192.34288pt x 144.20334pt.
-<figures/errElems.png, id=109, 421.575pt x 316.0608pt>
-File: figures/errElems.png Graphic file (type png)
-<use figures/errElems.png>
-Package pdftex.def Info: figures/errElems.png  used on input line 194.
-(pdftex.def)             Requested size: 192.34288pt x 144.20334pt.
-<figures/output_figures.jpg, id=110, 1028.04076pt x 690.78075pt>
-File: figures/output_figures.jpg Graphic file (type jpg)
-<use figures/output_figures.jpg>
-Package pdftex.def Info: figures/output_figures.jpg  used on input line 203.
-(pdftex.def)             Requested size: 341.94652pt x 229.76076pt.
- [5
-pdfTeX warning (ext4): destination with the same identifier (name{figure.2.4}) 
-has been already used, duplicate ignored
-<argument> ...shipout:D \box_use:N \l_shipout_box 
-                                                  \__shipout_drop_firstpage_...
-l.207 
-      
-pdfTeX warning (ext4): destination with the same identifier (name{figure.2.5}) 
-has been already used, duplicate ignored
-<argument> ...shipout:D \box_use:N \l_shipout_box 
-                                                  \__shipout_drop_firstpage_...
-l.207 
-      
-pdfTeX warning (ext4): destination with the same identifier (name{figure.2.6}) 
-has been already used, duplicate ignored
-<argument> ...shipout:D \box_use:N \l_shipout_box 
-                                                  \__shipout_drop_firstpage_...
-l.207 
-       <./figures/calculate_anaSol_fill_errvec.jpg> <./figures/errLen.png (PNG 
-copy)> <./figures/errElems.png (PNG copy)>]
-<figures/T.png, id=117, 421.575pt x 316.0608pt>
-File: figures/T.png Graphic file (type png)
-<use figures/T.png>
-Package pdftex.def Info: figures/T.png  used on input line 217.
-(pdftex.def)             Requested size: 320.57364pt x 240.34373pt.
-) [6
-pdfTeX warning (ext4): destination with the same identifier (name{figure.2.7}) 
-has been already used, duplicate ignored
-<argument> ...shipout:D \box_use:N \l_shipout_box 
-                                                  \__shipout_drop_firstpage_...
-l.152 \include{text/content}
-                            
-pdfTeX warning (ext4): destination with the same identifier (name{figure.2.8}) 
-has been already used, duplicate ignored
-<argument> ...shipout:D \box_use:N \l_shipout_box 
-                                                  \__shipout_drop_firstpage_...
-l.152 \include{text/content}
-                             <./figures/output_figures.jpg> <./figures/T.png (P
-NG copy)>] (thesis.aux (titlepage.aux) (text/content.aux))
+l.67 
+      <./figures/TsmalldtBigtErr.jpg> <./figures/TsmalldtBigt.jpg>]) [4]
+(thesis.aux (titlepage.aux) (text/contentAss2.aux))
  ***********
 LaTeX2e <2023-06-01> patch level 1
 L3 programming layer <2023-10-23>
@@ -1758,33 +1708,30 @@ Package logreq Info: Writing requests to 'thesis.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 34717 strings out of 474717
- 677644 string characters out of 5740830
- 1946036 words of memory out of 5000000
- 56167 multiletter control sequences out of 15000+600000
- 612054 words of font info for 78 fonts, out of 8000000 for 9000
+ 35673 strings out of 474717
+ 687935 string characters out of 5740830
+ 2055036 words of memory out of 5000000
+ 57082 multiletter control sequences out of 15000+600000
+ 622040 words of font info for 84 fonts, out of 8000000 for 9000
  1143 hyphenation exceptions out of 8191
- 122i,17n,121p,10904b,852s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 122i,11n,121p,10904b,1891s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/Vinzenz Götz/Desktop/Uni/Tex/miktex/texmfs/install/fonts/type1/pub
 lic/lm/lmbx12.pfb><C:/Users/Vinzenz Götz/Desktop/Uni/Tex/miktex/texmfs/install
-/fonts/type1/public/lm/lmex10.pfb><C:/Users/Vinzenz Götz/Desktop/Uni/Tex/mikte
-x/texmfs/install/fonts/type1/public/lm/lmmi10.pfb><C:/Users/Vinzenz Götz/Deskt
-op/Uni/Tex/miktex/texmfs/install/fonts/type1/public/lm/lmmi6.pfb><C:/Users/Vinz
-enz Götz/Desktop/Uni/Tex/miktex/texmfs/install/fonts/type1/public/lm/lmmi8.pfb
-><C:/Users/Vinzenz Götz/Desktop/Uni/Tex/miktex/texmfs/install/fonts/type1/publ
-ic/lm/lmr10.pfb><C:/Users/Vinzenz Götz/Desktop/Uni/Tex/miktex/texmfs/install/f
-onts/type1/public/lm/lmr6.pfb><C:/Users/Vinzenz Götz/Desktop/Uni/Tex/miktex/te
-xmfs/install/fonts/type1/public/lm/lmr8.pfb><C:/Users/Vinzenz Götz/Desktop/Uni
-/Tex/miktex/texmfs/install/fonts/type1/public/lm/lmssbx10.pfb><C:/Users/Vinzenz
- Götz/Desktop/Uni/Tex/miktex/texmfs/install/fonts/type1/public/lm/lmsy10.pfb><
+/fonts/type1/public/lm/lmmi10.pfb><C:/Users/Vinzenz Götz/Desktop/Uni/Tex/mikte
+x/texmfs/install/fonts/type1/public/lm/lmmi8.pfb><C:/Users/Vinzenz Götz/Deskto
+p/Uni/Tex/miktex/texmfs/install/fonts/type1/public/lm/lmr10.pfb><C:/Users/Vinze
+nz Götz/Desktop/Uni/Tex/miktex/texmfs/install/fonts/type1/public/lm/lmr6.pfb><
 C:/Users/Vinzenz Götz/Desktop/Uni/Tex/miktex/texmfs/install/fonts/type1/public
-/lm/lmsy6.pfb><C:/Users/Vinzenz Götz/Desktop/Uni/Tex/miktex/texmfs/install/fon
-ts/type1/public/lm/lmsy8.pfb><C:/Users/Vinzenz Götz/Desktop/Uni/Tex/miktex/tex
-mfs/install/fonts/type1/urw/palatino/uplb8a.pfb><C:/Users/Vinzenz Götz/Desktop
-/Uni/Tex/miktex/texmfs/install/fonts/type1/urw/palatino/uplr8a.pfb>
-Output written on thesis.pdf (9 pages, 1086130 bytes).
+/lm/lmr8.pfb><C:/Users/Vinzenz Götz/Desktop/Uni/Tex/miktex/texmfs/install/font
+s/type1/public/lm/lmro10.pfb><C:/Users/Vinzenz Götz/Desktop/Uni/Tex/miktex/tex
+mfs/install/fonts/type1/public/lm/lmssbx10.pfb><C:/Users/Vinzenz Götz/Desktop/
+Uni/Tex/miktex/texmfs/install/fonts/type1/public/lm/lmtt9.pfb><C:/Users/Vinzenz
+ Götz/Desktop/Uni/Tex/miktex/texmfs/install/fonts/type1/urw/palatino/uplb8a.pf
+b><C:/Users/Vinzenz Götz/Desktop/Uni/Tex/miktex/texmfs/install/fonts/type1/urw
+/palatino/uplr8a.pfb>
+Output written on thesis.pdf (7 pages, 401336 bytes).
 PDF statistics:
  209 PDF objects out of 1000 (max. 8388607)
- 33 named destinations out of 1000 (max. 500000)
- 90 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 50 named destinations out of 1000 (max. 500000)
+ 100 words of extra memory for PDF output out of 10000 (max. 10000000)
 

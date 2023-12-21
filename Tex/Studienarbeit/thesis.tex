@@ -61,6 +61,8 @@
   \array{#1}}
 \makeatother
 
+\nomenclature{}{}
+
 
 
 
@@ -71,11 +73,11 @@
 % uncomment one of the following, according to your thesis
 %\newcommand{\mytype}{Bachelor's Thesis} 
 %\newcommand{\mytype}{Master's Thesis}
-\newcommand{\mytype}{Assignment one of three}
+\newcommand{\mytype}{Assignment two of three}
 
 \newcommand{\myname}{Andreas Wenger | Vinzenz Götz}
 \newcommand{\matricle}{44267018 | 25173223}
-\newcommand{\mytitle}{Numerical model of one-dimensional heat conduction in a fin}
+\newcommand{\mytitle}{Numerical model of one-dimensional, transient heat conduction in a fin}
 \newcommand{\myinstitute}{}
 
 
@@ -92,6 +94,37 @@
  pdfsubject={\mytype},
  pdfkeywords={\mytype, }
 }
+
+%% -------------------------------
+%% |  settings for code listings   |
+%% -------------------------------
+\usepackage{xcolor}
+
+\definecolor{codegreen}{rgb}{0,0.6,0}
+\definecolor{codegray}{rgb}{0.5,0.5,0.5}
+\definecolor{codepurple}{rgb}{0.58,0,0.82}
+\definecolor{backcolour}{rgb}{0.95,0.95,0.92}
+
+\lstdefinestyle{mystyle}{
+    backgroundcolor=\color{backcolour},   
+    commentstyle=\color{codegreen},
+    keywordstyle=\color{magenta},
+    numberstyle=\tiny\color{codegray},
+    stringstyle=\color{codepurple},
+    basicstyle=\ttfamily\footnotesize,
+    breakatwhitespace=false,         
+    breaklines=true,                 
+    captionpos=b,                    
+    keepspaces=true,                 
+    numbers=left,                    
+    numbersep=5pt,                  
+    showspaces=false,                
+    showstringspaces=false,
+    showtabs=false,                  
+    tabsize=2
+}
+
+\lstset{style=mystyle}
 
 
 %% --------------------------------
@@ -149,7 +182,8 @@ he-lio-trope
 %% -----------------
 \mainmatter
 \pagenumbering{arabic}
-\include{text/content}
+%\include{text/content}
+\include{text/contentAss2}
 
 
 \backmatter
