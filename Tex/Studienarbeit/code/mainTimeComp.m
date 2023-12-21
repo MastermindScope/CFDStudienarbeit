@@ -87,6 +87,12 @@ for t = 1:length(dt)
         o = ones(j,1).*x;
         p = ones(1,meshSize(i)).*(1:1:timesteps)';
     
+        % plot residual
+        figure(4)
+        grid
+        semilogy(abs(res))
+        hold on
+    
         % shift the Temperature and x vectors around to reflect first and last
         % point on the face of the fin
         T_p = T(end);
@@ -104,12 +110,7 @@ for t = 1:length(dt)
             figure(1)
             plot(x,T,lStyle(i),LineWidth=1.5);
             hold on
-            
-            % plot residual
-            figure(4)
-            grid
-            semilogy(abs(res))
-            hold on
+        
             
             %calculate analytical solution for given mesh size
             anaSol = gam.*exp(mprime.*x)-gam.*a./bprime.*exp(-mprime*x)+T_ar;

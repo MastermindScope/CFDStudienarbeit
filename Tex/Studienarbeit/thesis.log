@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.10.12 Portable) (preloaded format=pdflatex 2023.11.1)  19 DEC 2023 15:27
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.10.12 Portable) (preloaded format=pdflatex 2023.11.1)  21 DEC 2023 05:46
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1640,20 +1640,19 @@ s\lstlang1.sty
 File: lstlang1.sty 2023/02/27 1.9 listings language file
 )
 Package hyperref Info: bookmark level for unknown lstlisting defaults to 0 on i
-nput line 16.
+nput line 17.
 LaTeX Font Info:    Trying to load font information for T1+lmtt on input line 1
-6.
+7.
 
 (C:\Users\Vinzenz Götz\Desktop\Uni\Tex\miktex\texmfs\install\tex/latex/lm\t1lm
 tt.fd
 File: t1lmtt.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
-) (code/main.m) (code/main.m) [1
+) (code/main.m) (code/mainTimeComp.m) (code/mainTimeComp.m [1
 
 
 
 {C:/Users/Vinzenz Götz/Desktop/Uni/Tex/miktex/texmfs/install/fonts/enc/dvips/l
-m/lm-ts1.enc}] (code/sourceTerms.m)
-[2]
+m/lm-ts1.enc}]) (code/main.m) (code/sourceTerms.m [2]) [3]
 chapter 2.
 
 Class scrbook Warning: Redefinition of \@makechapterhead detected.
@@ -1667,35 +1666,35 @@ Class scrbook Warning: Redefinition of \@makechapterhead detected.
 (scrbook)              that will remove this deprecated code.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 43--44
+Underfull \hbox (badness 10000) in paragraph at lines 51--52
 
  []
 
-<figures/TsmalldtBigtErr.jpg, id=98, 702.625pt x 526.96875pt>
+<figures/TsmalldtBigtErr.jpg, id=121, 702.625pt x 526.96875pt>
 File: figures/TsmalldtBigtErr.jpg Graphic file (type jpg)
 <use figures/TsmalldtBigtErr.jpg>
-Package pdftex.def Info: figures/TsmalldtBigtErr.jpg  used on input line 51.
+Package pdftex.def Info: figures/TsmalldtBigtErr.jpg  used on input line 59.
 (pdftex.def)             Requested size: 320.57364pt x 240.43854pt.
-<figures/TsmalldtBigt.jpg, id=99, 702.625pt x 526.96875pt>
+<figures/TsmalldtBigt.jpg, id=122, 702.625pt x 526.96875pt>
 File: figures/TsmalldtBigt.jpg Graphic file (type jpg)
 <use figures/TsmalldtBigt.jpg>
-Package pdftex.def Info: figures/TsmalldtBigt.jpg  used on input line 61.
+Package pdftex.def Info: figures/TsmalldtBigt.jpg  used on input line 69.
 (pdftex.def)             Requested size: 320.57364pt x 240.43854pt.
-[3
+[4
 
 
 pdfTeX warning (ext4): destination with the same identifier (name{figure.2.1}) 
 has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.67 
+l.75 
      
 pdfTeX warning (ext4): destination with the same identifier (name{figure.2.2}) 
 has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.67 
-      <./figures/TsmalldtBigtErr.jpg> <./figures/TsmalldtBigt.jpg>]) [4]
+l.75 
+      <./figures/TsmalldtBigtErr.jpg> <./figures/TsmalldtBigt.jpg>]) [5]
 (thesis.aux (titlepage.aux) (text/contentAss2.aux))
  ***********
 LaTeX2e <2023-06-01> patch level 1
@@ -1708,13 +1707,13 @@ Package logreq Info: Writing requests to 'thesis.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 35673 strings out of 474717
- 687935 string characters out of 5740830
- 2055036 words of memory out of 5000000
- 57082 multiletter control sequences out of 15000+600000
+ 35705 strings out of 474717
+ 688572 string characters out of 5740830
+ 2109036 words of memory out of 5000000
+ 57091 multiletter control sequences out of 15000+600000
  622040 words of font info for 84 fonts, out of 8000000 for 9000
  1143 hyphenation exceptions out of 8191
- 122i,11n,121p,10904b,1891s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 122i,12n,121p,10904b,2220s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/Vinzenz Götz/Desktop/Uni/Tex/miktex/texmfs/install/fonts/type1/pub
 lic/lm/lmbx12.pfb><C:/Users/Vinzenz Götz/Desktop/Uni/Tex/miktex/texmfs/install
 /fonts/type1/public/lm/lmmi10.pfb><C:/Users/Vinzenz Götz/Desktop/Uni/Tex/mikte
@@ -1729,9 +1728,9 @@ Uni/Tex/miktex/texmfs/install/fonts/type1/public/lm/lmtt9.pfb><C:/Users/Vinzenz
  Götz/Desktop/Uni/Tex/miktex/texmfs/install/fonts/type1/urw/palatino/uplb8a.pf
 b><C:/Users/Vinzenz Götz/Desktop/Uni/Tex/miktex/texmfs/install/fonts/type1/urw
 /palatino/uplr8a.pfb>
-Output written on thesis.pdf (7 pages, 401336 bytes).
+Output written on thesis.pdf (8 pages, 410630 bytes).
 PDF statistics:
- 209 PDF objects out of 1000 (max. 8388607)
- 50 named destinations out of 1000 (max. 500000)
- 100 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 238 PDF objects out of 1000 (max. 8388607)
+ 68 named destinations out of 1000 (max. 500000)
+ 108 words of extra memory for PDF output out of 10000 (max. 10000000)
 

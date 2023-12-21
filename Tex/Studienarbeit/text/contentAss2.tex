@@ -5,6 +5,7 @@ The biggest changes in are:
 
 \begin{itemize}
 \item A time loop to solve the system of linear equations for each time step
+\item Code to consider the influence of $\Delta t$
 \item Inclusion of a surface plot of the Temperature over time and length
 \item Plot of a residual
 \item Consideration of $\Delta t$ and density in the source terms
@@ -17,6 +18,14 @@ The biggest changes in are:
 
 As seen in \autoref{lst:timeLoop}, a further for loop was implemented in which the system of linear equations is solved in line 2. In line 3, the Temperature over the length is written into the j-th row of T\_time, the source terms are recalculated based on the new Temperature in each cell in line 4 and in line 5 the j-th entry of the residual vector is calculated. Line 6 saves the last Temperature for the next calculation of the residual.
 
+\section{Comparison of time step size}
+\lstinputlisting[language=Matlab, firstline=48, lastline=55, caption={Iteration over different time step sizes}, label=lst:timeStepLoop]{code/mainTimeComp.m}
+
+To compare the influence of the time step size on the transient simulation, a further for loop has been added around the whole code to iterate over different time step sizes as seen in \autoref{lst:timeStepLoop}. Here, a three dimensional array is initialized to hold physical time and the change in Temperature per second on the last point for each time step size. In line 7, the loop over all time step sizes is started and in line 8, the amount of time steps needed to reach the specified end time is calculated.
+
+\lstinputlisting[language=Matlab, firstline=142, lastline=147, caption={Comparison of the residual for different time step sizes}, label=lst:timeStepComp]{code/mainTimeComp.m}
+
+In \autoref{lst:timeStepComp} the timeRes array is filled with the physical time and the residual divided by the time step to gain a comparison of the temperature change per time and thus decide which time step is sufficiently small to guarantee that the temperature progression is physically correct.
 
 %
 \section{Surface plot of T}

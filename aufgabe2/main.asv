@@ -87,6 +87,12 @@ for t = 1:length(dt)
         o = ones(j,1).*x;
         p = ones(1,meshSize(i)).*(1:1:timesteps)';
     
+        % plot residual
+        figure(4)
+        grid
+        semilogy(abs(res))
+        hold on
+    
         % shift the Temperature and x vectors around to reflect first and last
         % point on the face of the fin
         T_p = T(end);
@@ -98,64 +104,48 @@ for t = 1:length(dt)
         x(1) = 0;
         x(end+1) = L;
         
-        if t == 3
-            %plot T over x for chosen time step, reason for selection of dt is
-            %explained in the report
-            figure(1)
-            plot(x,T,lStyle(i),LineWidth=1.5);
-            hold on
-            
-            % plot residual
-            figure(4)
-            grid
-            semilogy(abs(res))
-            hold on
-            
-            %calculate analytical solution for given mesh size
-            anaSol = gam.*exp(mprime.*x)-gam.*a./bprime.*exp(-mprime*x)+T_ar;
-            
-            %fill error vector
-            errRel(i) = abs(anaSol(end)-T(end))/abs(anaSol(end));
+        %plot T over x
+        figure(1)
+        plot(x,T,lStyle(i),LineWidth=1.5);
+        hold on
+    
         
-            errLen = abs(anaSol-T')./anaSol;
-            figure(2)
-            plot(x, errLen,lStyle(i),LineWidth=1.5)
-            hold on
-            
-            ltext(i) = strcat("Mesh elements = ", num2str(meshSize(i)));
-            end
-    end
-
-    if t == 3
-        % plot surface of T,t and x
-        % do this only when the third entry of dt is reached for balancing
-        % between plotting performance and time step size
-        figure(5)
-        surf(o,p,T_time);
-        ylim([0 200]);
-        ylabel("Time [s]");
-        xlabel("x [m]");
-        zlabel("T [°C]");
+        %calculate analytical solution for given mesh size
+        anaSol = gam.*exp(mprime.*x)-gam.*a./bprime.*exp(-mprime*x)+T_ar;
+        
+        %fill error vector
+        errRel(i) = abs(anaSol(end)-T(end))/abs(anaSol(end));
+    
+        errLen = abs(anaSol-T')./anaSol;
+        figure(2)
+        plot(x, errLen,lStyle(i),LineWidth=1.5)
+        hold on
+        
+        ltext(i) = strcat("Mesh elements = ", num2str(meshSize(i)));
+    
     end
 
     % giving res to the time step comparison vector
-    timeRes(t, 1:length(res), 2) = abs(res)/dt(t);
+    timeRes(t, 1:length(res), 2) = abs(res);
     timeRes(t, 1:length(res), 1) = dt(t):dt(t):endTime;
     
     figure(6)
     semilogy(timeRes(t, :, 1), timeRes(t, :, 2))
     hold on
-    
+    legend(strcat(string(num2cell(dt))," s"))
+    xlabel("residual [K]")
+    ylabel("time [s]")
+    title("Comparison of the residual on the last point with different time steps")
 
 end
 
-% make figure 6 looking acceptable
-figure(6)
-grid
-legend(strcat(string(num2cell(dt))," s"))
-xlabel("residual [K/s]")
-ylabel("time [s]")
-title(sprintf('Comparison of the residual on the last point with different time steps with %2.0d mesh elements', meshSize(end)))
+% plot surface of T,t and x
+figure(5)
+surf(o,p,T_time);
+ylim([0 200]);
+ylabel("Time [s]");
+xlabel("x [m]");
+zlabel("T [°C]");
 
 %output of temperature at the end of the fin
 fprintf('The temperature at the tip of the fin T_f = %.3f °C for a meshsize of %d elements \n', T_f, meshSize(end))
